@@ -156,7 +156,7 @@ Individual sports are preferred especially wrestling. They are successful in int
 
 Nevertheless, football is becoming more and more popular. Their most successful team is Qarabağ FK.
 
-Formula 1 note: Many people rent their apartments and go away from Baku. They say it is worth seeing it, but probably not every year. The best time to buy a ticket is at the last minute. It is prefered to buy standing (so that you can move to other places) with a group (it should be easier to enter places and activities which have capacity limits).
+Formula 1 note: Many people rent their apartments and go away from Baku. They say it is worth seeing it, but probably not every year. ~~The best time to buy a ticket is at the last minute.~~ It is prefered to buy standing (so that you can move to other places) with a group (it should be easier to enter places and activities which have capacity limits).
 
 ### Islam
 
@@ -221,7 +221,7 @@ Comparing Bolt and Uber, Bolt is cheaper and more frequent, even though you will
 
 You can also use Bolt to go outside Baku for a good price.
 
-Airport note: If you order Bolt to the airport from Baku and you will try to pay by card, you may be rejected multiple times. Maybe because it has no economic sense for drivers. I was even once took a few kilometers and then he wanted to cancel and try to make me pay by cash.
+Airport note: If you order Bolt to the airport from Baku and you will try to pay by card, you may be rejected multiple times. Maybe because it has no economic sense for drivers. I was even took a few kilometers once and then a driver wanted to cancel it and tried to make me pay by cash.
 
 ### Public transport
 
