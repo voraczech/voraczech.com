@@ -12,8 +12,16 @@ export default defineNuxtConfig({
   ],
 
   content: {
-    locales: ["en", "cs"],
-    markdown: { remarkPlugins: ["remark-reading-time"] },
+    locales: ["en-GB", "cs"],
+    markdown: {
+      remarkPlugins: ["remark-reading-time"],
+      rehypePlugins: [
+        [
+          "rehype-external-links",
+          { target: "_blank", rel: ["nofollow", "noopener", "noreferrer"] },
+        ],
+      ],
+    },
   },
 
   googleFonts: {

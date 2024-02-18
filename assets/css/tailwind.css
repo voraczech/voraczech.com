@@ -7,6 +7,10 @@ html {
   font-size: 20px;
 }
 
+img {
+  @apply rounded;
+}
+
 article h1:has(a),
 article h2:has(a),
 article h3:has(a),

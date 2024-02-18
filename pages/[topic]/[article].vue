@@ -1,5 +1,5 @@
 <template>
-  <article class="prose">
+  <article class="prose prose-v">
     <ContentDoc v-slot="{ doc }">
       <h1
         class="text-2xl font-bold font-[serif] mb-0 text-v-900"

@@ -7,16 +7,8 @@
             v-for="article in list"
             :key="article._path"
             :to="article._path"
-            class="text-decoration-none flex gap-8"
+            class="text-decoration-none flex flex-col sm:flex-row-reverse gap-4 sm:gap-8"
           >
-            <NuxtImg
-              v-if="article.image"
-              :src="article.image.src"
-              :alt="article.image.alt"
-              width="200"
-              class="rounded"
-              :style="{ 'view-transition-name': `img` }"
-            />
             <div>
               <div class="text-v-700 text-sm">
                 <h2
@@ -35,6 +27,13 @@
                 </div>
               </div>
             </div>
+            <NuxtImg
+              v-if="article.image"
+              :src="article.image.src"
+              :alt="article.image.alt"
+              sizes="100vw sm:250px"
+              :style="{ 'view-transition-name': `img` }"
+            />
           </NuxtLink>
         </div>
       </template>
@@ -48,7 +47,7 @@
 <script setup>
 const getReadableDate = (dateString) => {
   const date = new Date(dateString)
-  return date.toLocaleDateString({
+  return date.toLocaleDateString("en-GB", {
     year: "numeric",
     month: "short",
     day: "numeric",
