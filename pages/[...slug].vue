@@ -31,6 +31,7 @@
               v-if="article.image"
               :src="article.image.src"
               :alt="article.image.alt"
+              width="200"
               sizes="100vw sm:250px"
               :style="{ 'view-transition-name': `img` }"
             />
