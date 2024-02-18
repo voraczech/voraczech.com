@@ -31,8 +31,8 @@
               v-if="article.image"
               :src="article.image.src"
               :alt="article.image.alt"
-              width="200"
               sizes="100vw sm:250px"
+              densities="x1 x2"
               :style="{ 'view-transition-name': `img` }"
             />
           </NuxtLink>
