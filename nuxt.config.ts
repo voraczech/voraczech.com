@@ -8,16 +8,8 @@ export default defineNuxtConfig({
     "@nuxtjs/tailwindcss",
     "@nuxt/content",
     "@nuxtjs/google-fonts",
-    "@nuxtjs/seo",
     "@nuxt/image",
   ],
-
-  site: {
-    url: "https://voraczech.com",
-    name: "voraczech",
-    description: "Irrational being trying to be rational!",
-    titleSeparator: "·",
-  },
 
   ogImage: {
     enabled: false,
