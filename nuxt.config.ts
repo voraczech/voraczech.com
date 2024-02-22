@@ -5,10 +5,11 @@ export default defineNuxtConfig({
 
   devtools: { enabled: true },
   modules: [
+    "@nuxtjs/tailwindcss",
     "@nuxt/content",
     "@nuxtjs/google-fonts",
+    "@nuxtjs/seo",
     "@nuxt/image",
-    "@nuxtjs/tailwindcss",
   ],
 
   content: {
