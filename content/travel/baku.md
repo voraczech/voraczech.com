@@ -4,10 +4,10 @@ createdAt: 2022-04-05
 image:
   src: /baku/flame.jpg
   alt: Flame Towers, Baku
+aliases:
 ---
 
 A simple list of tips you may use before/during your stay in Baku.
-
 ## Money
 
 ### Currency
