@@ -43,4 +43,31 @@ const getReadableDate = (dateString) => {
     day: "numeric",
   })
 }
+
+useHead({
+  htmlAttrs: {
+    lang: "en",
+  },
+  link: [
+    {
+      rel: "icon",
+      type: "image/png",
+      href: "baku/flame.jpg",
+    },
+  ],
+})
+
+useSeoMeta({
+  // ogTitle: this.useHead.title,
+  // ogDescription: this.useHead.meta.find((meta) => meta.name === "description")
+  //   .content,
+  // ogImage: this.useHead.link.find((link) => link.rel === "icon").href,
+  // ogUrl: this.useHead.link.find((link) => link.rel === "canonical").href,
+  // twitterTitle: this.useHead.title,
+  // twitterDescription: this.useHead.meta.find(
+  //   (meta) => meta.name === "description"
+  // ).content,
+  // twitterImage: this.useHead.link.find((link) => link.rel === "icon").href,
+  twitterCard: "summary",
+})
 </script>
