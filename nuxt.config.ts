@@ -12,6 +12,17 @@ export default defineNuxtConfig({
     "@nuxt/image",
   ],
 
+  site: {
+    url: "https://voraczech.com",
+    name: "voraczech",
+    description: "Irrational being trying to be rational!",
+    titleSeparator: "·",
+  },
+
+  ogImage: {
+    enabled: false,
+  },
+
   content: {
     locales: ["en-GB", "cs"],
     markdown: {
