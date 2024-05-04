@@ -7,7 +7,7 @@
             v-for="article in list"
             :key="article._path"
             :to="article._path"
-            class="text-decoration-none flex flex-col sm:flex-row-reverse gap-4 sm:gap-8"
+            class="text-decoration-none flex flex-col sm:flex-row-reverse gap-4 sm:gap-6"
           >
             <div>
               <div class="text-v-700 text-sm">
@@ -31,9 +31,12 @@
               v-if="article.image"
               :src="article.image.src"
               :alt="article.image.alt"
-              sizes="100vw sm:250px"
+              sizes="100vw sm:260px"
+              class="object-cover aspect-video"
               densities="x1 x2"
-              :style="{ 'view-transition-name': `img` }"
+              :style="{
+                'view-transition-name': `${getArticleId(article._path)}-img`,
+              }"
             />
           </NuxtLink>
         </div>
@@ -45,8 +48,9 @@
   </main>
 </template>
 
-<script setup>
-const getReadableDate = (dateString) => {
+<script setup lang="ts">
+import { getArticleId } from "~/assets/ts/functions"
+const getReadableDate = (dateString: string) => {
   const date = new Date(dateString)
   return date.toLocaleDateString("en-GB", {
     year: "numeric",

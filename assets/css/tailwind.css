@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 html {
-  @apply bg-v-500 font-serif scroll-smooth text-v-900;
+  @apply bg-v-50 font-serif scroll-smooth text-v-900;
   font-size: 20px;
 }
 

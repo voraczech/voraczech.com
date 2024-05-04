@@ -35,3 +35,19 @@
     0px -1px 0px rgba(0, 0, 0, 0.7);
 }
 </style>
+
+<script setup>
+useHead({
+  meta: [{ name: "viewport", content: "width=device-width, initial-scale=1" }],
+  link: [{ rel: "icon", type: "image/png", href: "/favicon.ico" }],
+  htmlAttrs: {
+    lang: "en",
+  },
+})
+
+useSeoMeta({
+  ogSiteName: "voraczech.com",
+  ogType: "website",
+  twitterCard: "summary_large_image",
+})
+</script>

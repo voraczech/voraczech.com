@@ -2,6 +2,7 @@ export default defineNuxtConfig({
   experimental: {
     viewTransition: true,
   },
+  ssr: true,
 
   devtools: { enabled: true },
   modules: [
@@ -10,10 +11,6 @@ export default defineNuxtConfig({
     "@nuxtjs/google-fonts",
     "@nuxt/image",
   ],
-
-  ogImage: {
-    enabled: false,
-  },
 
   content: {
     locales: ["en-GB", "cs"],

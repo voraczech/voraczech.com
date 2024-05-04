@@ -19,8 +19,8 @@
         :src="doc.image.src"
         :alt="doc.image.alt"
         width="100%"
-        class="rounded-md my-6"
-        :style="{ 'view-transition-name': `img` }"
+        class="rounded-md my-6 mx-auto"
+        :style="{ 'view-transition-name': `${getArticleId(doc._path)}-img` }"
       />
       <!-- <div v-if="doc.body?.toc?.links">
         <ul>
@@ -34,10 +34,11 @@
   </article>
 </template>
 
-<script setup>
-const getReadableDate = (dateString) => {
+<script setup lang="ts">
+import { getArticleId } from "~/assets/ts/functions"
+const getReadableDate = (dateString: string) => {
   const date = new Date(dateString)
-  return date.toLocaleDateString({
+  return date.toLocaleDateString("en-GB", {
     year: "numeric",
     month: "short",
     day: "numeric",
