@@ -95,6 +95,11 @@ useHead({
       name: "twitter:image:alt",
       content: url + doc.value?.image?.alt,
     },
+    {
+      name: "author",
+      content: "voraczech",
+    },
+    { name: "article:published_time", content: doc.value?.createdAt },
   ],
   link: [
     {

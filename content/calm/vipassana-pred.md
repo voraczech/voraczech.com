@@ -1,7 +1,6 @@
 ---
 title: "10 dní ničeho: Vipassana, umění žít. Díl první: Před"
 createdAt: 2024-05-07
-publishedAt: 2024-05-07
 image:
   src: /vipassana/1.png
   alt: Vipassana
@@ -9,7 +8,6 @@ language: cs
 tags:
   - vipassana
   - meditace
-author: "voraczech"
 ---
 
 Jak jsem se během svátků dobrovolně odstřihl od blízkých, žil na dvou jídlech denně, vstával ve čtyři a s nikým nemluvil. Díl první.
