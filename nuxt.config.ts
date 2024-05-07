@@ -13,6 +13,7 @@ export default defineNuxtConfig({
   ],
 
   content: {
+    contentHead: false,
     locales: ["en-GB", "cs"],
     markdown: {
       remarkPlugins: ["remark-reading-time"],
