@@ -17,7 +17,7 @@ module.exports = {
         },
       },
       fontFamily: {
-        serif: ["PT Serif", "serif"],
+        serif: ["Noto Serif", "serif"],
       },
       typography: ({ theme }) => ({
         DEFAULT: {

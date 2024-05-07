@@ -2,8 +2,10 @@
   <article class="prose prose-v">
     <ContentDoc v-slot="{ doc }">
       <h1
-        class="text-2xl font-bold font-[serif] mb-0 text-v-900"
-        style="view-transition-name: header"
+        class="text-2xl font-bold font-serif mb-0 text-v-900 tracking-tight"
+        :style="{
+          'view-transition-name': `${getArticleId(doc._path)}-header`,
+        }"
       >
         {{ doc.title }}
       </h1>
@@ -44,17 +46,4 @@ const getReadableDate = (dateString: string) => {
     day: "numeric",
   })
 }
-
-useHead({
-  htmlAttrs: {
-    lang: "en",
-  },
-  link: [
-    {
-      rel: "icon",
-      type: "image/png",
-      href: "baku/flame.jpg",
-    },
-  ],
-})
 </script>
