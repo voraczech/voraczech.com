@@ -46,4 +46,57 @@ const getReadableDate = (dateString: string) => {
     day: "numeric",
   })
 }
+
+const route = useRoute()
+const { data: doc } = await useAsyncData(route.path, async () => {
+  return await queryContent("").where({ _path: route.path }).findOne()
+})
+
+const url = "https://voraczech.com"
+const postLink = url + doc.value?._path
+
+useHead({
+  title: doc.value?.title,
+  meta: [
+    { key: "og:title", name: "og:title", content: doc.value?.title },
+    {
+      key: "og:description",
+      name: "og:description",
+      content: doc.value?.description,
+    },
+    {
+      key: "description",
+      name: "description",
+      content: doc.value?.description,
+    },
+    { key: "og:type", name: "og:type", content: "article" },
+    {
+      key: "og:url",
+      name: "og:url",
+      content: postLink,
+    },
+    { name: "twitter:text:title", content: doc.value?.title },
+    { name: "twitter:card", content: "summary" },
+    {
+      name: "article:article:tag",
+      content: doc.value?.tags ? doc.value.tags?.toString() : "",
+    },
+    {
+      key: "og:image",
+      name: "og:image",
+      content: url + doc.value?.image?.src,
+    },
+    { name: "og:image:alt", content: doc.value?.title },
+    {
+      name: "twitter:image",
+      content: url + doc.value?.image?.src,
+    },
+  ],
+  link: [
+    {
+      rel: "canonical",
+      href: postLink,
+    },
+  ],
+})
 </script>

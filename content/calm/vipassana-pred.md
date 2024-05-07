@@ -4,8 +4,10 @@ createdAt: 2024-05-07
 image:
   src: /vipassana/1.png
   alt: Vipassana
-# aliases:
 language: cs
+tags:
+  - vipassana
+  - meditace
 ---
 
 Jak jsem se během svátků dobrovolně odstřihl od blízkých, žil na dvou jídlech denně, vstával ve čtyři a s nikým nemluvil. Díl první.
