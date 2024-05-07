@@ -82,14 +82,18 @@ useHead({
       content: doc.value?.tags ? doc.value.tags?.toString() : "",
     },
     {
-      key: "og:image",
-      name: "og:image",
+      property: "og:image",
+      name: "image",
       content: url + doc.value?.image?.src,
     },
     { name: "og:image:alt", content: doc.value?.title },
     {
       name: "twitter:image",
       content: url + doc.value?.image?.src,
+    },
+    {
+      name: "twitter:image:alt",
+      content: url + doc.value?.image?.alt,
     },
   ],
   link: [
