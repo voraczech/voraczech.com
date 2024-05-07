@@ -1,13 +1,15 @@
 ---
 title: Being in Baku, Azerbaijan (2022)
 createdAt: 2022-04-05
+publishedAt: 2022-04-05
 image:
   src: /baku/flame.jpg
   alt: Flame Towers, Baku
-aliases:
+author: "voraczech"
 ---
 
 A simple list of tips you may use before/during your stay in Baku.
+
 ## Money
 
 ### Currency
