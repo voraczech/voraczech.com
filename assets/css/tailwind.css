@@ -20,6 +20,15 @@ article h6:has(a) {
   position: relative;
 }
 
+article.prose h1 a,
+article.prose h2 a,
+article.prose h3 a,
+article.prose h4 a,
+article.prose h5 a,
+article.prose h6 a {
+  font-weight: inherit;
+}
+
 article h1:has(a)::before,
 article h2:has(a)::before,
 article h3:has(a)::before,
@@ -38,4 +47,28 @@ article h4:has(a:hover)::before,
 article h5:has(a:hover)::before,
 article h6:has(a:hover)::before {
   @apply opacity-100;
+}
+
+.prose
+  :where(blockquote p:first-of-type):not(
+    :where([class~="not-prose"], [class~="not-prose"] *)
+  )::before,
+.prose
+  :where(blockquote p:last-of-type):not(
+    :where([class~="not-prose"], [class~="not-prose"] *)
+  )::after {
+  content: none;
+}
+
+.prose :where(h5):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  color: var(--tw-prose-headings);
+  font-weight: 500;
+  margin-top: 1em;
+  margin-bottom: 0.25em;
+  line-height: 1.5;
+}
+
+.prose
+  :where(blockquote):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  @apply font-normal;
 }

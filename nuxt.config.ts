@@ -27,7 +27,8 @@ export default defineNuxtConfig({
 
   googleFonts: {
     families: {
-      "PT Serif": [400, 700],
+      // "PT Serif": [400, 700],
+      "Noto Serif": [400, 500, 600, 700],
     },
   },
 

@@ -4,7 +4,7 @@
       <header class="flex items-baseline justify-between py-8">
         <NuxtLink
           to="/"
-          class="text-v-600 v-shadow text-2xl font-bold font-[serif]"
+          class="text-v-600 v-shadow text-2xl font-bold font-serif"
         >
           <span class="sm:hidden">v;</span>
           <span class="hidden sm:inline-block">voraczech;</span>
@@ -43,6 +43,7 @@ useHead({
   htmlAttrs: {
     lang: "en",
   },
+  title: "voraczech;",
 })
 
 useSeoMeta({

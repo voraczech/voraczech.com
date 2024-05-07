@@ -13,7 +13,11 @@
               <div class="text-v-700 text-sm">
                 <h2
                   class="font-semibold text-v-900"
-                  style="view-transition-name: header"
+                  :style="{
+                    'view-transition-name': `${getArticleId(
+                      article._path
+                    )}-header`,
+                  }"
                 >
                   {{ article.title }}
                 </h2>
