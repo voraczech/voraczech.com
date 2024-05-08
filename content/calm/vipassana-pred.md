@@ -1,6 +1,7 @@
 ---
 title: "10 dní ničeho: Vipassana, umění žít. Díl první: Před"
 createdAt: 2024-05-07
+updatedAt: 2024-05-08
 image:
   src: /vipassana/1.png
   alt: Vipassana
@@ -73,6 +74,14 @@ Základním pilířem je denní rozvrh. Každý den je stejný:
 | 20:15 - 21:00 | Skupinová meditace v hale                                    |
 | 21:00 - 21:30 | Otázky na učitele v hale                                     |
 | 21:30         | Odchod na pokoje - zhasnutí světel                           |
+
+Sečteno podtrženo:
+
+- budíček ve 4
+- přes 10 hodin meditace
+- 2 jídla (vegetariánská)
+
+Legrace.
 
 #### Pravidla
 

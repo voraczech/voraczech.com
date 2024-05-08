@@ -1,6 +1,7 @@
 ---
 title: Being in Baku, Azerbaijan (2022)
 createdAt: 2022-04-05
+updatedAt: 2024-05-08
 image:
   src: /baku/flame.jpg
   alt: Flame Towers, Baku
@@ -49,6 +50,8 @@ Outside, but near Baku:
 
 - Yanardag — a place with a fire going from the rock, you can take a Bolt there
 - Mud volcanos + Qabala (petroglyphs) = Close to each other, good for a one-day trip
+
+I recommend using Free Walking Guide for example [this](https://bakufreetour.com/) one. They are free, but you should tip them at the end.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*m_jX-02dOCaOkFfoZNXnkA.jpeg)
 
@@ -160,7 +163,7 @@ Formula 1 note: Many people rent their apartments and go away from Baku. They sa
 
 ### Islam
 
-Even though almost everyone is Muslim, you cannot tell if you look at Baku. Yes, there are mosques, but not many people pray and their clothes are “normal” (European way normal). I’ve seen only a few women having their faces covered here (excluding face masks), if they are covered, they have a scarf around their head mostly.
+Even though almost everyone is Muslim, you cannot tell if you look at Baku. Yes, there are mosques, but not many people pray and their clothes are “normal” (European way normal). I’ve seen only a few women having their faces covered here (excluding face masks), when they are covered, they have a scarf around their head mostly.
 
 ### Things not to say
 
@@ -242,6 +245,8 @@ Mud vulcanos —it is possible to bath there, rather during summer
 ## Other
 
 Visa is $22. Can be paid for at the airport. You will receive something that looks like a receipt — it is a visa, do not lose it.
+
+If you have an Armenian visa (stamp) in your passport I highly recommend to get a new passport. Many (European) countries allow to have multiple valid passport from the same country. In case you have such visa, most probably they will let you in, but be prepare for "fun" (investigation).
 
 Baku itself is a safe place. I would even say safer than many European cities.
 
