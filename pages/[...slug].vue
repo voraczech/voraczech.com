@@ -4,7 +4,7 @@
       <template #default="{ list }">
         <div class="flex flex-col gap-8">
           <NuxtLink
-            v-for="article in list"
+            v-for="article in orderList(list)"
             :key="article._path"
             :to="article._path"
             class="text-decoration-none flex flex-col sm:flex-row-reverse gap-4 sm:gap-6"
@@ -60,6 +60,12 @@ const getReadableDate = (dateString: string) => {
     year: "numeric",
     month: "short",
     day: "numeric",
+  })
+}
+
+const orderList = (list: any[]) => {
+  return list.sort((a, b) => {
+    return new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime()
   })
 }
 </script>
