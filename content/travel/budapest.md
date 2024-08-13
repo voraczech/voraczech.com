@@ -109,16 +109,16 @@ Free walking tour may be a good idea. I have not tried it but it makes sense her
 
 ## Sources
 
-- [Hungarian Parliament Building tickets](<[https://jegymester.hu/event-host/900/parlament](https://jegymester.hu/event-host/900/parlament)>)
+- [Hungarian Parliament Building tickets](https://jegymester.hu/event-host/900/parlament)
   - Yes, this is the official sit. You need to visit a ticket office a few minutes before the start and they will print a ticket (at no additional cost).
-- [A boat I took](<[https://legenda.hu/en/duna-bella](https://legenda.hu/en/duna-bella)>)
+- [A boat I took](https://legenda.hu/en/duna-bella)
   - You can get off on an island, take a walk and then get on the next boat to get back. €15 (paid online in euros).
-- [Treaty of Trianon](<[https://en.wikipedia.org/wiki/Treaty_of_Trianon](https://en.wikipedia.org/wiki/Treaty_of_Trianon)>)
-- [Lángosom](<[https://www.google.com/maps/place/L%C3%A1ngosom/@47.4994046,19.0664479,19z/data=!3m1!4b1!4m6!3m5!1s0x4741ddccc99e4489:0x38a58fa780e4a435!8m2!3d47.4994037!4d19.0670916!16s%2Fg%2F11jxv7y1_0?entry=ttu](https://www.google.com/maps/place/L%C3%A1ngosom/@47.4994046,19.0664479,19z/data=!3m1!4b1!4m6!3m5!1s0x4741ddccc99e4489:0x38a58fa780e4a435!8m2!3d47.4994037!4d19.0670916!16s%2Fg%2F11jxv7y1_0?entry=ttu)>)
-- [Chimney cake history](<[https://www.youtube.com/watch?v=MPNEFr6O-Dw](https://www.youtube.com/watch?v=MPNEFr6O-Dw)>)
-- [The Mézga Family / Smolíkovi](<[https://en.wikipedia.org/wiki/The_M%C3%A9zga_Family](https://en.wikipedia.org/wiki/The_M%C3%A9zga_Family)>)
-  - [Theme song (in Czech)](<[https://www.youtube.com/watch?v=OBOV1hHDp5U](https://www.youtube.com/watch?v=OBOV1hHDp5U)>)
-- [Dostihy a sázky](<[https://www.mojedino.cz/dostihy-a-sazky.html](https://www.mojedino.cz/dostihy-a-sazky.html)>)
+- [Treaty of Trianon](https://en.wikipedia.org/wiki/Treaty_of_Trianon)
+- [Lángosom](https://www.google.com/maps/place/L%C3%A1ngosom/@47.4994046,19.0664479,19z/data=!3m1!4b1!4m6!3m5!1s0x4741ddccc99e4489:0x38a58fa780e4a435!8m2!3d47.4994037!4d19.0670916!16s%2Fg%2F11jxv7y1_0?entry=ttu)
+- [Chimney cake history](https://www.youtube.com/watch?v=MPNEFr6O-Dw)
+- [The Mézga Family / Smolíkovi](https://en.wikipedia.org/wiki/The_M%C3%A9zga_Family)
+  - [Theme song (in Czech)](https://www.youtube.com/watch?v=OBOV1hHDp5U)
+- [Dostihy a sázky](https://www.mojedino.cz/dostihy-a-sazky.html)
 
 ---
 
