@@ -1,5 +1,5 @@
 ---
-title: Budapest - Bits of travel tips (2024)
+title: Budapest. Bits of travel tips (2024)
 createdAt: 2024-08-13
 updatedAt: 2024-08-13
 image:
@@ -34,7 +34,7 @@ But in general you do not need to worry, it is pretty same even for a girl alone
 
 - Országház (Hungarian Parliament Building)
 - Halászbástya + Budavári Palota
-- See both and use legs for transportation
+  - See both at once, use legs as a transportation
 - House of Terror
 - The most recommended, pretty good
 - Opera house
@@ -72,7 +72,7 @@ Consider this list also as a "words to know" part in this post.
 - Paprika
   - Bought is as a souvenir for parents at Nagycsarnok. They were disappointment I did not take more.
 - Asian food
-  - For example Bibimbap Korean Restaurant but many others
+  - For example Bibimbap Korean Restaurant and many others
 
 ![Lángos](/budapest/langos.jpg)
 
