@@ -18,7 +18,7 @@ You want to visit Buda. You want to visit Pest. I have a few thoughts from there
 
 ## To do before your trip
 
-The only thing you want to do in advance is to buy a ticket to the Hungarian Parliament Building (link below). It is sold out for days in advance. Everything else can be done on spot.
+The only thing you want to do in advance is to buy a ticket to the Hungarian Parliament Building (link below). It is sold out for days. Everything else can be done on spot.
 
 ## Places
 
