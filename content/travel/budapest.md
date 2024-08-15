@@ -30,7 +30,7 @@ The city itself is wonderful. There were many "wow" moments, monuments are breat
 
 There are some cons though. You can see poverty on the streets. Some buildings needs to be refurbished (sometimes it is nice, you can call it hipster). As well as some people.
 
-But in general you do not need to worry, it is pretty same even for a girl alone. I heard that 8th district can be dangerous but it is not a no-go zone, pay attention there.
+But in general you do not need to worry, it is pretty safe even for a girl alone. I heard that 8th district can be dangerous but it is not a no-go zone, pay attention there.
 
 ![Parliament](/budapest/parliament-in.jpg)
 
@@ -76,7 +76,7 @@ Consider this list also as a "words to know" part in this post.
 - Salami
   - You can order it on lángos.
 - Paprika
-  - Bought is as a souvenir for parents at Nagycsarnok. They were disappointment I did not take more.
+  - Bought it as a souvenir for parents at Nagycsarnok. They were disappointed I did not take more.
 - Asian food
   - For example Bibimbap Korean Restaurant and many others
 
