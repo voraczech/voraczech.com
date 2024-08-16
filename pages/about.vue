@@ -14,7 +14,8 @@
         href="https://github.com/voraczech/voraczech.com"
         target="_blank"
         >open source</NuxtLink
-      >. Thanks, bye.
+      >. I publish unfinished posts, everything is a draft. I re-edit,
+      especially for the first few days after creation date. Thanks, bye.
     </p>
   </div>
 </template>
