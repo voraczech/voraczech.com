@@ -1,10 +1,10 @@
 ---
 title: "Gruzie (Sakartvelo): Kulturní rozdíly"
 createdAt: 2024-08-15
-updatedAt: 2024-08-15
+updatedAt: 2024-08-16
 image:
-  src: /sakartvelo/letters-meme.jpg
-  alt: Kulturní rozdíly, písmo v Gruzii
+  src: /sakartvelo/difference.jpg
+  alt: Kulturní rozdíly, Rustaveli
 language: en
 tags:
   - sakartvelo
@@ -33,6 +33,8 @@ Nezdraví se tu tak často. Ani neprosí. Vlastně ani neděkuje. Ale dělejte t
 Často na sebe řvou, ale nejde o hádku. Nejednou se mi stalo že mě po křičení a bodavém pohledu do minuty poplácali Gruzínci po zádech na důkaz, že je vše v pohodě. Stačí počkat, vychladnou.
 
 Některá slova berou z ruštiny. Když se hádají, je prý někdy nejlepším argumentem nejkvětnatější nadávka v ruštině.
+
+![Gruzínské písmo meme](/sakartvelo/letters-meme.jpg)
 
 ### Chování
 
@@ -84,7 +86,11 @@ Nevím proč, ale nosí se to. Je to tak běžné, že jsem s tím viděl mural.
 
 #### Modlení
 
-Velký vliv církve je asi očekáván, zaskočení může nastat, když se všichni Gruzínci začnou pokřžovávat v maršrutce (takový kouzelný minibus) - ač to často koreluje s kvalitou jízdy
+Velký vliv církve je asi očekáván, zaskočení může nastat, když se všichni Gruzínci začnou pokřžovávat v maršrutce (takový kouzelný minibus) - ač to často koreluje s kvalitou jízdy.
+
+#### Rozlévání vody
+
+Docela často vylévají z flašky vodu na chodník. Hádám na ochlazení.
 
 #### Jízda
 

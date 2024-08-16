@@ -21,6 +21,7 @@
         :src="doc.image.src"
         :alt="doc.image.alt"
         width="100%"
+        sizes="320px sm:450px md:512px lg:740px"
         class="rounded-md my-6 mx-auto"
         :style="{ 'view-transition-name': `${getArticleId(doc._path)}-img` }"
       />
