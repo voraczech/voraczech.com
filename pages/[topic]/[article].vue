@@ -85,7 +85,7 @@ useHead({
     {
       property: "og:image",
       name: "image",
-      content: url + doc.value?.image?.src,
+      content: url + "_ipx/w_512/" + doc.value?.image?.src,
     },
     { name: "og:image:alt", content: doc.value?.title },
     {
