@@ -34,7 +34,7 @@ Nezdraví se tu tak často. Ani neprosí. Vlastně ani neděkuje. Ale dělejte t
 
 Některá slova berou z ruštiny. Když se hádají, je prý někdy nejlepším argumentem nejkvětnatější nadávka v ruštině.
 
-![Gruzínské písmo meme](/sakartvelo/letters-meme.jpg)
+:image{src="/sakartvelo/letters-meme.jpg" alt="Gruzínské písmo meme"}
 
 ### Chování
 
@@ -82,7 +82,7 @@ Nižší práh snášení deště. Může se hodit, pokud chcete někam, kde je 
 
 Nevím proč, ale nosí se to. Je to tak běžné, že jsem s tím viděl mural.
 
-![Prstýnky na pravé ruce](/sakartvelo/right-hand-rings.jpg)
+:image{src="/sakartvelo/right-hand-rings.jpg" alt="Prstýnky na pravé ruce"}
 
 #### Modlení
 
@@ -116,7 +116,7 @@ Nejsou nebezpeční, vím jen o dvou případech, kdy pes kousl a v obou to byla
 
 Často jsou naopak milí a přítulní, při túrách jdou s vámi klidně hodiny. A na vesnicích jsou často volně i krávy, ty už někomu patří. Doufám.
 
-![Pejska](/sakartvelo/pejska.jpg)
+:image{src="/sakartvelo/pejska.jpg" alt="Pejska"}
 
 ### Dveře
 
@@ -144,7 +144,7 @@ Druhým byl odpor. Stalin vězňům slíbil svobodu, když vstoupí do armády. 
 
 A třetí je ta ze středu Evropy. Místní nacionalisté (ehm, ultrapravičáci) se často obhajují spojeními výše, používají i jiné národní symboly. Nejspíš je to ten hlavní důvod, proč vidíte svastiku. Ale ne ten jediný.
 
-![Svastika z doby bronzové](/sakartvelo/swastika-ancient.jpg)
+:image{src="/sakartvelo/swastika-ancient.jpg" alt="Svastika z doby bronzové"}
 
 ### SMS
 
