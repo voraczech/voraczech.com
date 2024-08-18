@@ -120,11 +120,15 @@ Nejsou nebezpeční, vím jen o dvou případech, kdy pes kousl a v obou to byla
 
 ### Dveře
 
-Špatné dveře obecně. Časté používání plastových dveří. Ale i ty normální často nejsou v nejlepší kvalitě, ač tak můžou vypadat (hlavně zámky).
+Špatné dveře obecně. Časté používání plastových dveří. Ale i ty "normální" často nejsou v nejlepší kvalitě, ač tak můžou vypadat (hlavně zámky).
 
 ### Voda
 
 Z kohoutku se dá pít, Gruzínci si ji nechávají odstát. Dlouhodobě bych ji ale bez filtrů nepil. Pokud jedete na týden dva, je to v pohodě. Dle lokace může být výpadek vody (ve Vake nebo Varketili to je asi nejhorší), každá domácnost má v záloze barely s vodou.
+
+### Karty
+
+U restaurací bývá zvykem, že mají dva platební terminály. Ekonomicky to tu dává smysl, nejčastěji se jedná o Bank of Georgia (BoG, Sakarvelos banki) a TBC, sem tam Liberty. Pro platby evropskou kartou to je jedno, Amex funguje možná jen u BoG.
 
 ### Různé počasí v Tbilisi
 
