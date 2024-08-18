@@ -174,7 +174,7 @@ Příprava na kurz se podobá tomu, co jsem slyšel o přípravě na vytrvalostn
 Abych se přiznal, dost jsem ji zanedbal, ač jsem tušil, že jednou budu tenhle článek psát. Je třeba to ale otočit na svoji stranu - alespoň můžu říct, že není třeba intenzivní příprava, aby to člověk zvládl.
 
 Nechme mluvit čísla: kdy jsem meditoval? Poslední 3 měsíce před kurzem:
-:image{src="/vipassana/meditation-time.png" alt=""}
+:pic{src="/vipassana/meditation-time.png" alt=""}
 
 Ano, záleží také na tom kolik jsem meditoval. Tak ještě jednou: kolik minut jsem meditoval (od doby, co mě napadlo si psát i časy):
 

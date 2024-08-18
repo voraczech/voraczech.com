@@ -36,7 +36,7 @@ Personal recommendation: **Never buy anything without a price tag**. Even in a s
 
 Price negotiation can be used at a market stall outside Baku (even though there is a price tag). Potato on a stick should cost a maximum of 3 AZN, any higher price is negotiable.
 
-:image{src="https://miro.medium.com/v2/resize:fit:1400/1*mHwTIK48-nJoDxyZTvytIw.jpeg" alt=""}
+:pic{src="https://miro.medium.com/v2/resize:fit:1400/1*mHwTIK48-nJoDxyZTvytIw.jpeg" alt=""}
 
 Heydar Mosque — a lot of things are named after former president Heydar Aliyev, so always double-check that your map shows the right sight
 
@@ -53,7 +53,7 @@ Outside, but near Baku:
 
 I recommend using Free Walking Guide for example [this](https://bakufreetour.com/) one. They are free, but you should tip them at the end.
 
-:image{src="https://miro.medium.com/v2/resize:fit:1400/1*m_jX-02dOCaOkFfoZNXnkA.jpeg" alt=""}
+:pic{src="https://miro.medium.com/v2/resize:fit:1400/1*m_jX-02dOCaOkFfoZNXnkA.jpeg" alt=""}
 
 Yanardag — but this is everything there
 
@@ -78,7 +78,7 @@ This list could be long, just google it:
 
 Meat is mostly halal. Sometimes it tastes differently, especially beef. Don’t worry, this taste is just weird. If you do not like it, eat chicken, you cannot notice it is halal.
 
-:image{src="https://miro.medium.com/v2/resize:fit:1400/1*90Or07o9EaQI3GKl4g7zOw.jpeg" alt=""}
+:pic{src="https://miro.medium.com/v2/resize:fit:1400/1*90Or07o9EaQI3GKl4g7zOw.jpeg" alt=""}
 
 ### Kebab & doners
 
@@ -151,7 +151,7 @@ A lot of them believe in astrological signs.
 
 They are generous, but sometimes not kind — on the one hand, people are Muslim hospitable (although you wouldn’t know this is a Muslim country at the first sight). On the other hand, maybe it’s also because they are a post-Soviet country — sometimes there is a lack of human decency like saying hello, thank you, letting someone out first or holding the door (for many locals such a small thing is a pleasant surprise, I recommend it to do it). A lot of people are nice. Most of them are nice unconditionally. However, not everyone can be (mostly security guys are this case).
 
-:image{src="https://miro.medium.com/v2/resize:fit:1400/1*9pKVnE_7vS1-iZqm1YmyTQ.jpeg" alt=""}
+:pic{src="https://miro.medium.com/v2/resize:fit:1400/1*9pKVnE_7vS1-iZqm1YmyTQ.jpeg" alt=""}
 
 ### Sports
 
@@ -169,7 +169,7 @@ Even though almost everyone is Muslim, you cannot tell if you look at Baku. Yes,
 
 Even though officially nothing is forbidden, you will have an easier life when you avoid some topics in your conversation, such as politics (in general) and religion. Talk rather about why you decided to visit Azerbaijan, the food, and ask about the things they appreciate here.
 
-:image{src="https://miro.medium.com/v2/resize:fit:1400/1*Ruz4BjGQWaHaoW8Mg61ZBA.jpeg" alt=""}
+:pic{src="https://miro.medium.com/v2/resize:fit:1400/1*Ruz4BjGQWaHaoW8Mg61ZBA.jpeg" alt=""}
 
 Flame Towers — they are on a top of a hill, I recommend starting here and then going down to see other sights in Baku.
 
@@ -199,7 +199,7 @@ Azerbaijani is similar to Turkish. If you speak Russian, you can use it as well 
 - Iki: Two
 - (Çox) sağol: Thank you (very much)
 
-:image{src="https://miro.medium.com/v2/resize:fit:1400/1*4pFjKh3u8zCSnP-MnvzYvA.jpeg" alt=""}
+:pic{src="https://miro.medium.com/v2/resize:fit:1400/1*4pFjKh3u8zCSnP-MnvzYvA.jpeg" alt=""}
 
 The building you expect in Baku post
 
@@ -238,7 +238,7 @@ In the metro station, photo shooting is not allowed. Try not to be caught by a p
 
 In the subway itself, you need to know which line you’re in. At the same station, you can get on a train that is going elsewhere than the previous one (for example Ganjlik have one station for the green line and red line). You can get the info on which train is approaching based on the boards with the messages (in Azerbaijani) coloured with the line. If you see red text, the next train will follow the red line.
 
-:image{src="https://miro.medium.com/v2/resize:fit:1400/1*o7qp799glO3bbWk2bY184Q.jpeg" alt=""}
+:pic{src="https://miro.medium.com/v2/resize:fit:1400/1*o7qp799glO3bbWk2bY184Q.jpeg" alt=""}
 
 Mud vulcanos —it is possible to bath there, rather during summer
 
@@ -252,7 +252,7 @@ Baku itself is a safe place. I would even say safer than many European cities.
 
 The real danger in the streets is the street itself — watch your steps. A step may appear out of sudden, sometimes even just on a part of a pavement.
 
-:image{src="https://miro.medium.com/v2/resize:fit:1400/1*cURSkK5DniHZvm5DGS7mIw.jpeg" alt=""}
+:pic{src="https://miro.medium.com/v2/resize:fit:1400/1*cURSkK5DniHZvm5DGS7mIw.jpeg" alt=""}
 
 Watch your steps
 
