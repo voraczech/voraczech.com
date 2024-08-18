@@ -114,6 +114,8 @@ Use buses. You can take 100E (special pricing applies for this one). At the airp
 
 Free walking tour may be a good idea. I have not tried it but it makes sense here.
 
+Flixbus offers two stations - _Népliget aut.áll_ (main) and _Mexikói út_ (the one I used). Mexikói út is just a bus stop with a small Flixbus sticker on it, you can sit in Burger King. If you are unsure/don't care, pick Népliget aut.áll.
+
 ## Sources
 
 - [Hungarian Parliament Building tickets](https://jegymester.hu/event-host/900/parlament)

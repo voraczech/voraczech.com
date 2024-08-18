@@ -16,6 +16,7 @@
         >open source</NuxtLink
       >.
     </p>
+    <p>Sometimes I write in English, někdy česky. Deal with it.</p>
     <p>
       I publish unfinished posts, everything is a draft. I re-edit, especially
       for the first few days after creation date.
