@@ -31,7 +31,7 @@ Travel light. You can always buy and/or wash. Having an apartment with a washing
 
 ## Take a rest
 
-In 3-4 days you should have a free day for relaxation if your timetable is active. You can enjoy it all better. Travelling is an activity.
+In 3-4 days you should have a free day for relaxation if you have active timetable. You will enjoy it all more. Travelling is an activity.
 
 ## Transportation
 
@@ -46,7 +46,7 @@ Because of it I like night trains. It is important to note I can sleep well ther
 
 And please don't confuse comfort with luxury. Both sides.
 
-### "Everyday carry"
+### "Everyday" transportation carry
 
 - ear plugs
 - ear mask
