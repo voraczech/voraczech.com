@@ -11,7 +11,7 @@ tags:
   - tips
 ---
 
-A traveller's handybook of random tips. One of many.
+A traveller's handbook of random tips. One of many.
 
 ## Check sources
 
@@ -21,9 +21,9 @@ This time I attach posts about travelling into sources which are (a bit) more us
 
 Every time you travel (weekend trips included) write a list what you take and then review. Next time look at the list, get inspired, add changes, review. Repeat until dead.
 
-Each occasion is different (winter vs summer, weekend vs a month, same country vs abroad, business vs personal…), write the context as well.
+Because each occasion is different, write a context. Is is for winter vs summer, weekend vs a month, same country vs abroad, business vs personal…?
 
-Also include a checklist (visa, passport check, insurance), a list of useful apps and things you took but are useless with reasoning (next time you will want to take it).
+Also include a list of useful apps, things you took but are useless with reasoning (next time you will want to take it). And a checklist (visa, passport check, insurance…).
 
 ## Baggage
 
@@ -35,14 +35,14 @@ In 3-4 days you should have a free day for relaxation if your timetable is activ
 
 ## Transportation
 
-Choose your transportation properly based on your preferences and a culture. Sometimes it is good idea to take a more expensive way because of:
+Choose your transportation based on your preferences and a culture. Sometimes it is good idea to take a more expensive way because of:
 
 - a view (a tram in the city, a boat in a country…)
-- time (train stations are mostly in the city center compared to airports)
+- time (train stations are in the city center compared to airports)
 - money (night travelling may save you accomodation)
 - energy saved (travelling is exhausting, comfort is more important the older you are)
 
-Because of it I really like night trains. It is important to note I can sleep well there.
+Because of it I like night trains. It is important to note I can sleep well there.
 
 And please don't confuse comfort with luxury. Both sides.
 
@@ -58,13 +58,13 @@ And please don't confuse comfort with luxury. Both sides.
 
 An unwritten rule I found in the past. The only privilege a middle seat passanger can have. This rule is handy especially if you are in the middle (pun intended).
 
-#### Last call is not last call (for lowcost airlines)
+#### Last call is not last call (for low-cost airlines)
 
 Not to waste time, some airlines make last call almost immediately after a gate is opened.
 
 #### Be acceptably late but still prepared
 
-In general, airports are a magic place where being (acceptably) late is always better than being on time. It does not matter you drop off your baggage last, it will be on top (better for you). It does not matter you get on the plane last if you are on time. When the first people are in the plane, I go to the toilet. At the end, flight attendants are more benevolent and want you to go through as fast as you can.
+Airports are a magic place where being (acceptably) late is always better than being on time. It does not matter you drop off your baggage last, it will be on top (better for you). It does not matter you get on the plane last if you are on time. When the first people are in the plane, I go to the toilet. At the end, flight attendants are more benevolent and want you to go through as fast as you can.
 
 #### Use sunscreen protection
 
@@ -84,23 +84,23 @@ Buy a foldable water bottle. Mine is 0,7l. Refill as much as you can (after secu
 
 For each 2-3 hours of flight you should take 1l of water. Take it as a rule of thumb for any transportation.
 
-Many people justifies drinking alcohol especially while travelling. Travelling itself is exhausting enough, you can have a hangover even without alcohol. If you are afraid of flying, ask your doctor to get some medicaments for a flight. If you want to make the flight shorter, take a noise cancelling headphones, sleeping mask and/or red glasses. Travelling is not an excuse for excessive drinking.
+Many people justifies drinking alcohol especially while travelling. Travelling itself is exhausting enough, you can have a hangover even without alcohol. If you are afraid of flying, ask your doctor to get some medicaments for a flight. Do you want to make the flight shorter? Take a noise cancelling headphones, sleeping mask and/or red glasses. Travelling is not an excuse for excessive drinking.
 
 If you want to drink, fine. Just don't be _that drunk person_ in the transportation vehicle.
 
 ## Eat
 
-If you travel through timezones, schedule your last meal "here" for "there" timezome.
+If you travel through time zones, schedule your last meal "here" for "there" time zone.
 
 Nuts are great for transportation. They are available everywhere, healthy with a lot of energy in a portable pack.
 
 ## Sleep
 
-If you travel east, sleep as much as you can. You are loosing hours while travelling. On the other hand try not to sleep when you travel west.
+If you travel east, sleep as much as you can. You are loosing hours while travelling. But try not to sleep when you travel west.
 
 ## Travel
 
-Use free walking tour. Of course you tip. Usually you give 10 EUR/USD, reduce if it is bad or shorter (up to 2 hours), increase if it was exceptional or you feel you should give more.
+Use free walking tour. Of course you tip. Usually you give 10 EUR/USD. Reduce if it is bad or shorter (up to 2 hours), increase if it was exceptional or you feel you should give more.
 
 ## Sources
 
