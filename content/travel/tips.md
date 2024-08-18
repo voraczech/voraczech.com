@@ -98,6 +98,10 @@ Nuts are great for transportation. They are available everywhere, healthy with a
 
 If you travel east, sleep as much as you can. You are loosing hours while travelling. On the other hand try not to sleep when you travel west.
 
+## Travel
+
+Use free walking tour. Of course you tip. Usually you give 10 EUR/USD, reduce if it is bad or shorter (up to 2 hours), increase if it was exceptional or you feel you should give more.
+
 ## Sources
 
 ### Packing
@@ -108,7 +112,7 @@ If you travel east, sleep as much as you can. You are loosing hours while travel
 
 ### General
 
-- [Wikitravel]()
+- [Wikitravel](https://wikitravel.org)
 - [Wikivoyage](https://wikivoyage.org)
 - [The Definitive Guide To Air Travel](https://graze.beehiiv.com/p/definitive-guide-air-travel)
   - May be a bit controversial but worth reading
