@@ -107,6 +107,10 @@ Use free walking tour. Of course you tip. Usually you give 10 EUR/USD, reduce if
 ### Packing
 
 - [Twitter thread by Pavol Luptak](https://twitter.com/wilderko/status/1521779697742270464)
+
+  - [[SK] a bit longer version part I](https://www.facebook.com/wilderko/posts/pfbid02KVxkK728gaKUhSutq8ruRVAWqqRUMVj2j3XJuaEpwFF7k6jLGJ2b2oGXpDNEwhrhl)
+  - [[SK] Part II](https://www.facebook.com/story.php?story_fbid=10231226068784769&id=1525189751&rdid=y4UzAtOcJprL3YG7)
+
 - [Inspiration for light packing](libredd.it/r/onebag)
 - [[CZ] Cestování po vlastní ose](https://povlastniose.eu/rady/co-s-sebou-na-cesty)
 
@@ -117,7 +121,6 @@ Use free walking tour. Of course you tip. Usually you give 10 EUR/USD, reduce if
 - [The Definitive Guide To Air Travel](https://graze.beehiiv.com/p/definitive-guide-air-travel)
   - May be a bit controversial but worth reading
 - [Travel resources by Nomadic Matt](https://nomadicmatt.com/travel-resources/)
-- https://www.facebook.com/story.php?story_fbid=10231226068784769&id=1525189751&rdid=y4UzAtOcJprL3YG7
 
 ---
 
