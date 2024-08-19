@@ -47,8 +47,8 @@ But in general you do not need to worry, it is pretty safe even for a girl alone
 - Nagycsarnok (Central Market Hall)
 - Baths
   - Many people recommend Gellért Thermal Bath Gellért Gyógyfürdő és Uszoda
-  - I have no time but you should go there
-  - Bring your own towel and slippers (you can buy them there)
+  - I had no time but you should go there
+  - Bring your own towel and slippers (you can buy them there though)
 - Boat
   - 10-15 Euros, you can book online, audioguide there is useful
   - Check the floods on Danube.

@@ -62,6 +62,10 @@ An unwritten rule I found in the past. The only privilege a middle seat passange
 
 Not to waste time, some airlines make last call almost immediately after a gate is opened.
 
+#### If you use low-cost airlines, be prepared a bad experience may come
+
+And then abandon the airline. It may be the next flight or the 100th one. It is a risk worth trying until things go wrong. Even paying an additional fee for _anything_ is worth the chance. And possibly money you have saved so far. Move on then.
+
 #### Be acceptably late but still prepared
 
 Airports are a magic place where being (acceptably) late is always better than being on time. It does not matter you drop off your baggage last, it will be on top (better for you). It does not matter you get on the plane last if you are on time. When the first people are in the plane, I go to the toilet. At the end, flight attendants are more benevolent and want you to go through as fast as you can.
