@@ -142,9 +142,7 @@ Jedno spojení je odkaz na dávnou historii. Existují starověké nálezy vyryt
 
 Druhým byl odpor. Stalin vězňům slíbil svobodu, když vstoupí do armády. Následně je poslal zpátky do vězení, ti začali rýt svastiky proto, že to bylo něco, proti čemu bojoval.
 
-A třetí je ta ze středu Evropy. Místní nacionalisté (ehm, ultrapravičáci) se často obhajují spojeními výše, používají i jiné národní symboly. Nejspíš je to ten hlavní důvod, proč vidíte svastiku. Ale ne ten jediný.
-
-:pic{src="/sakartvelo/swastika-ancient.jpg" alt="Svastika z doby bronzové"}
+A třetí je ta ze středu Evropy. Místní nacionalisté (ehm, ultrapravičáci) se často obhajují (maskují) spojeními výše, používají i jiné národní symboly. To je upřímně ten hlavní důvod.
 
 ### SMS
 

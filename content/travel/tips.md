@@ -29,6 +29,8 @@ Also include a list of useful apps, things you took but are useless with reasoni
 
 Travel light. You can always buy and/or wash. Having an apartment with a washing machine after a few days is a good idea.
 
+Be USB-C maximalist.
+
 ## Take a rest
 
 In 3-4 days you should have a free day for relaxation if you have active timetable. You will enjoy it all more. Travelling is an activity.
@@ -49,7 +51,7 @@ And please don't confuse comfort with luxury. Both sides.
 ### "Everyday" transportation carry
 
 - ear plugs
-- ear mask
+- eye mask
 - Nivea cream
 
 ### Airplane
@@ -116,6 +118,7 @@ Use free walking tour. Of course you tip. Usually you give 10 EUR/USD. Reduce if
   - [[SK] Part II](https://www.facebook.com/story.php?story_fbid=10231226068784769&id=1525189751&rdid=y4UzAtOcJprL3YG7)
 
 - [Inspiration for light packing](libredd.it/r/onebag)
+- [Vitalik's 40l backpack](https://vitalik.eth.limo/general/2022/06/20/backpack.html)
 - [[CZ] Cestování po vlastní ose](https://povlastniose.eu/rady/co-s-sebou-na-cesty)
 
 ### General
