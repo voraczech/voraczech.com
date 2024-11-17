@@ -50,6 +50,8 @@ Zvyk tlačit se a být všude první i za cenu předběhnutí. Asi z dob, kdy ne
 
 V metru všichni potřebují stát u východu. _Nechat vystoupit a pak až nastoupit_ se tu teprve učí, natož třeba vystoupit z vozu, ač pojedu dál, abych neblokoval dveře. Navíc se vystupuje jako ve vlaku, tzn. už před zastavením se připravit a dostat se co nejblíž dveřím. A na _stojí se vpravo_ na eskalátoru při větším počtu než malém zapomeňte.
 
+Ale zlepšuje se to. Ještě zlepšit celkovou kvalitu MHD a bude to ok.
+
 #### Nedochvilnost
 
 Čas plyne jiným tempem. Dopoledne tu je ráno, chodit na čas není zvykem. Pokud si Gruzínci chtějí být jistí dochvilností na schůzku, ještě ten den si ji potvrdí. U akcí se toto řeší klasickým "open doors" slotem (někdy má i hodinu), kdy akce oficiálně začala, ale vlastně se čeká na zahájení programu.
@@ -77,6 +79,10 @@ Přijde mi, že jsou mnohem závislejší na mobilech, je úplně normální, ž
 #### Strach z deště
 
 Nižší práh snášení deště. Může se hodit, pokud chcete někam, kde je zpravidla plno Gruzínců.
+
+#### Nahatí
+
+Být nahatý v sauně ještě pořád není standard. Taky se zlepšuje. A nikdo vás nevyhodí.
 
 #### Prstýnek na pravé ruce
 
