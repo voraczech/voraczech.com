@@ -165,7 +165,7 @@ léky, rádio, pláštěnka, zásoby vody
 
 ### Dobré vztahy
 
-> Normální verze: Nebýt debil
+> Normální verze: Být hodný
 >
 > Extrémní verze: Zvýšit množství vztahů na co nejširší spektrum, děti
 
