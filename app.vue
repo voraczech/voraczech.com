@@ -10,18 +10,16 @@
           <span class="hidden sm:inline-block">voraczech;</span>
         </NuxtLink>
         <nav>
-          <ContentNavigation v-slot="{ navigation }">
-            <ul class="flex gap-6">
-              <li v-for="link of navigation" :key="link._path">
-                <NuxtLink :to="link._path" class="lowercase text-sm">{{
-                  link.title
-                }}</NuxtLink>
-              </li>
-              <li>
-                <NuxtLink to="/about" class="lowercase text-sm">About</NuxtLink>
-              </li>
-            </ul>
-          </ContentNavigation>
+          <ul class="flex gap-6">
+            <li v-for="link in data" :key="link._path">
+              <NuxtLink :to="link.path" class="lowercase text-sm">{{
+                link.title
+              }}</NuxtLink>
+            </li>
+            <li>
+              <NuxtLink to="/about" class="lowercase text-sm">About</NuxtLink>
+            </li>
+          </ul>
         </nav>
       </header>
       <NuxtPage />
@@ -50,5 +48,9 @@ useSeoMeta({
   ogSiteName: "voraczech.com",
   ogType: "website",
   twitterCard: "summary_large_image",
+})
+
+const { data } = await useAsyncData("navigation", () => {
+  return queryCollectionNavigation("content")
 })
 </script>

@@ -2,9 +2,10 @@ export default defineNuxtConfig({
   experimental: {
     viewTransition: true,
   },
-  ssr: true,
 
+  ssr: true,
   devtools: { enabled: true },
+
   modules: [
     "@nuxtjs/tailwindcss",
     "@nuxt/content",
@@ -13,22 +14,23 @@ export default defineNuxtConfig({
   ],
 
   content: {
-    contentHead: false,
-    locales: ["en-GB", "cs"],
-    markdown: {
-      remarkPlugins: ["remark-reading-time"],
-      rehypePlugins: [
-        [
-          "rehype-external-links",
-          { target: "_blank", rel: ["nofollow", "noopener", "noreferrer"] },
-        ],
-      ],
+    build: {
+      markdown: {
+        remarkPlugins: {
+          "remark-reading-time": {},
+        },
+        rehypePlugins: {
+          "rehype-external-links": {
+            target: "_blank",
+            rel: ["nofollow", "noopener", "noreferrer"],
+          },
+        },
+      },
     },
   },
 
   googleFonts: {
     families: {
-      // "PT Serif": [400, 700],
       "Noto Serif": [400, 500, 600, 700],
     },
   },
@@ -36,4 +38,6 @@ export default defineNuxtConfig({
   tailwindcss: {
     cssPath: "~/assets/css/tailwind.css",
   },
+
+  compatibilityDate: "2025-01-25",
 })
