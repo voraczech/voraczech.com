@@ -6,12 +6,12 @@ export default defineContentConfig({
       type: "page",
       source: "**/*.md",
       schema: z.object({
+        createdAt: z.string(),
+        image: z.object({
+          src: z.string(),
+          alt: z.string(),
+        }),
         meta: z.object({
-          createdAt: z.string(),
-          image: z.object({
-            src: z.string(),
-            alt: z.string(),
-          }),
           readingTime: z.object({
             text: z.string(),
             minutes: z.number(),

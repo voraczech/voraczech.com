@@ -2,7 +2,7 @@
   <main>
     <div class="flex flex-col gap-8" v-if="data">
       <NuxtLink
-        v-for="article in orderList(data)"
+        v-for="article in data"
         :key="article.path"
         :to="article.path"
         class="text-decoration-none flex flex-col sm:flex-row-reverse gap-4 sm:gap-6"
@@ -21,8 +21,8 @@
               {{ article.description }}
             </p>
             <div class="text-xs mt-2">
-              <time :datetime="article.meta.createdAt">
-                {{ getReadableDate(article.meta.createdAt) }}
+              <time :datetime="article.createdAt">
+                {{ getReadableDate(article.createdAt) }}
               </time>
               &#x2022;
               <span>{{ article?.meta?.readingTime?.text }}</span>
@@ -30,9 +30,9 @@
           </div>
         </div>
         <NuxtImg
-          v-if="article.meta?.image"
-          :src="article.meta?.image.src"
-          :alt="article.meta?.image.alt"
+          v-if="article.image"
+          :src="article.image.src"
+          :alt="article.image.alt"
           sizes="100vw sm:260px"
           class="object-cover aspect-video"
           densities="x1 x2"
@@ -55,15 +55,7 @@ const route = useRoute()
 const { data } = await useAsyncData(route.path, () => {
   return queryCollection("content")
     .where("path", "LIKE", `${route.path}%`)
+    .order("createdAt", "DESC")
     .all()
 })
-
-const orderList = (list: any[] | null) => {
-  return list?.sort((a, b) => {
-    return (
-      new Date(b.meta.createdAt).getTime() -
-      new Date(a.meta.createdAt).getTime()
-    )
-  })
-}
 </script>
