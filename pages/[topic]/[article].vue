@@ -9,16 +9,16 @@
       {{ doc.title }}
     </h1>
     <div class="text-v-700 text-sm m-0">
-      <time :datetime="doc.meta?.createdAt" v-if="doc.meta.createdAt">
-        {{ getReadableDate(doc.meta.createdAt) }}
+      <time :datetime="doc.createdAt" v-if="doc.createdAt">
+        {{ getReadableDate(doc.createdAt) }}
       </time>
       &#x2022;
       <span>{{ doc.meta.readingTime.text }}</span>
     </div>
     <NuxtImg
-      v-if="doc.meta.image"
-      :src="doc.meta.image.src"
-      :alt="doc.meta.image.alt"
+      v-if="doc.image"
+      :src="doc.image.src"
+      :alt="doc.image.alt"
       width="100%"
       sizes="320px sm:450px md:512px lg:740px"
       class="rounded-md my-6 mx-auto"
@@ -71,22 +71,22 @@ useHead({
     {
       property: "og:image",
       name: "image",
-      content: url + "/_ipx/w_512" + doc.value?.meta.image?.src,
+      content: url + "/_ipx/w_512" + doc.value?.image?.src,
     },
     { name: "og:image:alt", content: doc.value?.title },
     {
       name: "twitter:image",
-      content: url + doc.value?.meta.image?.src,
+      content: url + doc.value?.image?.src,
     },
     {
       name: "twitter:image:alt",
-      content: url + doc.value?.meta.image?.alt,
+      content: url + doc.value?.image?.alt,
     },
     {
       name: "author",
       content: "voraczech",
     },
-    { name: "article:published_time", content: doc.value?.meta.createdAt },
+    { name: "article:published_time", content: doc.value?.createdAt },
   ],
   link: [
     {
