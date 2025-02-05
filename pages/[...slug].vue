@@ -5,8 +5,19 @@
         v-for="article in data"
         :key="article.path"
         :to="article.path"
-        class="text-decoration-none flex flex-col sm:flex-row-reverse gap-4 sm:gap-6"
+        class="text-decoration-none flex flex-row gap-4 sm:gap-6"
       >
+        <NuxtImg
+          v-if="article.image"
+          :src="article.image.src"
+          :alt="article.image.alt"
+          sizes="100px sm:260px"
+          class="sm:object-cover sm:aspect-video max-w-20 sm:max-w-52"
+          densities="x1 x2"
+          :style="{
+            'view-transition-name': `${getArticleId(article.path)}-img`,
+          }"
+        />
         <div>
           <div class="text-v-700 text-sm">
             <h2
@@ -31,17 +42,6 @@
             </div>
           </div>
         </div>
-        <NuxtImg
-          v-if="article.image"
-          :src="article.image.src"
-          :alt="article.image.alt"
-          sizes="100vw sm:260px"
-          class="object-cover aspect-video max-w-52"
-          densities="x1 x2"
-          :style="{
-            'view-transition-name': `${getArticleId(article.path)}-img`,
-          }"
-        />
       </NuxtLink>
     </div>
     <div v-else>
