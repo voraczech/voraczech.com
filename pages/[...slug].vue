@@ -43,7 +43,9 @@
       </NuxtLink>
     </div>
     <div v-else>
-      <p>No articles found.</p>
+      <p>
+        {{ $t("content:none") }}
+      </p>
     </div>
   </main>
 </template>
