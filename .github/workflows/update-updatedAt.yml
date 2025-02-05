@@ -13,9 +13,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Check if .md files have changed
+      - name: Check for changes in .md files
         run: |
-          git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '\.md$' || echo "No markdown files changed"
+          # Use github.event.after and github.event.before for diff comparison
+          git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | grep '\.md$' || echo "No markdown files changed"
 
       - name: Update updatedAt in .md files
         run: |
