@@ -52,9 +52,10 @@ export default defineNuxtConfig({
 
   routeRules: {
     "/": { redirect: "/en" }, // https://github.com/nuxt-modules/i18n/issues/700#issuecomment-2204107700
-    "/calm/vipassana-pred": {
-      redirect: "/cs/klid/vipassana-pred",
-    },
+    "/travel/baku": { redirect: "/en/travel/baku" },
+    "/travel/budapest": { redirect: "/en/travel/budapest" },
+    "/travel/tips": { redirect: "/en/travel/tips" },
+    "/calm/vipassana-pred": { redirect: "/cs/klid/vipassana-pred" },
     "/sakartvelo/kulturni-rozdily": {
       redirect: "/cs/sakartvelo/kulturni-rozdily",
     },
