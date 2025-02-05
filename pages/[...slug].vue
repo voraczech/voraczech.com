@@ -25,7 +25,9 @@
                 {{ getReadableDate(article.createdAt) }}
               </time>
               &#x2022;
-              <span>{{ article?.meta?.readingTime?.text }}</span>
+              <span>{{
+                getReadableTimeRead(article?.meta?.readingTime?.minutes)
+              }}</span>
             </div>
           </div>
         </div>
@@ -52,7 +54,11 @@
 
 <script setup lang="ts">
 const { locale } = useI18n()
-import { getArticleId, getReadableDate } from "~/assets/ts/functions"
+import {
+  getArticleId,
+  getReadableDate,
+  getReadableTimeRead,
+} from "~/assets/ts/functions"
 
 const route = useRoute()
 const { data } = await useAsyncData(route.path, () => {

@@ -2,6 +2,7 @@ import { defineContentConfig, defineCollection, z } from "@nuxt/content"
 
 const commonSchema = z.object({
   createdAt: z.string(),
+  updatedAt: z.string(),
   image: z.object({
     src: z.string(),
     alt: z.string(),
@@ -23,16 +24,13 @@ export default defineContentConfig({
       type: "page",
       source: {
         include: "cs/**",
-        prefix: "/cs",
       },
       schema: commonSchema,
     }),
     content_en: defineCollection({
       type: "page",
       source: {
-        include: "**",
-        exclude: ["cs/**"],
-        prefix: "",
+        include: "en/**",
       },
       schema: commonSchema,
     }),

@@ -13,7 +13,14 @@
         {{ getReadableDate(doc.createdAt) }}
       </time>
       &#x2022;
-      <span>{{ doc.meta.readingTime.text }}</span>
+      <span>{{ getReadableTimeRead(doc.meta.readingTime.minutes) }}</span>
+
+      <span :datatype="doc.updatedAt" v-if="doc.updatedAt">
+        &#x2022;
+        <time class="text-v-700 text-sm m-0" :datetime="doc.updatedAt">
+          {{ $t("article:updated") }}: {{ getReadableDate(doc.updatedAt) }}
+        </time>
+      </span>
     </div>
     <NuxtImg
       v-if="doc.image"
@@ -31,12 +38,19 @@
 </template>
 
 <script setup lang="ts">
-import { getArticleId, getReadableDate } from "~/assets/ts/functions"
+import {
+  getArticleId,
+  getReadableDate,
+  getReadableTimeRead,
+} from "~/assets/ts/functions"
 
+const { locale } = useI18n()
 const route = useRoute()
 
 const { data: doc } = await useAsyncData(route.path, async () => {
-  return await queryCollection("content").path(route.path).first()
+  return await queryCollection(`content_${locale.value}`)
+    .path(route.path)
+    .first()
 })
 
 const url = "https://voraczech.com"
