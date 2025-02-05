@@ -18,6 +18,10 @@ jobs:
           # Use github.event.after and github.event.before for diff comparison
           git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | grep '\.md$' || echo "No markdown files changed"
 
+      - name: List commits before and after
+        run: |
+          git log --oneline -n 5
+
       - name: Update updatedAt in .md files
         run: |
           for file in $(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '\.md$'); do
