@@ -41,7 +41,7 @@ export default defineNuxtConfig({
       { code: "en", name: "English", language: "en-GB" },
       { code: "cs", name: "Česky", language: "cs-CZ" },
     ],
-    strategy: "prefix_except_default",
+    // strategy: "prefix_except_default",
     // defaultLocale: "en",
     vueI18n: "./i18n.config.ts",
   },
@@ -51,6 +51,7 @@ export default defineNuxtConfig({
   },
 
   routeRules: {
+    "/": { prerender: false }, // https://github.com/nuxt-modules/i18n/issues/700#issuecomment-2204107700
     "/calm/vipassana-pred": {
       redirect: "/cs/klid/vipassana-pred",
     },
