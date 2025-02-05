@@ -53,6 +53,7 @@ And please don't confuse comfort with luxury. Both sides.
 - ear plugs
 - eye mask
 - Nivea cream
+- Alpha waves (for sleeping) and brown noise (for concentration - reading) downloaded
 
 ### Airplane
 
