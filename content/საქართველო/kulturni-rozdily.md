@@ -52,6 +52,10 @@ V metru všichni potřebují stát u východu. _Nechat vystoupit a pak až nasto
 
 Ale zlepšuje se to. Ještě zlepšit celkovou kvalitu MHD a bude to ok.
 
+#### Příspěvky
+
+Často prochází lidé s plakátem a kasičkou, obzvlášť v metru. Bez plakátu to je často prodej drobností jako kapesníků, s plakátem nejčastěji nějaká charita. Obecně se tu často žebrá, lidé ale nejsou dotěrní.
+
 #### Nedochvilnost
 
 Čas plyne jiným tempem. Dopoledne tu je ráno, chodit na čas není zvykem. Pokud si Gruzínci chtějí být jistí dochvilností na schůzku, ještě ten den si ji potvrdí. U akcí se toto řeší klasickým "open doors" slotem (někdy má i hodinu), kdy akce oficiálně začala, ale vlastně se čeká na zahájení programu.
