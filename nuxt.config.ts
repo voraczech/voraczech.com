@@ -11,6 +11,7 @@ export default defineNuxtConfig({
     "@nuxt/content",
     "@nuxtjs/google-fonts",
     "@nuxt/image",
+    "@nuxtjs/i18n",
   ],
 
   content: {
@@ -33,6 +34,15 @@ export default defineNuxtConfig({
     families: {
       "Noto Serif": [400, 500, 600, 700],
     },
+  },
+
+  i18n: {
+    locales: [
+      { code: "en", name: "English", language: "en-US" },
+      { code: "cs", name: "Česky", language: "cs-CZ" },
+    ],
+    strategy: "prefix_except_default",
+    defaultLocale: "en",
   },
 
   tailwindcss: {

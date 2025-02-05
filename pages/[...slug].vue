@@ -34,7 +34,7 @@
           :src="article.image.src"
           :alt="article.image.alt"
           sizes="100vw sm:260px"
-          class="object-cover aspect-video"
+          class="object-cover aspect-video max-w-52"
           densities="x1 x2"
           :style="{
             'view-transition-name': `${getArticleId(article.path)}-img`,
@@ -49,11 +49,12 @@
 </template>
 
 <script setup lang="ts">
+const { locale } = useI18n()
 import { getArticleId, getReadableDate } from "~/assets/ts/functions"
 
 const route = useRoute()
 const { data } = await useAsyncData(route.path, () => {
-  return queryCollection("content")
+  return queryCollection(`content_${locale.value}`)
     .where("path", "LIKE", `${route.path}%`)
     .order("createdAt", "DESC")
     .all()
