@@ -50,14 +50,14 @@ export default defineNuxtConfig({
     cssPath: "~/assets/css/tailwind.css",
   },
 
-  // routeRules: {
-  //   "/calm/vipassana-pred": {
-  //     redirect: "/cs/klid/vipassana-pred",
-  //   },
-  //   "/sakartvelo/kulturni-rozdily": {
-  //     redirect: "/cs/sakartvelo/kulturni-rozdily",
-  //   },
-  // },
+  routeRules: {
+    "/calm/vipassana-pred": {
+      redirect: "/cs/klid/vipassana-pred",
+    },
+    "/sakartvelo/kulturni-rozdily": {
+      redirect: "/cs/sakartvelo/kulturni-rozdily",
+    },
+  },
 
   compatibilityDate: "2025-01-25",
 })
