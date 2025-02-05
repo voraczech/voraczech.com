@@ -27,10 +27,10 @@
                 @click="setLocale(secondLang.code)"
                 class="bg-v-600 text-v-50 rounded px-2 py-1 w-9 transition-all"
               >
-                <transition name="fade" mode="out-in">
-                  <span :key="secondLang.code">
+                <transition name="slide" mode="out-in">
+                  <div :key="secondLang.code">
                     {{ secondLang.code }}
-                  </span>
+                  </div>
                 </transition>
               </button>
             </li>
@@ -82,13 +82,16 @@ watch(locale, async () => {
     0px -1px 0px rgba(0, 0, 0, 0.7);
 }
 
-.fade-enter-active,
-.fade-leave-active {
-  @apply transition-opacity duration-75;
+.slide-enter-active,
+.slide-leave-active {
+  @apply transition-all ease-out duration-300;
 }
 
-.fade-enter,
-.fade-leave-to {
-  @apply opacity-0;
+.slide-enter-from {
+  @apply opacity-0 translate-x-6;
+}
+
+.slide-leave-to {
+  @apply opacity-0 -translate-x-6;
 }
 </style>
