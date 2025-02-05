@@ -11,7 +11,7 @@ tags:
   - tips
 ---
 
-A traveller's handbook of random tips. One of many.
+A traveller's handbook of random tips. One of many...
 
 ## Check sources
 
