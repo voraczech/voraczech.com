@@ -41,7 +41,7 @@ export default defineNuxtConfig({
       { code: "en", name: "English", language: "en-GB" },
       { code: "cs", name: "Česky", language: "cs-CZ" },
     ],
-    // strategy: "prefix_except_default",
+    strategy: "prefix_except_default",
     // defaultLocale: "en",
     vueI18n: "./i18n.config.ts",
   },
