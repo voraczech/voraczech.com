@@ -38,11 +38,12 @@ export default defineNuxtConfig({
 
   i18n: {
     locales: [
-      { code: "en", name: "English", language: "en-US" },
+      { code: "en", name: "English", language: "en-GB" },
       { code: "cs", name: "Česky", language: "cs-CZ" },
     ],
-    strategy: "prefix_except_default",
-    defaultLocale: "en",
+    // strategy: "prefix_except_default",
+    // defaultLocale: "en",
+    vueI18n: "./i18n.config.ts",
   },
 
   tailwindcss: {
@@ -50,7 +51,7 @@ export default defineNuxtConfig({
   },
 
   routeRules: {
-    "calm/vipassana-pred": {
+    "/calm/vipassana-pred": {
       redirect: "/cs/klid/vipassana-pred",
     },
     "/sakartvelo/kulturni-rozdily": {

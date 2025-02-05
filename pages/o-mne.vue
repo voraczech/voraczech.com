@@ -1,15 +1,14 @@
 <template>
   <div class="prose prose-v">
     <p>
-      Hello, you can contact me via
-      <span>jakub&#64;voraczech.com</span>. Follow me on
+      Zdravím, můžete mě kontaktovat na
+      <span>jakub&#64;voraczech.com</span>. Sledujte mě na
       <NuxtLink href="https://www.goodreads.com/voraczech " target="_blank"
         >Goodreads</NuxtLink
-      >. I use
+      >. Občas použiju i
       <NuxtLink to="https://www.linkedin.com/in/jakubvoracek/" target="_blank"
         >LinkedIn</NuxtLink
-      >
-      sometimes. This web is
+      >. Tento web je
       <NuxtLink
         href="https://github.com/voraczech/voraczech.com"
         target="_blank"
@@ -17,9 +16,9 @@
       >.
     </p>
     <p>
-      I publish unfinished posts, everything is a draft. I re-edit, especially
-      for the first few days after creation date.
+      Publikuji nedokončené příspěvky, vše je v podstatě návrh. Přepracovávám,
+      zejména v prvních několika dnech po datu vytvoření.
     </p>
-    <p>Thanks, bye.</p>
+    <p>Díky, nashle.</p>
   </div>
 </template>
