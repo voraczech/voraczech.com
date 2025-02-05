@@ -51,7 +51,7 @@ export default defineNuxtConfig({
   },
 
   routeRules: {
-    "/": { prerender: false }, // https://github.com/nuxt-modules/i18n/issues/700#issuecomment-2204107700
+    "/": { redirect: "/en" }, // https://github.com/nuxt-modules/i18n/issues/700#issuecomment-2204107700
     "/calm/vipassana-pred": {
       redirect: "/cs/klid/vipassana-pred",
     },
