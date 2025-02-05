@@ -161,6 +161,10 @@ Je-li cestovní alternativa, koupit ji. Pár věcí, co lze běžně používat,
 
 léky, rádio, pláštěnka, zásoby vody
 
+Sedm zákonů:
+
+> Některé země, například Švédsko nebo Německo, mají příručky pro své obyvatele, ve kterých je nabádají, aby měli doma neustále zásoby na několik dní pro případ nouze. Ty zahrnují samozřejmě několik litrů pitné vody na osobu a den, trvanlivé potraviny, potraviny, které je možno konzumovat bez tepelné úpravy, cukr, kávu, čaj, sušenky, čokoládu, konzervy a zavařeniny, pytle na odpadky, dezinfekci, tabletky na dezinfekci vody, napájecí adaptér do auta, malý plynový vařič, svíčky, rádio na baterie, baterku, základní běžné léky, obvazy, spací pytle, čelové svítilny, v ideálním případě malý agregát a přirozeně i zásoby pohonných hmot v kanystru, běžnou hotovost alespoň na tři dny a některé další.
+
 ## Nehmotná aktiva
 
 ### Dobré vztahy
