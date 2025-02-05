@@ -1,7 +1,7 @@
 ---
 title: "10 dní ničeho: Vipassana, umění žít. Díl první: Před"
 createdAt: 2024-05-07
-updatedAt: 2024-05-08
+updatedAt: 2025-02-05
 image:
   src: /vipassana/1.png
   alt: Vipassana
