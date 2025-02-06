@@ -12,7 +12,7 @@ tags:
   - kulturní rozdíly
 ---
 
-Popis rozdílů mezi zemí, kde „Jste východní Evropa,” je nadávka, a zemí, kde to je kompliment.
+Rozdíly mezi zemí, kde je „Jste východní Evropa,” nadávka, a zemí, kde to je kompliment.
 
 > Subjektivní. Jiní lidé tu viděli stejné věci úplně jinak.
 
