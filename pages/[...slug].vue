@@ -5,7 +5,7 @@
         v-for="article in data"
         :key="article.path"
         :to="article.path"
-        class="text-decoration-none flex flex-row-reverse sm:flex-row gap-4 sm:gap-6 items-start"
+        class="text-decoration-none flex flex-row-reverse sm:flex-row gap-4 sm:gap-6 items-start justify-between"
       >
         <NuxtImg
           v-if="article.image"
@@ -32,8 +32,9 @@
               {{ article.description }}
             </p>
             <div class="text-xs mt-2">
-              <time :datetime="article.createdAt">
-                {{ getReadableDate(article.createdAt) }}
+              {{ typeof article.created_at }}
+              <time :datetime="article.created_at">
+                {{ getReadableDate(article.created_at) }}
               </time>
               &#x2022;
               <span>{{
@@ -64,7 +65,7 @@ const route = useRoute()
 const { data } = await useAsyncData(route.path, () => {
   return queryCollection(`content_${locale.value}`)
     .where("path", "LIKE", `${route.path}%`)
-    .order("createdAt", "DESC")
+    .order("created_at", "DESC") // needs snake_case https://github.com/nuxt/content/issues/3088#issuecomment-2634542883
     .all()
 })
 </script>

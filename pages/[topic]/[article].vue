@@ -9,16 +9,16 @@
       {{ doc.title }}
     </h1>
     <div class="text-v-700 text-sm m-0">
-      <time :datetime="doc.createdAt" v-if="doc.createdAt">
-        {{ getReadableDate(doc.createdAt) }}
+      <time :datetime="doc.created_at" v-if="doc.created_at">
+        {{ getReadableDate(doc.created_at) }}
       </time>
       &#x2022;
       <span>{{ getReadableTimeRead(doc.meta.readingTime.minutes) }}</span>
 
-      <span :datatype="doc.updatedAt" v-if="doc.updatedAt">
+      <span :datatype="doc.updated_at" v-if="doc.updated_at">
         &#x2022;
-        <time class="text-v-700 text-sm m-0" :datetime="doc.updatedAt">
-          {{ $t("article:updated") }}: {{ getReadableDate(doc.updatedAt) }}
+        <time class="text-v-700 text-sm m-0" :datetime="doc.updated_at">
+          {{ $t("article:updated") }}: {{ getReadableDate(doc.updated_at) }}
         </time>
       </span>
     </div>
@@ -100,7 +100,7 @@ useHead({
       name: "author",
       content: "voraczech",
     },
-    { name: "article:published_time", content: doc.value?.createdAt },
+    { name: "article:published_time", content: doc.value?.created_at },
   ],
   link: [
     {
