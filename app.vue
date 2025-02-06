@@ -44,6 +44,7 @@
 
 <script lang="ts" setup>
 import type { LocaleObject } from "@nuxtjs/i18n"
+import langugageLinks from "~/assets/ts/languageLinks"
 const { setLocale, locales, locale } = useI18n()
 
 const secondLang = computed(() => {
@@ -53,8 +54,26 @@ const secondLang = computed(() => {
   )
 })
 
+const route = useRoute()
+function polishRoute({ lang, path }: { lang: string; path: string }) {
+  return `/${lang}/${path}`
+}
+
 function changeLocale({ code }: LocaleObject) {
+  const currentPath = route.path
+
+  const toGo = langugageLinks.find(
+    (link) =>
+      polishRoute({ lang: locale.value, path: link[locale.value] }) ===
+      currentPath
+  )?.[code]
+
   setLocale(code)
+  if (toGo) {
+    navigateTo(polishRoute({ lang: code, path: toGo }))
+  } else {
+    navigateTo(`/${code}`)
+  }
 }
 
 useHead({
