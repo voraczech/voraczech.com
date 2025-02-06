@@ -1,6 +1,31 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+@config "~/tailwind.config.ts";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-v-50: #faf8f6;
+  --color-v-100: #f7f5f3;
+  --color-v-200: #f1eee9;
+  --color-v-300: #ebe7e5;
+  --color-v-400: #e6e1e0;
+  --color-v-500: #efebe9;
+  --color-v-600: #bcaaa4;
+  --color-v-700: #8c7b7a;
+  --color-v-800: #6e5f5d;
+  --color-v-900: #4e342e;
+  --color-v-950: #3b2320;
+
+  --font-serif: "Noto Serif", "serif";
+}
+
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+  text-decoration: none;
+}
 
 html {
   @apply bg-v-50 font-serif scroll-smooth text-v-900;
@@ -8,7 +33,7 @@ html {
 }
 
 img {
-  @apply rounded;
+  @apply rounded-sm;
 }
 
 article h1:has(a),

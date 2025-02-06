@@ -25,7 +25,7 @@
             <li>
               <button
                 @click="changeLocale(secondLang)"
-                class="bg-v-600 text-v-50 rounded px-2 py-1 w-9 transition-all"
+                class="bg-v-600 text-v-50 rounded-sm px-2 py-1 w-9 transition-all"
               >
                 <transition name="slide" mode="out-in">
                   <div :key="secondLang.code">
@@ -101,6 +101,7 @@ watch(locale, async () => {
 </script>
 
 <style>
+@reference "tailwindcss";
 .v-shadow {
   text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.3),
     0px -1px 0px rgba(0, 0, 0, 0.7);
