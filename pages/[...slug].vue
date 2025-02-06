@@ -32,7 +32,6 @@
               {{ article.description }}
             </p>
             <div class="text-xs mt-2">
-              {{ typeof article.created_at }}
               <time :datetime="article.created_at">
                 {{ getReadableDate(article.created_at) }}
               </time>
