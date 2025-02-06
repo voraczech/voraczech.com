@@ -25,7 +25,7 @@
             <li>
               <button
                 @click="changeLocale(secondLang)"
-                class="bg-v-600 text-v-50 rounded-sm px-2 py-1 w-9 transition-all"
+                class="bg-v-600 text-v-50 rounded-sm px-2 py-1 w-9 transition-all cursor-pointer"
               >
                 <transition name="slide" mode="out-in">
                   <div :key="secondLang.code">
