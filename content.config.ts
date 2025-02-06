@@ -1,8 +1,8 @@
 import { defineContentConfig, defineCollection, z } from "@nuxt/content"
 
 const commonSchema = z.object({
-  createdAt: z.string(),
-  updatedAt: z.string(),
+  created_at: z.string(),
+  updated_at: z.string(),
   image: z.object({
     src: z.string(),
     alt: z.string(),
