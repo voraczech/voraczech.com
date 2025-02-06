@@ -5,13 +5,13 @@
         v-for="article in data"
         :key="article.path"
         :to="article.path"
-        class="text-decoration-none flex flex-row gap-4 sm:gap-6"
+        class="text-decoration-none flex flex-row-reverse sm:flex-row gap-4 sm:gap-6 items-start"
       >
         <NuxtImg
           v-if="article.image"
           :src="article.image.src"
           :alt="article.image.alt"
-          sizes="100px sm:260px"
+          sizes="80px sm:260px"
           class="sm:object-cover sm:aspect-video max-w-20 sm:max-w-52"
           densities="x1 x2"
           :style="{
@@ -28,7 +28,7 @@
             >
               {{ article.title }}
             </h2>
-            <p class="text-v-800">
+            <p class="text-v-800 text-xs sm:text-sm">
               {{ article.description }}
             </p>
             <div class="text-xs mt-2">
