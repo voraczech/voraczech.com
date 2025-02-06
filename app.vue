@@ -24,7 +24,7 @@
             </li>
             <li>
               <button
-                @click="setLocale(secondLang.code)"
+                @click="changeLocale(secondLang)"
                 class="bg-v-600 text-v-50 rounded px-2 py-1 w-9 transition-all"
               >
                 <transition name="slide" mode="out-in">
@@ -43,6 +43,7 @@
 </template>
 
 <script lang="ts" setup>
+import type { LocaleObject } from "@nuxtjs/i18n"
 const { setLocale, locales, locale } = useI18n()
 
 const secondLang = computed(() => {
@@ -51,6 +52,10 @@ const secondLang = computed(() => {
     locales.value[0]
   )
 })
+
+function changeLocale({ code }: LocaleObject) {
+  setLocale(code)
+}
 
 useHead({
   meta: [{ name: "viewport", content: "width=device-width, initial-scale=1" }],
