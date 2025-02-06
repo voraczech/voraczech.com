@@ -1,3 +1,5 @@
+import tailwindcss from "@tailwindcss/vite"
+
 export default defineNuxtConfig({
   experimental: {
     viewTransition: true,
@@ -6,8 +8,9 @@ export default defineNuxtConfig({
   ssr: true,
   devtools: { enabled: true },
 
+  css: ["~/assets/css/main.css"],
+
   modules: [
-    "@nuxtjs/tailwindcss",
     "@nuxt/content",
     "@nuxtjs/google-fonts",
     "@nuxt/image",
@@ -46,10 +49,6 @@ export default defineNuxtConfig({
     vueI18n: "./i18n.config.ts",
   },
 
-  tailwindcss: {
-    cssPath: "~/assets/css/tailwind.css",
-  },
-
   routeRules: {
     "/": { redirect: "/en" }, // https://github.com/nuxt-modules/i18n/issues/700#issuecomment-2204107700
     "/travel/baku": { redirect: "/en/travel/baku" },
@@ -60,6 +59,8 @@ export default defineNuxtConfig({
       redirect: "/cs/sakartvelo/kulturni-rozdily",
     },
   },
+
+  vite: { plugins: [tailwindcss()] },
 
   compatibilityDate: "2025-01-25",
 })
