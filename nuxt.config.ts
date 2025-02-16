@@ -25,8 +25,10 @@ export default defineNuxtConfig({
         },
         rehypePlugins: {
           "rehype-external-links": {
-            target: "_blank",
-            rel: ["nofollow", "noopener", "noreferrer"],
+            options: {
+              target: "_blank",
+              rel: ["nofollow", "noopener", "noreferrer"],
+            },
           },
         },
       },
