@@ -32,7 +32,7 @@ Jsou tu však i nějaké zápory. Na ulicích prostě je vidět chudoba. Někter
 
 Obecně se ale nemusíte bát, je to celkem bezpečné (tipl bych si i pro samotnou slečnu). Slyšel jsem, že 8. čtvrť () může být nebezpečná, ale není to no-go zóna, dávejte si tam pozor.
 
-:pic{src=„/budapest/parlament-v.jpg“ alt=„Parlament“}
+:pic{src="/budapest/parlament-v.jpg" alt="Parlament"}
 
 ## K návštěvě
 
@@ -53,7 +53,7 @@ Obecně se ale nemusíte bát, je to celkem bezpečné (tipl bych si i pro samot
   - 10-15 eur, můžete si rezervovat online, audioprůvodce (nahrávky) i v češtině
   - Zkontrolujte povodňový stav
 
-:pic{src=„/budapest/boat.jpg“ alt=„Pohled na loď“}
+:pic{src="/budapest/boat.jpg" alt="Pohled na loď"}
 
 ## Lidé
 
@@ -78,7 +78,7 @@ Víc mě ale fascinovalo, že se Maďaři nepřekousli přes Trianonskou smlouvu
 - Asijské jídlo
   - Časté. Například Bibimbap Korean Restaurant a mnoho dalších.
 
-:pic{src=„/budapest/langos.jpg“ alt=„Lángos“}
+:pic{src="/budapest/langos.jpg" alt="Lángos"}
 
 ## Chcete být milionářem?
 
@@ -100,7 +100,7 @@ Choďte pěšky, jak jen to jde. Budapešť je vhodné pro pěší. Při použit
 
 Pěkné. Zejména stanice starých linek, některé vypadají jako by tam v minulosti byly koupele. Vstup do metra je jen pro jeden směr jízdy, je třeba zkontrolovat předem správný vchod. Na ulici nejsou vizuálně rušivé, jednoduše schody se žlutou značkou.
 
-:pic{src=„/budapest/metro.jpg“ alt=„Metro“}
+:pic{src="/budapest/metro.jpg" alt="Metro"}
 
 ### Letiště
 

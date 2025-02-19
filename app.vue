@@ -12,7 +12,9 @@
         <nav>
           <ul class="flex gap-6 text-sm lowercase items-baseline">
             <li v-for="link in data?.[0].children" :key="link._path">
-              <NuxtLink :to="link.path">{{ link.title }}</NuxtLink>
+              <NuxtLink :to="link.path"
+                >{{ $t(`menu:${link.title}`, link.title) }}
+              </NuxtLink>
             </li>
             <li>
               <NuxtLink to="/en/about" v-if="locale === 'en'">{{
@@ -70,6 +72,7 @@ function changeLocale({ code }: LocaleObject) {
   }
 }
 
+const config = useRuntimeConfig()
 const getAlternateLinks = computed(() => {
   if (!currentLanguageLink.value) return []
 
@@ -77,7 +80,7 @@ const getAlternateLinks = computed(() => {
     return {
       rel: "alternate",
       hreflang: code,
-      href: path,
+      href: `${config.public.baseUrl}${path}`,
     }
   })
 })
@@ -96,7 +99,7 @@ useHead({
 })
 
 useSeoMeta({
-  ogSiteName: "voraczech.com",
+  ogSiteName: "voraczech",
   ogType: "website",
   twitterCard: "summary_large_image",
 })

@@ -8,6 +8,8 @@ export default defineI18nConfig(() => ({
       "article:updated": "Updated",
     },
     cs: {
+      "menu:Cestovani": "Cestování",
+
       "menu:about": "O mně",
       "content:none": "Žádné články nebyly nalezeny.",
       "article:timeRead": "minut čtení",
