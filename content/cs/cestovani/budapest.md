@@ -1,7 +1,7 @@
 ---
 title: "Budapešť: Tipy z cesty (2024)"
 created_at: 2024-08-13
-updated_at: 2025-02-06
+updated_at: 2025-02-19
 image:
   src: /budapest/parliament.jpg
   alt: Budova maďarského parlamentu, Budapešť
