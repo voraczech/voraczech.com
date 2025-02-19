@@ -32,7 +32,7 @@ Jsou tu však i nějaké zápory. Na ulicích prostě je vidět chudoba. Někter
 
 Obecně se ale nemusíte bát, je to celkem bezpečné (tipl bych si i pro samotnou slečnu). Slyšel jsem, že 8. čtvrť () může být nebezpečná, ale není to no-go zóna, dávejte si tam pozor.
 
-:pic{src="/budapest/parlament-v.jpg" alt="Parlament"}
+:pic{src="/budapest/parliament-in.jpg" alt="Parlament"}
 
 ## K návštěvě
 
