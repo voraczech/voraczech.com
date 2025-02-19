@@ -5,6 +5,12 @@ export default defineNuxtConfig({
     viewTransition: true,
   },
 
+  runtimeConfig: {
+    public: {
+      baseUrl: "https://voraczech.com",
+    },
+  },
+
   ssr: true,
   devtools: { enabled: true },
 

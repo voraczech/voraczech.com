@@ -8,7 +8,7 @@
     >
       {{ doc.title }}
     </h1>
-    <div class="text-v-700 text-sm m-0">
+    <div class="text-v-700 text-sm mt-1">
       <time :datetime="doc.created_at" v-if="doc.created_at">
         {{ getReadableDate(doc.created_at) }}
       </time>
@@ -28,7 +28,7 @@
       :alt="doc.image.alt"
       width="100%"
       sizes="320px sm:450px md:512px lg:740px"
-      class="rounded-md my-6 mx-auto"
+      class="rounded-md mx-auto"
       :style="{
         'view-transition-name': `${getArticleId(doc.path)}-img`,
       }"
@@ -53,7 +53,8 @@ const { data: doc } = await useAsyncData(route.path, async () => {
     .first()
 })
 
-const url = "https://voraczech.com"
+const config = useRuntimeConfig()
+const url = config.public.baseUrl
 const postLink = url + doc.value?.path
 
 useHead({
