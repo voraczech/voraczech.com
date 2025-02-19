@@ -5,7 +5,8 @@ export function getArticleId(articlePath: string | undefined): string {
 export const getReadableDate = (dateString: string) => {
   const date = new Date(dateString)
   const { locale, locales } = useI18n()
-  const lang = locales.value.find((l) => l.code === locale.value)?.language
+  const lang =
+    locales.value.find((l) => l.code === locale.value)?.language ?? "en"
   return date.toLocaleDateString(lang, {
     year: "numeric",
     month: "short",

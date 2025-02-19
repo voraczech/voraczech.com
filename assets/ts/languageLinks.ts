@@ -1,12 +1,21 @@
+import type { LocaleObject } from "@nuxtjs/i18n"
+
 type LanguageLink = {
-  en: string
-  cs: string
+  [key in LocaleObject["code"]]: string
 }
 
 const languageLinks: LanguageLink[] = [
   {
-    en: "about",
-    cs: "o-mne",
+    en: "/en/travel",
+    cs: "/cs/cestovani",
+  },
+  {
+    en: "/en/about",
+    cs: "/cs/o-mne",
+  },
+  {
+    en: "/en/travel/budapest",
+    cs: "/cs/cestovani/budapest",
   },
 ]
 
