@@ -44,7 +44,7 @@
 
 <script lang="ts" setup>
 import type { LocaleObject } from "@nuxtjs/i18n"
-import langugageLinks from "~/assets/ts/languageLinks"
+import languageLinks from "~/assets/ts/languageLinks"
 const { setLocale, locales, locale } = useI18n()
 
 const secondLang = computed(() => {
@@ -55,32 +55,42 @@ const secondLang = computed(() => {
 })
 
 const route = useRoute()
-function polishRoute({ lang, path }: { lang: string; path: string }) {
-  return `/${lang}/${path}`
-}
+const currentLanguageLink = computed(() => {
+  return languageLinks.find((link) => link[locale.value] === route.path)
+})
 
 function changeLocale({ code }: LocaleObject) {
-  const currentPath = route.path
-
-  const toGo = langugageLinks.find(
-    (link) =>
-      polishRoute({ lang: locale.value, path: link[locale.value] }) ===
-      currentPath
-  )?.[code]
+  const toGo = currentLanguageLink.value?.[code]
 
   setLocale(code)
   if (toGo) {
-    navigateTo(polishRoute({ lang: code, path: toGo }))
+    navigateTo(toGo)
   } else {
     navigateTo(`/${code}`)
   }
 }
 
+const getAlternateLinks = computed(() => {
+  if (!currentLanguageLink.value) return []
+
+  return Object.entries(currentLanguageLink.value).map(([code, path]) => {
+    return {
+      rel: "alternate",
+      hreflang: code,
+      href: path,
+    }
+  })
+})
+
 useHead({
   meta: [{ name: "viewport", content: "width=device-width, initial-scale=1" }],
-  link: [{ rel: "icon", type: "image/png", href: "/favicon.ico" }],
+  link: [
+    { rel: "icon", type: "image/png", href: "/favicon.ico" },
+    ...getAlternateLinks.value,
+  ],
   htmlAttrs: {
-    lang: "en",
+    lang: locale.value,
+    dir: "ltr",
   },
   title: "voraczech;",
 })
