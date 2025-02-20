@@ -11,15 +11,28 @@ tags:
   - návod
 ---
 
-O zvětšení možností. Při životních změnách i v každodenním životě.
+O zvětšení možností při životních změnách i v každodenním životě. Pro ty, co normální být chtějí, nebo jen tak chtějí vypadat.
 
 - [Opcionality (možnosti)](#opcionality-možnosti)
 - [Fyzické věci](#fyzické-věci)
+  - [Hotovost](#hotovost)
+  - [Víc bankovních účtů](#víc-bankovních-účtů)
+  - [Krypto](#krypto)
+  - [Cenné kovy](#cenné-kovy)
+  - [Víc pasů](#víc-pasů)
+  - [Přenosné věci](#přenosné-věci)
+  - [Nouzové rezervy / emergency kit](#nouzové-rezervy--emergency-kit)
 - [Nehmotná aktiva](#nehmotná-aktiva)
-- [Být normální](#být-normální)
+  - [Dobré vztahy](#dobré-vztahy)
+  - [Soft skills: vyjednávání, komunikační schopnosti, jazyky](#soft-skills-vyjednávání-komunikační-schopnosti-jazyky)
+  - [Hard skills: Řidičák, zbroják, kurzy pro život](#hard-skills-řidičák-zbroják-kurzy-pro-život)
+  - [Online služby](#online-služby)
+- [Vypadat normální](#vypadat-normální)
 - [Zdroje](#zdroje)
-- [Obecné](#obecné)
-- [Konkrétní](#konkrétní)
+  - [Knihy](#knihy)
+  - [Obecně k prepperství](#obecně-k-prepperství)
+  - [Konkrétní](#konkrétní)
+  - [Již není k dispozici](#již-není-k-dispozici)
 
 Smyslem celého postu je ukázat, že v životě existuje mnoho možností (situací nebo věcí), mezi nimiž v běžných časech moc nerozlišujeme, ale v těžších časech se některé profilují výrazně lépe. V tu chvíli je dopad výběru nezanedbatelný.
 
@@ -29,7 +42,7 @@ Preppeři jsou lidé, co se připravují na nejhorší. Někteří jsou i divní
 
 Opcionalita (z anglických opcí jako options se nemohlo přeložit jako _možnosti_…) dává člověku možnosti, ale ne povinnosti. Často je dodatečná cena zanedbatelná. Zpopularizoval to hlavně Taleb.
 
-Může to být v podstatě cokoli. Třeba to, že se s předstihem koupí víc jízdenek na RegioJet. Ty se průběhu dne (aspoň 15 minut před) ruší, podle toho, jaký spoj stíháte. Nákladem je čas a případně propadlá cena jízdenky, pokud ji člověk nestihne zrušit.
+Může to být v podstatě cokoli. Třeba to, že se s předstihem koupí víc jízdenek na RegioJet s různým časem. Ty se průběhu dne (aspoň 15 minut před) ruší, podle toho, jaký spoj stíháte. Nákladem je čas a případně propadlá cena jízdenky, pokud ji člověk nestihne zrušit.
 
 Vypisuji jen pokud jsou dodatečné náklady na zvýšení možností zanedbatelné (někdy i výhodnější) oproti "běžnému" výběru.
 
@@ -43,13 +56,13 @@ Není to checklist. Je to inspirace.
 
 ### Hotovost
 
-> Normální verze: hotovost v měně, kterou platím + něco z EUR/USD
+> Normální verze: hotovost v měně, kterou normálně používám + něco z EUR/USD
 >
 > Extrémní verze: celá paleta z SDR
 
-> Výhody: Snížení rizika při nefunkčnosti preferenční měny (při více měnách); likvidnost (obzvlášť u cash-only podniků); menší utrácení; anonymita
+> Výhody: Snížení rizika při nefunkčnosti preferenční měny (při více měnách); likvidnost (cash-only podniky); menší utrácení; anonymita
 >
-> Dodatečné náklady: Váha hotovosti; kurzové riziko; nemožnost finančních operací (úrok); bezpečností opatření na úschovu
+> Dodatečné náklady: Váha hotovosti; kurzové riziko; nemožnost určitých finančních operací (úrok); bezpečností opatření na úschovu
 
 Oproti běžné platbě kartou/převodem má ve skutečnosti mnoho výhod:
 
@@ -70,13 +83,13 @@ V rámci hotovosti je důležité mít cizí měny. V případě úpadku systém
 >
 > Extrémní verze: Distribuce napříč jurisdikcemi i entitami
 
-Není třeba hledat velkou katastrofu. Většinou nastanou malé maléry. Například u banky odstávka služeb. Ale v případě nutnosti zaplatit se hodí mít vždy záložní kartu nebo účet.
-
-Extrémní variantou může být založení účtu v zahraničí. Například v Gruzii lze účet zařídit snadno. Multiměnový účet v Evropě hezky umí Revolut i Wise.
-
 > Výhody: Snížení nedostupnosti prostředků
 >
 > Dodatečné náklady: Cena za správu
+
+Není třeba hledat velkou katastrofu. Většinou nastanou malé maléry. Například u banky odstávka služeb. Ale v případě nutnosti zaplatit se hodí mít vždy záložní kartu nebo účet.
+
+Extrémní variantou může být založení účtu v zahraničí. Například v Gruzii lze účet zařídit snadno. Multiměnový účet v Evropě hezky umí Revolut i Wise.
 
 ### Krypto
 
@@ -84,15 +97,15 @@ Extrémní variantou může být založení účtu v zahraničí. Například v 
 >
 > Extrémní verze: Ještě k tomu hardware peněženku a anonymní coiny (Monero)
 
+> Výhody: Podobné jako u hotovosti; lepší přenositelnost vyšších částek
+>
+> Dodatečné náklady: Vyšší volatilita; nutnost pochopit (hlavně definitivní ztrátu při špatné úschově)
+
 Naučit se s kryptoměnami je sama o sobě užitečná věc. Není třeba vytvářet zbytečnou komplexitu ani jít do detailů.
 
 Bude stačit pohrát si s bitcoinem (ideálně na lightning network), případně stablecoiny (kryptoměny navázané 1:1 např. na USD). Možná si nějaký koupit na vexlu.
 
 Extrémnější verzí může být koupit si i privacy coiny jako Monero. Nebo nechat větší část majetku na hardwarové peněžence.
-
-> Výhody: Podobné jako u hotovosti; lepší přenositelnost vyšších částek
->
-> Dodatečné náklady: Vyšší volatilita; nutnost pochopit (hlavně definitivní ztrátu při špatné úschově)
 
 ### Cenné kovy
 
@@ -100,25 +113,13 @@ Extrémnější verzí může být koupit si i privacy coiny jako Monero. Nebo n
 >
 > Extrémní verze: Pravé zlaté šperky; fyzické komodity
 
-V případě konfliktů nebude čas zjišťovat, kolik karátů to zlato má. I kdyby, je lepší mít menší šperk, který lze rychle vyměnit za potraviny. Se zlatou mincí může člověk pod tíhou okamžiku podlehnout méně výhodné transakci. Nedostane tolik zpátky. Je tedy vhodné mít "drobné".
-
-Pro dlouhohobé držení a pro větší portfolia dává smysl držet určité množství kovu jako určitý hedge na systém, inflaci a snížení celkového rizika portfolia.
-
 > Výhody: Diverzifikace
 >
 > Dodatečné náklady: Transakční náklady při nákupu a prodeji; úschova; horší přenositelnost
 
-### Nouzové rezervy
+V případě konfliktů nebude čas zjišťovat, kolik karátů to zlato má. I kdyby, je lepší mít menší šperk, který lze rychle vyměnit za potraviny. Se zlatou mincí může člověk pod tíhou okamžiku podlehnout méně výhodné transakci. Je také vhodné mít "drobné".
 
-> Normální verze: Trvanlivé potraviny
->
-> Extrémní verze: Příliš trvanlivých potravin, cigaret a nábojů; emergency kit
-
-Ze zlaté trojice preppera "cigára, konzervy a náboje" jsou nejuniverzálnější konzervy. Extrémní verzí je zaškrtnutí všech tří. Obzvlášť, když nekouříte. Dodatečné náklady na konzervy jsou nulové, v nejhorším se s tím člověk projí.
-
-> Výhody: Durabilita
->
-> Náklady: Prostor na uschování; záruka
+Pro dlouhohobé držení a pro větší portfolia dává smysl držet určité množství kovu jako určitý hedge na systém, inflaci a snížení celkového rizika portfolia.
 
 ### Víc pasů
 
@@ -126,15 +127,15 @@ Ze zlaté trojice preppera "cigára, konzervy a náboje" jsou nejuniverzálněj�
 >
 > Extrémní verze: Víc občanství, žádný trvalý pobyt, přechodné pobyty
 
+> Výhody: Násobně zvýšená flexibilita
+>
+> Dodatečné náklady: Cena pasu; možná další legislativní zátěž
+
 Mít víc pasů je v ČR legální a normální věc. Je třeba podat důvod, ale to může být cokoli od "dochází místa na stránkách" až po "je tam razítko země, která se nemá ráda se zemí, kam chci jet". Ideální je, když platnost jednoho pasu končí v půlce druhého. Češi můžou mít až 8 pasů.
 
 V případě pořádného preppera lze zvažovat i další občanství. Dá se koupit investicemi (nákup státních dluhopisů, nemovistosti) nebo domestikací. Odlehčenou verzí je požádání o přechodný pobyt. Mnoho Čechů může dosáhnout na slovenské občanství skrze své předky. K tomu je však při žádosti potřeba povolení k dlouhodobému pobytu na Slovensku.
 
-Určitou verzí "mezi" je ještě možnost vůbec nemít trvalý pobyt, jen přechodné. Člověk nemůže volit v komunálních volbách a vzít si hypo. A několikrát za rok si udělat výlet za hranice.
-
-> Výhody: Násobně zvýšená flexibilita
->
-> Dodatečné náklady: Cena pasu
+Určitou verzí "mezi" je ještě možnost vůbec nemít trvalý pobyt, jen přechodné. Člověk nemůže volit v komunálních volbách a vzít si hypo. Nebo několikrát za rok bude muset udělat si výlet za hranice.
 
 ### Přenosné věci
 
@@ -142,95 +143,120 @@ Určitou verzí "mezi" je ještě možnost vůbec nemít trvalý pobyt, jen pře
 >
 > Extrémní verze: Mít jen zanedbatelný majetek ve věcech, které nejsem schopen rychle odvézt
 
-Je-li cestovní alternativa, koupit ji. Pár věcí, co lze běžně používat, ale
-
-- Router
-- Baterky, powerbanky
-  - případně 2v1 nabíječky, které jsou i powerbanky
-- Filtry na vodu
-
-> Výhody: Zvýšení užitkovosti (na cestách)
+> Výhody: Zvýšení užitkovosti (využití i na cestách), mobilita
 >
-> Dodatečné náklady: Menší výběr, možná nižší funkcionalita, případně cena
+> Dodatečné náklady: Menší výběr, možná nižší funkcionalita/komfort, případně cena
 
-### Emergency kit
+Je-li cestovní alternativa, koupit ji. Počítač -> Notebook. I věci jako router mají cestovní verze. V případě již přenosných věcí lze "upgradovat" na lehčí zařízení.
 
-> Normální verze: Lékárnička v autě, věci běžné spotřeby vždy v záloze
+Upřímně je tohle trochu antitip, jelikož u přenosných věcí je případná výhoda (přenositelnost) často úměrně kompenzována cenou nebo komfortem. Notebook oproti počítači se stejným výkonem je dražší, ergonomie při práci je navíc výrazně horší. Navíc mini počítače se slušným výkonem už mají rozměry jako tablety.
+
+Smysl ale může pořád dávat upgradovat již přenositelné věci přenositelnějšími, tj. za vyšší cenu kupovat odlehčenější varianty.
+
+### Nouzové rezervy / emergency kit
+
+> Normální verze: Trvanlivé potraviny, zásoby vody / filtry na vodu pro denní použití, lékárnička v autě, pláštěnka, baterky
 >
-> Extrémní verze: Mít jen zanedbatelný majetek ve věcech, které nejsem schopen rychle odvézt
+> Extrémní verze: Příliš trvanlivých potravin, cigaret a nábojů; emergency kit, potřeby nutné na jen v případě katastrof (rádio)
 
-léky, rádio, pláštěnka, zásoby vody
+> Výhody: Durabilita
+>
+> Náklady: Prostor na uschování
 
-Sedm zákonů:
+Ač se tohle spoustě lidem zdá za hranou "normálnosti", nedávné živelné katastrofy i v ČR (tornádo, povodně) ukazují, že být hmotně připraven na stav nouze nemusí být tak nepravděpodobné, jak se může na první pohled zdát.
+
+Nejdřív tu je zlatá trojice preppera "cigára, konzervy a náboje" jsou nejuniverzálnější konzervy. Extrémní verzí je zaškrtnutí všech tří. Obzvlášť, když nekouříte. Dodatečné náklady na konzervy jsou nulové, v nejhorším se s tím člověk projí.
+
+Nicméně věcí, které je se v nouzi hodí, je mnohem víc. Jak píše Bárta (2021, str. 259) v knize Sedm zákonů:
 
 > Některé země, například Švédsko nebo Německo, mají příručky pro své obyvatele, ve kterých je nabádají, aby měli doma neustále zásoby na několik dní pro případ nouze. Ty zahrnují samozřejmě několik litrů pitné vody na osobu a den, trvanlivé potraviny, potraviny, které je možno konzumovat bez tepelné úpravy, cukr, kávu, čaj, sušenky, čokoládu, konzervy a zavařeniny, pytle na odpadky, dezinfekci, tabletky na dezinfekci vody, napájecí adaptér do auta, malý plynový vařič, svíčky, rádio na baterie, baterku, základní běžné léky, obvazy, spací pytle, čelové svítilny, v ideálním případě malý agregát a přirozeně i zásoby pohonných hmot v kanystru, běžnou hotovost alespoň na tři dny a některé další.
+
+Hodí se i zařízení na filtraci vody, ať už ve formě filtrů pod dřezem přímo napojených na vodu, nebo konvice s filtrovací sadou (např. Brita). V případě výpadku vody lze nějakou chvíli vyžít bez nutnosti nákupu balených vod. Gruzie mě navíc vyškolila v zásobách vody v kanystrech.
+
+A není to jen věc Gruzie. I japonští (extrémní) minimalisté udržují ve svém majetku barely s vodou. Kvůli menšímu množství věcí musí minimalisté více přemýšlet nad větším množstvím situací a připravit se na ně. Katastrofě se můžou vyhnout nejenom svou rychlou mobilitou, ale i připraveností z jiných životních situací.
+
+Další nápady na rezervy lze najít dole ve zdrojích.
 
 ## Nehmotná aktiva
 
 ### Dobré vztahy
 
-> Normální verze: Být hodný
+> Normální verze: Udržovat vztahy včetně vzdálenějších (méně významní přátelé, známí známých)
 >
 > Extrémní verze: Zvýšit množství vztahů na co nejširší spektrum, děti
 
-- extrém - děti (?)
-- pár kvalitních věcí, včetně batohu
-
 > Výhody: Lepší život obecně
 >
-> Dodatečné náklady: Rozstříštěnost vztahů
+> Dodatečné náklady: Možná rozstříštěnost vztahů, čas
+
+Mít dobré vztahy otevírá dveře. Je to věc, o které často nepřemýšlíme jako o aktivu. Jsou to přece lidé a naše nejbližší okolí. Ve výsledku se jedná ale o úžasný zdroj obohacení do života, který je navíc vzájemný.
+
+Možností je spoustu, od běžné socializace, přes nahánění přátel na sociálních sítích až po přáním k narozeninám. Cena je nízká, často rovnou odměňující, možné výhody nevyjádřitelné.
 
 ### Soft skills: vyjednávání, komunikační schopnosti, jazyky
 
-> Normální verze: Konzumovat hodnotný obsah
+> Normální verze: Konzumovat hodnotný obsah, vzdělávat se
 >
-> Extrémní verze: Zbytečné ponoření do problémů s nízkou pravděpodobností
+> Extrémní verze: Zbytečné ponoření do problémů s nízkou pravděpodobností, sociální inženýrství
 
 > Výhody: Lepší život obecně
 >
-> Dodatečné náklady: Naštvanost z toho zeleného ptáčka, který se zase připomíná na lekci
+> Dodatečné náklady: Naštvanost z toho zeleného ptáčka, který se zase připomíná na lekci ze španělštiny
+
+K budování hodnotných vztahů je také důležité hodnotu přinášet a umět ji získat, je-li třeba. Je to jakýsi nutný doplněk ke kvalitnímu životu - abychom dokázali využít život na maximum, je třeba tyto možnosti umět rozpoznat a použít.
+
+Mimo různé YT videa, Duolinga, knihy a jiné se hodí jednoduše zkoušet (a ano, i neuspět).
 
 ### Hard skills: Řidičák, zbroják, kurzy pro život
 
-> Normální verze: Kurzy, co použiju i v normálním životě
+> Normální verze: Kurzy, co použiju i v normálním životě (např. vaření)
 >
-> Extrémní verze: Zbytečné kurzy, co nepoužiju
+> Extrémní verze: Kurzy, co nepoužiju denně, ale mohl bych (kurzy přežití)
 
-Dobrou strategií je i schopnost zapadnout do normálnosti. Cílem útoku bývají lidé, co jakkoli vyčnívají. I na to je video na youtube.
-
-> Výhody: Lepší život obecně
+> Výhody: Opcionalita, schopnost dostat se do nových životních situací
 >
-> Dodatečné náklady: Stres ze zeleného ptáčka, který se zase připomíná na lekci
+> Dodatečné náklady: Čas, cena
 
-### Služby
+Platí stejné, co u soft skills.
 
-> Normální verze: Vyzkoušet VPN, Tor, šifrovanou komunikaci
+### Online služby
+
+> Normální verze: Vyzkoušet VPN, Tor, šifrovanou komunikaci, kryptoměnové platby
 >
-> Extrémní verze: Minimalizace používání jakýchkoli služeb na úkor životního stylu
+> Extrémní verze: Přehánění využívání bez přidaného užitku
 
-bluetooth verze
-
-> Výhody: Schopnost používat alternativy před
+> Výhody: Schopnost používat alternativy před jejich nutností (až bude pozdě)
 >
-> Dodatečné náklady: Cena služeb, komfort
+> Dodatečné náklady: Cena služeb, komfort, čas
 
-- VPN, Tor (na seriály, znalost dark netu)
+Je vhodné naučit se některé věci předtím, než bude třeba. Pak je člověk často ve stresu i proto, že úplně neví, co dělá. Vyměnit pneumatiku. Jíst hůlkama. Zaplatit novou platební metodou. Používat VPN. Správně se zeptat AI.
 
-## Být normální
+Tuto část lze vztáhnout na celou škálu služeb i znalostí. Hlavním cílem je zde online prostor jenom z důvodu, že na něm trávíme dost času, velmi se mění a rychle expanduje. Nové služby mohou být za pár let užitečný nástroj pro větší osobní svobodu.
 
-Dobrou strategií je i zapadnutí do standardu normálnosti. Cílem útoku bývají lidé, co jakkoli vyčnívají. I na to je video na youtube.
+## Vypadat normální
+
+A ještě jedna kontroverzní věc nakonec.
+
+Pravidlo 38 v _48 zákonech moci_ říká: Myslete, jak chcete, ale chovejte se jako ostatní.
+
+Strategií je zapadnout do definice normálnosti. Cílem útoku bývali historicky lidé, co jakkoli vyčnívali. Cestou k vyšší anonymitě může být papírově nevyčnívat než rebelovat. Prázdný řádek je větší pěst na oko než průměrná hodnota.
 
 ---
 
 ## Zdroje
 
-## Obecné
+### Knihy
+
+- BÁRTA, Miroslav. Sedm zákonů. Brno: JOTA, 2021. ISBN 978-80-7565-640-7.
+- GREENE, Robert. The 48 laws of power. London: Profile Books, 1998. ISBN 1-86197-139-7.
+
+### Obecně k prepperství
 
 - [Pavlína Louženská: Jak přežít](https://www.pavlinaspeaks.com/blog/jakprezit)
 - [Preppers web](http://www.prepper.cz/)
 - [Fórum rozpad](https://rozpad.cz)
 
-## Konkrétní
+### Konkrétní
 
 - [Významnost hotovosti](https://youtu.be/-yGFps9MFQ0)
 - [Special drawing rights](https://en.wikipedia.org/wiki/Special_drawing_rights)
@@ -238,5 +264,8 @@ Dobrou strategií je i zapadnutí do standardu normálnosti. Cílem útoku býva
 - [Emergency kit ultra minimalisty](https://youtu.be/XBQBKseozuY?feature=shared&t=269)
 - [Smysl investice do vztahů](https://youtu.be/QU2K6XEnA0I)
 - [Networking](https://youtu.be/QU2K6XEnA0I)
-- [Nevyčnívat](https://youtu.be/fWlZvsXIucE)
-  - [Celý playlist Digitální sebeobrany](https://youtube.com/playlist?list=PLGJQS0h-wqLQuklhHXDAPH2KKTdKZhttj)
+
+### Již není k dispozici
+
+- [~Nevyčnívat~](https://youtu.be/fWlZvsXIucE)
+  - [~Celý playlist Digitální sebeobrany~](https://youtube.com/playlist?list=PLGJQS0h-wqLQuklhHXDAPH2KKTdKZhttj)
