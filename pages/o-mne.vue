@@ -24,7 +24,7 @@
     <ul>
       <li>
         <NuxtLink to="https://youtu.be/bJQj1uKtnus" target="_blank"
-          >Všechno je draft (anglicky).</NuxtLink
+          >Všechno je draft.</NuxtLink
         >
       </li>
       <li>
