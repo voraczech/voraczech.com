@@ -5,6 +5,7 @@ type LanguageLink = {
 }
 
 const languageLinks: LanguageLink[] = [
+  // menu
   {
     en: "/en/travel",
     cs: "/cs/cestovani",
@@ -13,9 +14,14 @@ const languageLinks: LanguageLink[] = [
     en: "/en/about",
     cs: "/cs/o-mne",
   },
+  // posts
   {
     en: "/en/travel/budapest",
     cs: "/cs/cestovani/budapest",
+  },
+  {
+    en: "/en/calm/prepper",
+    cs: "/cs/klid/prepper",
   },
 ]
 
