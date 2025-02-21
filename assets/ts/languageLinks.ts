@@ -31,8 +31,8 @@ const languageLinks: LanguageLink[] = [
   // dev
   {
     en: "/en/dev/ai-links",
-    cs: "/cs/vyvoj/ai-odkazy"
-  }
+    cs: "/cs/vyvoj/ai-odkazy",
+  },
   // travel
   {
     en: "/en/travel/budapest",
