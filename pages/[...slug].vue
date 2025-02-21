@@ -5,7 +5,7 @@
         v-for="article in data"
         :key="article.path"
         :to="article.path"
-        class="text-decoration-none flex flex-row-reverse sm:flex-row gap-4 sm:gap-6 items-start justify-between"
+        class="text-decoration-none flex flex-row-reverse sm:flex-row gap-4 sm:gap-6 items-start"
       >
         <NuxtImg
           v-if="article.image"

@@ -20,7 +20,7 @@ Základová deska pro budování osobního investičního portfolia.
   - [Jsem obeznámen](#jsem-obeznámen)
 - [Zdroje](#zdroje)
 
-Text slouží jako checklist, ne inspirace.
+Text slouží jako checklist, ne inspirace. Motivací byly mnohé žádosti přátel, text proto může být nakloněn víc k určitým tématům.
 
 ## Vím, co chci
 
@@ -41,6 +41,19 @@ Před jakýmkoli investováním je nezbytně nutné být schopen vykrýt běžn�
 Důvodem je, že člověk dělá lepší investiční rozhodnutí. Nezávisí-li na daných penězích, zda bude další měsíc na životní náklady, dostává člověk možnost myslet i investovat s delším časovým horizontem.
 
 #### Aspoň tři, ideálně šest, nejlépe dvanách měsíčních výdajů v úsporách
+
+Existuje investiční trojúhelník:
+
+- výnosnost
+  - návratnost dané investice
+- likvidita
+  - jak rychle jsem schopen za danou věc získat peníze (nejlikvidnější aktivum)
+- riziko
+  - možnost negativního dopadu; výpočet (a vlastně i definice) rizika je mezi investory sporné a nekonečné téma, takže je tedy vždy rizikové (hihi) se o to pokoušet
+
+Tyto výdaje lze nějakým způsobem ještě rozdělit - např. první měsíc až tři mít na spořícím účtu s malým úrokem, u kterého je otázka sekund na převedení na běžný účet a platbu. Další část může být uložena například na termínovaném vkladu s vyšším úrokem. Výhoda termínovaných vkladů v Evropě je, že předčasný výběr není reálně penalizován - pouze není vyplacen úrok, ale pokuta není.
+
+Opravdu pozor na to, jak jsou peníze uloženy. Každý způsob má určité riziko. Znám příběhy lidí, kteří neměli majetek na horší časy uložen v plně likvidních aktivech. Toto jsou prostředky k tomu, aby se v době krize problémy minimalizovaly, ne vytvářely. V jiném případě zase byl majetek snadno prodejný, ale byl ukraden ze skladu. Nepojištěn.
 
 #### Pojištění?
 
@@ -64,6 +77,8 @@ Z toho vyplývá:
 - Bohatí lidé nepotřebují pojištění. Dopad na jejich finanční situaci je prakticky nula. Vykryjí ho z vlastních prostředků bez nutnosti platit pojistku s prémiem.
 
 ### Jsem obeznámen
+
+„Kup si é-té-efko es-en-pí pět set a hotovo.” I to svoje rizika. A jedno z nich je jejich samotná neznalost.
 
 ---
 

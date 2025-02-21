@@ -3,13 +3,14 @@ title: "Budapest: Bits of travel tips (2024)"
 created_at: 2024-08-13
 updated_at: 2025-02-19
 image:
-  src: /budapest/parliament.jpg
+  src: /travel/budapest/parliament.jpg
   alt: Hungarian Parliament Building, Budapest
 language: en
 tags:
   - budapest
-  - travel
   - hungary
+  - travel
+  - tips
 ---
 
 You want to visit Buda. You want to visit Pest. I have a few thoughts from there.
@@ -32,7 +33,7 @@ There are some cons though. You can see poverty on the streets. Some buildings n
 
 But in general you do not need to worry, it is pretty safe even for a girl alone. I heard that 8th district can be dangerous but it is not a no-go zone, pay attention there.
 
-:pic{src="/budapest/parliament-in.jpg" alt="Parliament"}
+:pic{src="/travel/budapest/parliament-in.jpg" alt="Parliament building"}
 
 ## Visit
 
@@ -53,7 +54,7 @@ But in general you do not need to worry, it is pretty safe even for a girl alone
   - 10-15 Euros, you can book online, audioguide there is useful
   - Check the floods on Danube.
 
-:pic{src="/budapest/boat.jpg" alt="Boat view"}
+:pic{src="/travel/budapest/boat.jpg" alt="Boat view"}
 
 ## People
 
@@ -80,7 +81,7 @@ Consider this list also as a "words to know" part in this post.
 - Asian food
   - For example Bibimbap Korean Restaurant and many others
 
-:pic{src="/budapest/langos.jpg" alt="Lángos"}
+:pic{src="/travel/budapest/langos.jpg" alt="Lángos"}
 
 ## Who wants to be a millionaire?
 
@@ -102,7 +103,7 @@ Walk as much as you can. Budapest is a walk friendly city. You can buy tickets i
 
 Nice. Especially old line stations, some look like a bathroom. Each metro entrance is for one direction, you need to look. They are not visually disturbing, just stairs with a yellow sign.
 
-:pic{src="/budapest/metro.jpg" alt="Metro"}
+:pic{src="/travel/budapest/metro.jpg" alt="Metro"}
 
 ### Airport
 

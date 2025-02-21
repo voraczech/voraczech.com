@@ -3,8 +3,13 @@ title: Being in Baku, Azerbaijan (2022)
 created_at: 2022-04-05
 updated_at: 2025-02-06
 image:
-  src: /baku/flame.jpg
+  src: /travel/baku/flame.jpg
   alt: Flame Towers, Baku
+tags:
+  - Baku
+  - Azerbaijan
+  - travel
+  - tips
 ---
 
 A simple list of tips you may use before/during your stay in Baku.
@@ -53,9 +58,7 @@ Outside, but near Baku:
 
 I recommend using Free Walking Guide for example [this](https://bakufreetour.com/) one. They are free, but you should tip them at the end.
 
-:pic{src="https://miro.medium.com/v2/resize:fit:1400/1*m_jX-02dOCaOkFfoZNXnkA.jpeg" alt=""}
-
-Yanardag — but this is everything there
+:pic{src="https://miro.medium.com/v2/resize:fit:1400/1*m_jX-02dOCaOkFfoZNXnkA.jpeg" alt="Yanardag — but this is everything there"}
 
 ## Eating
 
@@ -78,7 +81,7 @@ This list could be long, just google it:
 
 Meat is mostly halal. Sometimes it tastes differently, especially beef. Don’t worry, this taste is just weird. If you do not like it, eat chicken, you cannot notice it is halal.
 
-:pic{src="https://miro.medium.com/v2/resize:fit:1400/1*90Or07o9EaQI3GKl4g7zOw.jpeg" alt=""}
+:pic{src="https://miro.medium.com/v2/resize:fit:1400/1*90Or07o9EaQI3GKl4g7zOw.jpeg" alt="Azerbaijan cuisine"}
 
 ### Kebab & doners
 
@@ -199,9 +202,7 @@ Azerbaijani is similar to Turkish. If you speak Russian, you can use it as well 
 - Iki: Two
 - (Çox) sağol: Thank you (very much)
 
-:pic{src="https://miro.medium.com/v2/resize:fit:1400/1*4pFjKh3u8zCSnP-MnvzYvA.jpeg" alt=""}
-
-The building you expect in Baku post
+:pic{src="https://miro.medium.com/v2/resize:fit:1400/1*4pFjKh3u8zCSnP-MnvzYvA.jpeg" alt="The building you expect in Baku post"}
 
 ## Transportation
 
