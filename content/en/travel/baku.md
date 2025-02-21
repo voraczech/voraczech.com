@@ -41,7 +41,7 @@ Personal recommendation: **Never buy anything without a price tag**. Even in a s
 
 Price negotiation can be used at a market stall outside Baku (even though there is a price tag). Potato on a stick should cost a maximum of 3 AZN, any higher price is negotiable.
 
-:pic{src="https://miro.medium.com/v2/resize:fit:1400/1*mHwTIK48-nJoDxyZTvytIw.jpeg" alt=""}
+:pic{src="/travel/baku/heydar-mosque.jpg" alt="Heydar mosque"}
 
 Heydar Mosque — a lot of things are named after former president Heydar Aliyev, so always double-check that your map shows the right sight
 
