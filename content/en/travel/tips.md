@@ -59,19 +59,19 @@ And please don't confuse comfort with luxury. Both sides.
 
 #### Middle seat takes armrests
 
-An unwritten rule I found in the past. The only privilege a middle seat passanger can have. This rule is handy especially if you are in the middle (pun intended).
+An unwritten rule I found in the past. The only privilege a middle seat passanger can have. This rule is handy (pun intended) especially if you are in the middle.
 
-#### Last call is not last call (for low-cost airlines)
+#### Last call may not be last call (for low-cost airlines)
 
 Not to waste time, some airlines make last call almost immediately after a gate is opened.
 
 #### If you use low-cost airlines, be prepared a bad experience may come
 
-And then abandon the airline. It may be the next flight or the 100th one. It is a risk worth trying until things go wrong. Even paying an additional fee for _anything_ is worth the chance. And possibly money you have saved so far. Move on then.
+And then abandon the airline. It may be the next flight or the 100th one. It is a risk worth trying until things go wrong. Even paying an additional fee for _something_ is worth the chance. And possibly money you have saved so far. Move on then.
 
 #### Be acceptably late but still prepared
 
-Airports are a magic place where being (acceptably) late is always better than being on time. It does not matter you drop off your baggage last, it will be on top (better for you). It does not matter you get on the plane last if you are on time. When the first people are in the plane, I go to the toilet. At the end, flight attendants are more benevolent and want you to go through as fast as you can.
+Airports are a magic place where being acceptably late is always better than being on time. It does not matter you drop off your baggage last, it will be on top (better for you). It does not matter you get on the plane last if you are still on time. When the first people are in the plane, I go to the toilet. At the end, flight attendants are more benevolent and want you to go through as fast as you can.
 
 #### Use sunscreen protection
 
@@ -105,7 +105,7 @@ Nuts are great for transportation. They are available everywhere, healthy with a
 
 If you travel east, sleep as much as you can. You are loosing hours while travelling. But try not to sleep when you travel west.
 
-## Travel
+## Guides
 
 Use free walking tour. Of course you tip. Usually you give 10 EUR/USD. Reduce if it is bad or shorter (up to 2 hours), increase if it was exceptional or you feel you should give more.
 
@@ -118,7 +118,7 @@ Use free walking tour. Of course you tip. Usually you give 10 EUR/USD. Reduce if
   - [[SK] a bit longer version part I](https://www.facebook.com/wilderko/posts/pfbid02KVxkK728gaKUhSutq8ruRVAWqqRUMVj2j3XJuaEpwFF7k6jLGJ2b2oGXpDNEwhrhl)
   - [[SK] Part II](https://www.facebook.com/story.php?story_fbid=10231226068784769&id=1525189751&rdid=y4UzAtOcJprL3YG7)
 
-- [Inspiration for light packing](libredd.it/r/onebag)
+- [Inspiration for a light packing](libredd.it/r/onebag)
 - [Vitalik's 40l backpack](https://vitalik.eth.limo/general/2022/06/20/backpack.html)
 - [[CZ] Cestování po vlastní ose](https://povlastniose.eu/rady/co-s-sebou-na-cesty)
 

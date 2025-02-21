@@ -10,6 +10,7 @@ tags:
   - prepper
   - tutorial
   - how to
+  - calm
 ---
 
 About increasing possibilities during life situations and in everyday life. For those who want to be normal or just want to look normal.
@@ -255,6 +256,7 @@ The strategy is to fit into the definition of normalcy. The target of attack has
 
 - [Special drawing rights](https://en.wikipedia.org/wiki/Special_drawing_rights)
 - [Get your visa](https://visadb.io/)
+- [Emergency kit inspiration](https://theprepared.com/bug-out-bags/guides/bug-out-bag-list/)
 - [Emergency kit of an extreme minimalist](https://youtu.be/XBQBKseozuY?feature=shared&t=269)
 
 ## Specific (but in Czech)

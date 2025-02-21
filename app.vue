@@ -1,17 +1,23 @@
 <template>
   <div class="px-6 pb-10">
     <div class="max-w-prose mx-auto">
-      <header class="flex items-baseline justify-between py-8">
+      <header class="flex items-baseline justify-between py-8 gap-4">
         <NuxtLink
           :to="`/${locale}`"
           class="text-v-600 v-shadow text-xl font-bold font-serif"
         >
-          <span class="sm:hidden">v;</span>
-          <span class="hidden sm:inline-block">voraczech;</span>
+          <span class="md:hidden">v;</span>
+          <span class="hidden md:inline-block">voraczech;</span>
         </NuxtLink>
         <nav>
-          <ul class="flex flex-wrap gap-4 text-sm lowercase items-baseline">
-            <li v-for="link in data?.[0].children" :key="link._path">
+          <ul
+            class="flex flex-wrap gap-4 text-sm lowercase items-baseline justify-end"
+          >
+            <li
+              v-for="link in data?.[0].children"
+              :key="link._path"
+              class="hidden sm:block"
+            >
               <NuxtLink :to="link.path"
                 >{{ $t(`menu:${link.title}`, link.title) }}
               </NuxtLink>

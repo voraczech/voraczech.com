@@ -5,7 +5,6 @@ updated_at: 2024-08-16
 image:
   src: /sakartvelo/difference.jpg
   alt: Kulturní rozdíly, Rustaveli
-language: en
 tags:
   - sakartvelo
   - gruzie

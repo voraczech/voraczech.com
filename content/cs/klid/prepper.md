@@ -9,6 +9,8 @@ language: cs
 tags:
   - prepper
   - návod
+  - inspirace
+  - klid
 ---
 
 O zvětšení možností při životních změnách i v každodenním životě. Pro ty, co normální být chtějí, nebo jen tak chtějí vypadat.
@@ -261,6 +263,7 @@ Strategií je zapadnout do definice normálnosti. Cílem útoku bývali historic
 - [Významnost hotovosti](https://youtu.be/-yGFps9MFQ0)
 - [Special drawing rights](https://en.wikipedia.org/wiki/Special_drawing_rights)
 - [Proč dává smysl nízkokarátový šperk a ne cihla](https://www.seznamzpravy.cz/clanek/audio-podcast-ve-vate-cekam-vaznou-recesi-zlate-cihly-vas-ale-nezachrani-varuje-investor-217710)
+- [Inspirace na emergency kit](https://theprepared.com/bug-out-bags/guides/bug-out-bag-list/)
 - [Emergency kit ultra minimalisty](https://youtu.be/XBQBKseozuY?feature=shared&t=269)
 - [Smysl investice do vztahů](https://youtu.be/QU2K6XEnA0I)
 - [Networking](https://youtu.be/QU2K6XEnA0I)

@@ -9,6 +9,7 @@ language: cs
 tags:
   - vipassana
   - meditace
+  - klid
 ---
 
 Jak jsem se během svátků dobrovolně odstřihl od blízkých, žil na dvou jídlech denně, vstával ve čtyři a s nikým nemluvil. Díl první.
@@ -26,9 +27,13 @@ Málokdy něco nenajdu. Obzvlášť vím-li, že to existuje. Z googlování (du
 - [Vipassana](#vipassana)
 - [Co](#co)
 - [Jak](#jak)
+  - [Průběh](#průběh)
 - [Proč](#proč)
 - [Příprava](#příprava)
+  - [Registrace](#registrace)
 - [Odkazy](#odkazy)
+  - [Zdroje na vipassanu](#zdroje-na-vipassanu)
+  - [Pro kontext k článku](#pro-kontext-k-článku)
 
 ## Vipassana
 
