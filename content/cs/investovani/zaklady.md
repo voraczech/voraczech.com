@@ -1,7 +1,7 @@
 ---
 title: "Základy investování: Nutné předpoklady (draft)"
 created_at: 2025-02-20
-updated_at: 2025-02-20
+updated_at: 2025-02-22
 image:
   src: /investing/confused-stonks.webp
   alt: Základy před investováním
