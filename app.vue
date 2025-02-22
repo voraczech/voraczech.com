@@ -5,10 +5,8 @@
         <NuxtLink
           :to="`/${locale}`"
           class="text-v-600 v-shadow text-xl font-bold font-serif"
+          >voraczech;</NuxtLink
         >
-          <span class="md:hidden">v;</span>
-          <span class="hidden md:inline-block">voraczech;</span>
-        </NuxtLink>
         <nav>
           <ul
             class="flex flex-wrap gap-4 text-sm lowercase items-baseline justify-end"

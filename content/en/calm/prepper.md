@@ -1,5 +1,5 @@
 ---
-title: "Prepper but normal: How to be prepared and not be weird"
+title: "Prepper but Normal: How to Be Prepared and Not Be Weird"
 created_at: 2024-08-23
 updated_at: 2025-02-20
 image:

@@ -1,5 +1,5 @@
 ---
-title: "Bits of travel tips"
+title: "Bits of Travel Tips"
 created_at: 2024-08-18
 updated_at: 2025-02-22
 image:
