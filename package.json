@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@nuxtjs/i18n": "^9.1.5",
+    "@nuxtjs/seo": "2.2.0",
     "@tailwindcss/vite": "^4.0.3",
     "nuxt": "^3.10.2",
     "rehype-external-links": "^3.0.0",

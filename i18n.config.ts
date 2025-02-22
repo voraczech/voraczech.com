@@ -3,8 +3,6 @@ export default defineI18nConfig(() => ({
   messages: {
     en: {
       "menu:about": "About",
-      "menu:Calm": "Calm",
-      "menu:Travel": "Travel",
 
       "content:none": "No articles found.",
       "article:timeRead": "min read",
@@ -12,11 +10,6 @@ export default defineI18nConfig(() => ({
     },
     cs: {
       "menu:about": "O mně",
-      "menu:Cestovani": "Cestování",
-      "menu:Klid": "Klid",
-      "menu:Investovani": "Investování",
-      "menu:Sakartvelo": "საქართველო",
-      "menu:Vyvoj": "Vývoj",
 
       "content:none": "Žádné články nebyly nalezeny.",
       "article:timeRead": "minut čtení",

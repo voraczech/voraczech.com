@@ -129,6 +129,8 @@ Use free walking tour. Of course you tip. Usually you give 10 EUR/USD. Reduce if
 - [The Definitive Guide To Air Travel](https://graze.beehiiv.com/p/definitive-guide-air-travel)
   - May be a bit controversial but worth reading
 - [Travel resources by Nomadic Matt](https://nomadicmatt.com/travel-resources/)
+- [Wanderlog](https://wanderlog.com/)
+  - For planning your tips, handy if you travel with others
 
 ---
 

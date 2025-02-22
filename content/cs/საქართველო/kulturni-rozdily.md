@@ -1,5 +1,5 @@
 ---
-title: "Gruzie (Sakartvelo): Kulturní rozdíly"
+title: "Sakartvelo (Gruzie): Kulturní rozdíly"
 created_at: 2024-08-15
 updated_at: 2024-08-16
 image:
@@ -77,7 +77,7 @@ Na celém Kavkaze se nesmrká. Nevím, jak to dělají. Hlasité smrkání se be
 
 #### Závislost na mobilu
 
-Přijde mi, že jsou mnohem závislejší na mobilech, je úplně normální, že si aspoň člověk dva projíždí mobil v kině. V metru často hrají hry. V kontrastu s tím si myslím, že Gruzínci jsou i historicky hodně kulturní a sečtělý národ (který si mohl zachovat svoje písmo i v dobách SSSR), prodej knih na ulici je stále běžný.
+Přijde mi, že jsou mnohem závislejší na mobilech, je úplně normální, že si aspoň člověk dva projíždí mobil v kině. V metru často hrají hry. Konkrétně jednu, ale přijde mi tak hloupá, že jí nechci dělat promo. V kontrastu s tím si myslím, že Gruzínci jsou i historicky hodně kulturní a sečtělý národ (který si mohl zachovat svoje písmo i v dobách SSSR), prodej knih na ulici je stále běžný.
 
 #### Strach z deště
 
@@ -135,6 +135,19 @@ Nejsou nebezpeční, vím jen o dvou případech, kdy pes kousl a v obou to byla
 
 Z kohoutku se dá pít, Gruzínci si ji nechávají odstát. Dlouhodobě bych ji ale bez filtrů nepil. Pokud jedete na týden dva, je to v pohodě. Dle lokace může být výpadek vody (ve Vake nebo Varketili to je asi nejhorší), každá domácnost má v záloze barely s vodou.
 
+### Život
+
+Na facebooku jsem objevil trefný komentář. Platí obzvlášť pro Tbilisi:
+
+> Věci, se kterými se musíte smířit, když žijete v Gruzii:
+> (1) výpadky vody
+> (2) výpadky proudu
+> (3) hlasité práce na stavbě
+> (4) ohňostroje
+> (5) vylomeniny v podzních hodinách
+> (6) zácpy a zněčištění
+> Pokud se s nimi člověk smíří, je tato úžasná země skutečný ráj!!
+
 ### Karty
 
 U restaurací bývá zvykem, že mají dva platební terminály. Ekonomicky to tu dává smysl, nejčastěji se jedná o Bank of Georgia (BoG, Sakarvelos banki) a TBC, sem tam Liberty. Pro platby evropskou kartou to je jedno, Amex funguje možná jen u BoG.
@@ -169,3 +182,4 @@ Je tu samozřejmě jiné, specifické. Nicméně výhoda je, že je tady všem �
   - 6:40 pro „This is not German. This is Georgian.”
 - [Kulturní rozdíly v Arménii](https://www.ceskatelevize.cz/porady/16047276686-vyborna-show/224544160330007/) jsou očividně stejné
   - časy 19:30 (o smrkání) 28:08
+- [O výpadcích vody a obecně o problémech v Gruzii](https://www.facebook.com/groups/ExpatsInTbilisi/posts/1497578600683794/?comment_id=1497675954007392)

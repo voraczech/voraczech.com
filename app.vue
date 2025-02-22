@@ -13,15 +13,6 @@
           <ul
             class="flex flex-wrap gap-4 text-sm lowercase items-baseline justify-end"
           >
-            <li
-              v-for="link in data?.[0].children"
-              :key="link._path"
-              class="hidden sm:block"
-            >
-              <NuxtLink :to="link.path"
-                >{{ $t(`menu:${link.title}`, link.title) }}
-              </NuxtLink>
-            </li>
             <li>
               <NuxtLink to="/en/about" v-if="locale === 'en'">{{
                 $t("menu:about")
@@ -101,7 +92,7 @@ useHead({
     lang: locale.value,
     dir: "ltr",
   },
-  title: "voraczech;",
+  title: "",
 })
 
 useSeoMeta({
