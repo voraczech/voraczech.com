@@ -66,6 +66,8 @@ Kvalitní kurzy zdarma.
   - většina nejlepších kupónů je pryč (to jde bohužel vidět až po registraci)
   - zdarma, nutná registrace
     - zpravidla se ptají na telefonní číslo, linkedin je dobrovolný
+- [State of AI](https://www.stateof.ai/)
+  - Roční report o stavu AI
 
 ## Lidé, které lze sledovat
 

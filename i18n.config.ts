@@ -16,6 +16,7 @@ export default defineI18nConfig(() => ({
       "menu:Klid": "Klid",
       "menu:Investovani": "Investování",
       "menu:Sakartvelo": "საქართველო",
+      "menu:Vyvoj": "Vývoj",
 
       "content:none": "Žádné články nebyly nalezeny.",
       "article:timeRead": "minut čtení",
