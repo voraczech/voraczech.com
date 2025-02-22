@@ -80,6 +80,8 @@ Z toho vyplývá:
 
 „Kup si é-té-efko es-en-pí pět set a hotovo.” I to svoje rizika. A jedno z nich je jejich samotná neznalost.
 
+- problémy pasivního investování
+
 ---
 
 ## Zdroje

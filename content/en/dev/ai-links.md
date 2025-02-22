@@ -19,7 +19,7 @@ This article could change constantly because of the infinite inflow of new and b
 
 - [Artificial Analysis](https://artificialanalysis.ai/)
   - a thorough comparison of AI models
-  - they also compare price to
+  - they also compare price to power
   - it is a good idea to browse the entire web for specific categories (e.g. text-to-speech)
 - [AI Benchmarking Hub](https://epoch.ai/data/ai-benchmarking-dashboard)
   - another benchmarking
@@ -45,9 +45,7 @@ There are a lot of services and they are still growing. This is just a simple li
 
 :pic{src="/dev/duck-ai-models.png" alt="List of models duck.ai provides"}
 
-## Vzdělání
-
-Kvalitní kurzy zdarma.
+## Learning
 
 Quality courses for free.
 
@@ -68,3 +66,5 @@ Quality courses for free.
   - most of the best coupons are gone (unfortunately, this can only be seen after registration)
   - free, registration required
     - usually asks for a phone number, linkedin is optional
+- [State of AI](https://www.stateof.ai/)
+  - Yearly AI report
