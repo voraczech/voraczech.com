@@ -1,5 +1,5 @@
 ---
-title: "Budapest: Bits of travel tips (2024)"
+title: "Budapest: Bits of Travel Tips (2024)"
 created_at: 2024-08-13
 updated_at: 2025-02-19
 image:
