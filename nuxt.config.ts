@@ -16,11 +16,13 @@ export default defineNuxtConfig({
 
   css: ["~/assets/css/main.css"],
 
+  // seo must be before content
   modules: [
-    "@nuxt/content",
     "@nuxtjs/google-fonts",
     "@nuxt/image",
     "@nuxtjs/i18n",
+    "@nuxtjs/seo",
+    "@nuxt/content",
   ],
 
   content: {
@@ -68,6 +70,10 @@ export default defineNuxtConfig({
     },
   },
 
+  site: {
+    url: "https://voraczech.com",
+    name: "voraczech;",
+  },
   vite: { plugins: [tailwindcss()] },
 
   compatibilityDate: "2025-01-25",
