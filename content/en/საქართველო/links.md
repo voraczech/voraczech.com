@@ -1,5 +1,5 @@
 ---
-title: "Sakartvelo (Georgia) - Useful links"
+title: "Sakartvelo (Georgia): Useful links"
 created_at: 2025-02-22
 image:
   src: /sakartvelo/links.jpg

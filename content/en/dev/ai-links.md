@@ -1,5 +1,5 @@
 ---
-title: "AI - Useful Links"
+title: "AI: Useful Links"
 created_at: 2025-02-21
 image:
   src: /dev/ai-links.webp

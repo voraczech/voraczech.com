@@ -1,5 +1,5 @@
 ---
-title: "AI - užitečné odkazy"
+title: "AI: užitečné odkazy"
 created_at: 2025-02-21
 image:
   src: /dev/ai-links.webp

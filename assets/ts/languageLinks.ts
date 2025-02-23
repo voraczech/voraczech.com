@@ -15,6 +15,10 @@ const languageLinks: LanguageLink[] = [
     cs: "/cs/vyvoj",
   },
   {
+    en: "/en/sakartvelo",
+    cs: "/cs/sakartvelo",
+  },
+  {
     en: "/en/travel",
     cs: "/cs/cestovani",
   },
@@ -32,6 +36,15 @@ const languageLinks: LanguageLink[] = [
   {
     en: "/en/dev/ai-links",
     cs: "/cs/vyvoj/ai-odkazy",
+  },
+  // sakartvelo
+  {
+    en: "/en/sakartvelo/links",
+    cs: "/cs/sakartvelo/odkazy",
+  },
+  {
+    en: "/en/sakartvelo/apps",
+    cs: "/cs/sakartvelo/aplikace",
   },
   // travel
   {

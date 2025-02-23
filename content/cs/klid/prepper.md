@@ -13,7 +13,7 @@ tags:
   - klid
 ---
 
-O zvětšení možností při životních změnách i v každodenním životě. Pro ty, co normální být chtějí, nebo jen tak chtějí vypadat.
+O více možnostech při životních změnách i v každodenním životě.
 
 - [Opcionality (možnosti)](#opcionality-možnosti)
 - [Fyzické věci](#fyzické-věci)
@@ -39,6 +39,8 @@ O zvětšení možností při životních změnách i v každodenním životě. 
 Smyslem celého postu je ukázat, že v životě existuje mnoho možností (situací nebo věcí), mezi nimiž v běžných časech moc nerozlišujeme, ale v těžších časech se některé profilují výrazně lépe. V tu chvíli je dopad výběru nezanedbatelný.
 
 Preppeři jsou lidé, co se připravují na nejhorší. Někteří jsou i divní a paranoidní. Toto je pro lidi, kteří chtějí žít stejně jako dosud. Ale zároveň být o trochu lépe připraveni.
+
+Pro ty, co normální být chtějí, nebo jen tak chtějí vypadat.
 
 ## Opcionality (možnosti)
 
