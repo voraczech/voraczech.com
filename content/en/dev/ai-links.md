@@ -42,6 +42,8 @@ There are a lot of services and they are still growing. This is just a simple li
   - basically a github for AI models, datasets and more
   - the main page can also be used for trend tracking
   - models can be directly trained or deployed
+- [There's an AI for that](https://theresanaiforthat.com/)
+  - 31k+ AI services
 
 :pic{src="/dev/duck-ai-models.png" alt="List of models duck.ai provides"}
 
