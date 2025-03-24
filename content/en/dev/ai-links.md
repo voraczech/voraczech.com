@@ -44,6 +44,8 @@ There are a lot of services and they are still growing. This is just a simple li
   - models can be directly trained or deployed
 - [There's an AI for that](https://theresanaiforthat.com/)
   - 31k+ AI services
+- [LiveBench](https://livebench.ai)
+  - AI model benchmarking
 
 :pic{src="/dev/duck-ai-models.png" alt="List of models duck.ai provides"}
 
