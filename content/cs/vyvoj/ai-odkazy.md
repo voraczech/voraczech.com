@@ -15,7 +15,7 @@ Seznam AI zdrojů - jak porovnávat, co používat, kde se vzdělávat a jiné.
 
 ## Benchmarking
 
-Tento článek by se mohl neustále měnit kvůli novým a lepším modelům. Je lepší to sledovat z nějakých dedikovaných a kvalitnějších zdrojů. Nejvíc se mi osvědčilo dívat se na stránky, které měří výkon jednotlivých modelů (benchmarking). Jsou často a kvalitně aktualizované. Kromě porovnání se hodí i ke zjišťování aktuálních trendů - stačí sledovat jen základní (předdefinovaný) pohled, jaké modely se aktuálně vyskytují.
+Post bych mohl neustále měnit kvůli novým a lepším modelům. Je lepší sledovat je z nějakých dedikovaných a kvalitnějších zdrojů. Nejvíc se mi osvědčilo dívat se na stránky, které dělají benchmark. Jsou kvalitně a pořád aktualizované. Kromě porovnání se hodí i ke zjišťování aktuálních trendů - stačí sledovat jen základní (předdefinovaný) pohled, jaké modely se v něm právě vyskytují.
 
 - [Artificial Analysis](https://artificialanalysis.ai/)
   - důkladné porovnání AI modelů
