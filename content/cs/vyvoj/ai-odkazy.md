@@ -28,6 +28,8 @@ Tento článek by se mohl neustále měnit kvůli novým a lepším modelům. Je
   - kvalitu AI vyhodnocují lidé
 - [There's an AI for that](https://theresanaiforthat.com/)
   - 31k+ AI služeb
+- [LiveBench](https://livebench.ai)
+  - AI model benchmarking
 
 ## AI služby
 
