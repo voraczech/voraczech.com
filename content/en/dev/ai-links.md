@@ -15,7 +15,7 @@ List of AI resources - how to compare, what to use, where to learn, and more.
 
 ## Benchmarking
 
-This article could change constantly because of the infinite inflow of new and better models. It is better to follow some dedicated and better sources. I find the most useful to look at sites that measure the performance of individual models. They are frequently and well updated. As well as benchmarking, they are also useful for finding out current trends - you only need to follow a basic (predefined) view of compared models.
+I can change this constantly because of the infinite inflow of new and better models. It is better to follow some dedicated and better sources. I find the most useful to look at sites that benchmarks them. They are frequently and well updated. As well as benchmarking, they are also useful for finding out current trends - you only need to follow a basic (predefined) view of currently compared models.
 
 - [Artificial Analysis](https://artificialanalysis.ai/)
   - a thorough comparison of AI models
@@ -26,6 +26,8 @@ This article could change constantly because of the infinite inflow of new and b
   - I personally don't use it much
 - [Chatbot Arena](https://lmarena.ai/)
   - AI quality is evaluated by humans
+- [LiveBench](https://livebench.ai)
+  - AI model benchmarking
 
 ## AI services
 
@@ -44,8 +46,6 @@ There are a lot of services and they are still growing. This is just a simple li
   - models can be directly trained or deployed
 - [There's an AI for that](https://theresanaiforthat.com/)
   - 31k+ AI services
-- [LiveBench](https://livebench.ai)
-  - AI model benchmarking
 
 :pic{src="/dev/duck-ai-models.png" alt="List of models duck.ai provides"}
 
