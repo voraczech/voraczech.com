@@ -1,7 +1,7 @@
 ---
 title: "Bits of Travel Tips"
 created_at: 2024-08-18
-updated_at: 2025-02-22
+updated_at: 2025-03-29
 image:
   src: /travel/tips/travelling.jpg
   alt: Baggage travelling, not the only option

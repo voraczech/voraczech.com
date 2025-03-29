@@ -1,7 +1,7 @@
 ---
 title: Being in Baku, Azerbaijan (2022)
 created_at: 2022-04-05
-updated_at: 2025-02-06
+updated_at: 2025-03-29
 image:
   src: /travel/baku/flame.jpg
   alt: Flame Towers, Baku
