@@ -1,7 +1,7 @@
 ---
 title: "Sakartvelo (Gruzie): Kulturní rozdíly"
 created_at: 2024-08-15
-updated_at: 2024-08-16
+updated_at: 2025-03-29
 image:
   src: /sakartvelo/difference.jpg
   alt: Kulturní rozdíly, Rustaveli
