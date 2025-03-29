@@ -30,7 +30,8 @@ export default defineContentConfig({
     content_en: defineCollection({
       type: "page",
       source: {
-        include: "en/**",
+        include: "**",
+        exclude: ["cs/**"],
       },
       schema: commonSchema,
     }),

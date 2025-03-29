@@ -7,53 +7,34 @@ type LanguageLink = {
 const languageLinks: LanguageLink[] = [
   // menu
   {
-    en: "/en/calm",
-    cs: "/cs/klid",
-  },
-  {
-    en: "/en/dev",
-    cs: "/cs/vyvoj",
-  },
-  {
-    en: "/en/travel",
-    cs: "/cs/cestovani",
-  },
-  {
-    en: "/en/sakartvelo",
-    cs: "/cs/sakartvelo",
-  },
-  {
-    en: "/en/about",
+    en: "/about",
     cs: "/cs/o-mne",
   },
   // posts
-  // calm
   {
-    en: "/en/calm/prepper",
-    cs: "/cs/klid/prepper",
-  },
-  // dev
-  {
-    en: "/en/dev/ai-links",
-    cs: "/cs/vyvoj/ai-odkazy",
-  },
-  // sakartvelo
-  {
-    en: "/en/sakartvelo/links",
-    cs: "/cs/sakartvelo/odkazy",
+    en: "/prepper",
+    cs: "/cs/prepper",
   },
   {
-    en: "/en/sakartvelo/apps",
-    cs: "/cs/sakartvelo/aplikace",
+    en: "/ai-links",
+    cs: "/cs/ai-odkazy",
+  },
+  {
+    en: "/links",
+    cs: "/cs/odkazy",
+  },
+  {
+    en: "/apps",
+    cs: "/cs/aplikace",
   },
   // travel
   {
-    en: "/en/travel/budapest",
-    cs: "/cs/cestovani/budapest",
+    en: "/budapest",
+    cs: "/cs/budapest",
   },
   {
-    en: "/en/travel/tips",
-    cs: "/cs/cestovani/tipy",
+    en: "/travel-tips",
+    cs: "/cs/cestovni-tipy",
   },
 ]
 

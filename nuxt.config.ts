@@ -54,19 +54,19 @@ export default defineNuxtConfig({
       { code: "en", name: "English", language: "en-GB" },
       { code: "cs", name: "Česky", language: "cs-CZ" },
     ],
-    // strategy: "prefix_except_default",
-    // defaultLocale: "en",
+    strategy: "prefix_except_default",
+    defaultLocale: "en",
     vueI18n: "./i18n.config.ts",
   },
 
   routeRules: {
-    "/": { redirect: "/en" }, // https://github.com/nuxt-modules/i18n/issues/700#issuecomment-2204107700
-    "/travel/baku": { redirect: "/en/travel/baku" },
-    "/travel/budapest": { redirect: "/en/travel/budapest" },
-    "/travel/tips": { redirect: "/en/travel/tips" },
-    "/calm/vipassana-pred": { redirect: "/cs/klid/vipassana-pred" },
+    // "/": { redirect: "/en" }, // https://github.com/nuxt-modules/i18n/issues/700#issuecomment-2204107700
+    "/travel/baku": { redirect: "/baku" },
+    "/travel/budapest": { redirect: "/budapest" },
+    "/travel/tips": { redirect: "/travel-tips" },
+    "/calm/vipassana-pred": { redirect: "/cs/vipassana-pred" },
     "/sakartvelo/kulturni-rozdily": {
-      redirect: "/cs/sakartvelo/kulturni-rozdily",
+      redirect: "/cs/sakartvelo-kulturni-rozdily",
     },
   },
 

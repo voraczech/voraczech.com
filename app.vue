@@ -3,7 +3,7 @@
     <div class="max-w-prose mx-auto">
       <header class="flex items-baseline justify-between py-8 gap-4">
         <NuxtLink
-          :to="`/${locale}`"
+          :to="localePath('/')"
           class="text-v-600 v-shadow text-xl font-bold font-serif"
           >voraczech;</NuxtLink
         >
@@ -44,6 +44,8 @@ import type { LocaleObject } from "@nuxtjs/i18n"
 import languageLinks from "~/assets/ts/languageLinks"
 const { setLocale, locales, locale } = useI18n()
 
+const localePath = useLocalePath()
+
 const secondLang = computed(() => {
   return (
     locales.value.find((_locale) => _locale.code !== locale.value) ||
@@ -63,7 +65,7 @@ function changeLocale({ code }: LocaleObject) {
   if (toGo) {
     navigateTo(toGo)
   } else {
-    navigateTo(`/${code}`)
+    navigateTo(localePath("/", code))
   }
 }
 

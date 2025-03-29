@@ -1,0 +1,4 @@
+- https://citybus.ge/en
+- https://yandex.eu/maps/10279/kutaisi/stops/1943297681/?ll=42.702273%2C42.271994&tab=overview&z=16
+- https://www.railway.ge/en/traffic-general-schedule/
+  - trains to general
