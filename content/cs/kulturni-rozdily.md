@@ -148,6 +148,10 @@ Na facebooku jsem objevil trefný komentář. Platí obzvlášť pro Tbilisi:
 > (6) zácpy a zněčištění
 > Pokud se s nimi člověk smíří, je tato úžasná země skutečný ráj!!
 
+### Letní čas
+
+Není. Jen standardní čas (ne zimní!). Je to paráda.
+
 ### Karty
 
 U restaurací bývá zvykem, že mají dva platební terminály. Ekonomicky to tu dává smysl, nejčastěji se jedná o Bank of Georgia (BoG, Sakarvelos banki) a TBC, sem tam Liberty. Pro platby evropskou kartou to je jedno, Amex funguje možná jen u BoG.

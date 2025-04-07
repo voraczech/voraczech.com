@@ -46,6 +46,8 @@ Služeb je ranec a pořád přibývají.
   - v podstatě github pro AI modely, datasety a jiné
   - hlavní stránka může sloužit i pro sledování trendů
   - modely lze trénovat nebo rovnou nasadit (deploy)
+- [Zoner AI Tvůrce obrázků](https://zonerai.com/cs/image-creator)
+  - Český nástroj na tvorbu obrázků
 
 :pic{src="/dev/duck-ai-models.png" alt="Seznam modelů v duck.ai"}
 
