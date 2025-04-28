@@ -39,7 +39,7 @@ About increasing possibilities during life situations and in everyday life. For 
 
 During normal times, we don't tell the difference between many options or situations we choose. But in harder times, some of them turn out to be more useful. That's when the impact of choice is not insignificant.
 
-Preppers are people who prepare for the worst. Some are even weird and paranoid. This is for people who want to live their lives the same way. But at the same time be a little better prepared.
+Preppers are people who prepare for the worst. Some are even weird and paranoid. This is for people who want to live their lives the _normal_ way. But at the same time be a little better prepared.
 
 For those who want to be normal. Or just want to look normal.
 
@@ -55,7 +55,7 @@ I don't go to extremes. Having an underground bunker is a different discipline. 
 
 But I add more extreme versions as well. I know people for whom the extreme version is a passion and would find themselves in it.
 
-It's not a checklist. It's inspiration.
+It's not a checklist. It's an inspiration.
 
 ## Physical things
 
@@ -76,11 +76,11 @@ Compared to a regular card/transfer payment, it actually has many advantages:
   - Theoretically it doesn't mind giving a lower tip because it goes off the record, win-win
 - Anonymity
 
-The money in the account is just a claim to the bank. Even though they are insured in Europe up to €100'000, if one needs to withdraw something from an ATM during a crisis, one will struggle to withdraw anything.
+The money in the account is only a claim to the bank. Even though they are insured in Europe up to €100'000, if one needs to withdraw something from an ATM during a crisis, one will struggle to withdraw anything.
 
 Because of the impossibility of financial transactions (inability to earn interest on cash), it only makes sense to have a spendable amount of cash. However, this must also be enough for the individual or the dependents (family, friends) to get to safe place.
 
-It is important to have foreign currencies. In the event of a system failure, the preferred currency (the currency you normally pay with) may be worthless. A good inspiration for choosing a foreign currency in my opinion is the Special Drawing Rights (SDR). It is an international unit of account made up of USD, EUR, JPY, GBP and CNY. With the exception of the Chinese Renminbi, these extra currencies are at worst (at best?) exchangeable everywhere. At worse (at best?) exchange them while being on holiday abroad.
+It is important to have foreign currencies. In the event of a system failure, the currency you normally pay with may be worthless. A good inspiration for choosing a foreign currency in my opinion is the Special Drawing Rights (SDR). It is an international unit of account made up of USD, EUR, JPY, GBP and CNY. With the exception of the Chinese Renminbi, these currencies are exchangeable everywhere. At worse (at best?) spend them them while being on holiday abroad.
 
 ### More bank accounts
 
@@ -92,7 +92,7 @@ It is important to have foreign currencies. In the event of a system failure, th
 >
 > Extra costs: cost of administration.
 
-There is need to have it only because of major disasters. Most of the time, there will be small ones. For example a bank service outage. It's always handy to have a backup card or another account in case you need to pay.
+Helpful not only during major disasters. Most of the time, there will be small crashes like a bank service outage. It's always handy to have a backup card or another account just in case.
 
 An extreme option may be to open an account abroad. In Georgia, for example, it's easy to set up an account. Both Revolut and Wise do a nice multi-currency account in Europe.
 
@@ -122,7 +122,7 @@ A more extreme version might be to buy privacy coins like Monero. Or buy more an
 >
 > Extra costs: transaction costs for buying and selling; storage; poorer portability
 
-In case crisis hits there will be no time to find out how many karats the gold has. Even if they do, it's better to have a smaller piece of jewelry that can be quickly exchanged for food. With a gold coin, one may accept less advantageous transaction under the time pressure. It is advisable to have small "change" too.
+In case crisis hits there will be no time to find out how many karats your gold has. Even if there is, it's good to have a smaller piece of jewelry that can be quickly exchanged for food (like a small "change"). With a gold coin, one may accept less advantageous transaction under the time pressure.
 
 For long term holdings and for larger portfolios, it makes sense to hold a certain amount of metal as a kind of hedge against the system, inflation and to reduce overall portfolio risk.
 
@@ -136,7 +136,7 @@ For long term holdings and for larger portfolios, it makes sense to hold a certa
 >
 > Extra costs: cost of passport; possible additional legislative burden
 
-Having multiple passports of one country is a legal and normal thing in many countries. You may need to give a reason, but it can be anything from "running out of space" to "there's a stamp of a country that doesn't like the country I want to go to". Ideally order passports so that they expires differently.
+Having multiple passports of one country is a legal and normal thing for many. You may need to give a reason while requesting but it can be anything from "running out of space" to "there's a stamp of a country that doesn't like the country I want to go to". Ideally order second passport later so that it expires at different time.
 
 In the case of a proper prepper, other citizenships can be considered. It can be bought by investment (buying government bonds, real estate) or domestication. A lighter version is applying for temporary residency.
 
@@ -156,7 +156,7 @@ If there is a travel alternative, buy it. Computer -> Laptop. Even things like r
 
 Honestly, this is a bit of an antiadvice, as with portable stuff the potential advantage (portability) is often proportionally compensated by price or comfort. A laptop versus a computer with the same performance score is more expensive, plus the ergonomics at work are significantly worse. In addition, mini computers with a decent performance already have the dimensions of tablets.
 
-But it may still make sense to upgrade already portable things with more portable ones, i.e. buy lighter variants at a higher price.
+But it may still make sense to upgrade already portable things with more portable ones, i.e. buy lighter variants at a higher price. Many of those things must be a higher quality.
 
 ### Emergency kit
 

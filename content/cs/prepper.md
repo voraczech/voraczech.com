@@ -122,7 +122,7 @@ Extrémnější verzí může být koupit si i privacy coiny jako Monero. Nebo n
 >
 > Dodatečné náklady: Transakční náklady při nákupu a prodeji; úschova; horší přenositelnost
 
-V případě konfliktů nebude čas zjišťovat, kolik karátů to zlato má. I kdyby, je lepší mít menší šperk, který lze rychle vyměnit za potraviny. Se zlatou mincí může člověk pod tíhou okamžiku podlehnout méně výhodné transakci. Je také vhodné mít "drobné".
+V případě konfliktů nebude čas zjišťovat, kolik karátů to zlato má. I kdyby ano, je lepší mít menší šperk, který lze rychle vyměnit za potraviny. Se zlatou mincí může člověk pod tíhou okamžiku podlehnout méně výhodné transakci. Je také vhodné mít "drobné".
 
 Pro dlouhohobé držení a pro větší portfolia dává smysl držet určité množství kovu jako určitý hedge na systém, inflaci a snížení celkového rizika portfolia.
 
