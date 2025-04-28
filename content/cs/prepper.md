@@ -29,6 +29,7 @@ O více možnostech při životních změnách i v každodenním životě.
   - [Soft skills: vyjednávání, komunikační schopnosti, jazyky](#soft-skills-vyjednávání-komunikační-schopnosti-jazyky)
   - [Hard skills: Řidičák, zbroják, kurzy pro život](#hard-skills-řidičák-zbroják-kurzy-pro-život)
   - [Online služby](#online-služby)
+- [Test](#test)
 - [Vypadat normální](#vypadat-normální)
 - [Zdroje](#zdroje)
   - [Knihy](#knihy)
@@ -236,6 +237,18 @@ Platí stejné, co u soft skills.
 Je vhodné naučit se některé věci předtím, než bude třeba. Pak je člověk často ve stresu i proto, že úplně neví, co dělá. Vyměnit pneumatiku. Jíst hůlkama. Zaplatit novou platební metodou. Používat VPN. Správně se zeptat AI.
 
 Tuto část lze vztáhnout na celou škálu služeb i znalostí. Hlavním cílem je zde online prostor jenom z důvodu, že na něm trávíme dost času, velmi se mění a rychle expanduje. Nové služby mohou být za pár let užitečný nástroj pro větší osobní svobodu.
+
+## Test
+
+Pár věcí, co si vyzkoušet lze,
+předtím, než bude zle:
+
+- nechodit týden do obchodu, ani pro pečivo (zjištění slabých míst v zásobách)
+- vypnout si na hodinu hlavní jistič (simulace výpadku), mobil, internet
+- odstavit vodu
+- připravit se, že nepůjde natankovat
+
+Nápady nejsou moje, v rámci udržení soukromí zdroje vynechám.
 
 ## Vypadat normální
 

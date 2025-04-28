@@ -29,6 +29,7 @@ About increasing possibilities during life situations and in everyday life. For 
   - [Soft skills: negotiation, communication skills, languages](#soft-skills-negotiation-communication-skills-languages)
   - [Hard skills: driving licence, gun licence, courses for life](#hard-skills-driving-licence-gun-licence-courses-for-life)
   - [Online services](#online-services)
+- [Test](#test)
 - [Behave normal](#behave-normal)
 - [Zdroje](#zdroje)
   - [Books](#books)
@@ -232,6 +233,18 @@ Same as with soft skills.
 It is useful to learn some things before they are needed. Then one is often stressed even because one doesn't fully know what one is doing. Change a tyre. Eating with chopsticks. Pay with a new payment method. Use a VPN. Ask the AI correctly.
 
 This section can be applied to a wide range of services and knowledge. The main focus here is the online space just because we spend a lot of time on it, it's changing a lot and expanding rapidly. New services may be a useful tool for greater personal freedom in a few years.
+
+## Test
+
+Try a few things while skies are blue,
+before the storms come chasing you:
+
+- Not going to the store for a week, not even for baked goods (to identify weak spots in the stockpile)
+- Turn off your main breaker for an hour (simulate an outage), cell phone, internet
+- Turn off the water
+- Prepare to be unable to refuel
+
+The ideas are not mine, I'll leave them out in the interest of maintaining the privacy of the resource.
 
 ## Behave normal
 

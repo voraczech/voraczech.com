@@ -72,8 +72,10 @@ Consider this list also as a "words to know" part in this post.
 
 - Lángos
   - Lángosom restaurant is my tip. Order "Budapest" (yes, I tried more). People are kind there.
+  - Update April 2025: Prices went up from 2390 HUF to 2990 HUF and they also demand tip on displays (I hate this). It is still good, not a bargain now. People are not as kind too.
 - Kürtőskalács (aka Trdelník aka Chimney cake)
   - Yes, the "traditional" Czech sweet is from Hungary.
+  - Update April 2025: Price at Fitzkey Kurtoskalacs went from 700 HUF to 1000 HUF
 - Salami
   - You can order it on lángos.
 - Paprika
@@ -97,7 +99,13 @@ And the money itself looks like the money used in _Dostihy a sázky_ (Czechoslov
 
 ## Transport
 
-Walk as much as you can. Budapest is a walk friendly city. You can buy tickets in advance at the machine.
+Walk as much as you can. Budapest is a walk friendly city.
+
+For public transport you can buy tickets using vending machines (cards and cash), in front of the entrance (card) or download BudapestGO app. Register there in advance (you can do it outside Budapest), it takes time to go through.
+
+For using a ticket you need to validate it before entering the public transport - scan QR code on the bus/tram/metro entrance. Some tickets are single ride (you cannot transfer), some of them are time-limited (you need to revalidate the same ticket for each transfer).
+
+Time tickets can be valid after expiry - for a 90-minute ticket, the last transfer must take place within 90 minutes of the (first) validation. however, the journey may end after the 90-minute limit (from the first validation). I didn't know that, but it's written in the app.
 
 ### Metro
 
@@ -107,7 +115,9 @@ Nice. Especially old line stations, some look like a bathroom. Each metro entran
 
 ### Airport
 
-Use buses. You can take 100E (special pricing applies for this one). At the airport you can pay at the machine (cash and card). In front of the bus they will check and validate your ticket and/or help. Pretty good UX compared to others (I am looking at you, Prague).
+Use buses. You can take 100E (special pricing applies for this one). At the airport you can pay at the machine (cash and card). Price is 1350 HUF. In front of the bus they will check and validate your ticket and/or help. Pretty good UX compared to others (I am looking at you, Prague).
+
+You can also use 200E and transfer to M3 at Kőbánya-Kispest. You need to use a new ticket (if you have single ride) or scan QR for time limited tickets. This way is cheaper (even two single ride tickets are for 900 HUF) and it is 10 minutes longer.
 
 ## Else
 

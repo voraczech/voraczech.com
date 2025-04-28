@@ -69,8 +69,10 @@ Víc mě ale fascinovalo, že se Maďaři nepřekousli přes Trianonskou smlouvu
 
 - Lángos
   - Doporučuji bufet Lángosom. Objednejte si „Budapest“ (ano, zkoušel jsem jich víc). Vstřícná obsluha.
+  - Aktualizace Duben 2025: Ceny šly nahoru z 2390 HUF na 2990 HUF, navíc si žádají spropitné na displejích (nenávidím). Stále dobré, ale už to není takový terno, obsluha už také není tak milá.
 - Kürtőskalács (komínový dort, trdelník)
   - Ano, tato „tradiční“ česká sladkost pochází z Maďarska.
+  - Aktualizace Duben 2025: Ceny u Fitzkey Kurtoskalacs šly z 700 HUF na 1000 HUF.
 - Salám
   - Samozřejmě. Samotný i na lángos.
 - Paprika (koření)
@@ -94,7 +96,13 @@ Samotné peníze vypadají jako peníze z _Dostihů a sázek_. To také nepřid�
 
 ## Doprava
 
-Choďte pěšky, jak jen to jde. Budapešť je vhodné pro pěší. Při použití MHD lze jízdenky koupit předem v automatech.
+Choďte pěšky, jak jen to jde. Budapešť je vhodná pro pěší.
+
+Jízdenky na MHD lze koupit v automatech (berou karty i v hotovost), před vchodem (kartou) nebo si stáhnout aplikaci BudapestGO. Chvíli trvá projít registrací, proto je registrace předem doporučena (jde to i mimo Budapešť).
+
+Jízdenku je třeba před vstupem do MHD validovat - naskenovat QR kód na vstupu do autobusu/tramvaje/metra. Některé jízdenky jsou jednorázové (nelze přestupovat), některé jsou časově omezené (při každém přestupu je třeba znovu validovat stejnou jízdenku).
+
+Časové jízdenky mohou být platné i po expiraci - pro 90 minutovou jízdenku platí, že poslední přestup musí proběhnout do 90 minut od (první) validace. Následně může ale jízda skončit po 90 minutovém limitu (od první validace). Nevěděl jsem, ale je to napsáno v aplikaci.
 
 ### Metro
 
@@ -104,7 +112,9 @@ Pěkné. Zejména stanice starých linek, některé vypadají jako by tam v minu
 
 ### Letiště
 
-Doporučuji autobusy. Lze jet číslem 100E (pro ten platí zvláštní ceny). Na letišti lze platit v automatu hotově i kartou. Před autobusem vám jízdenku zkontrolují a potvrdí, případně pomohou. Velice dobrá zkušenost cizince v porovnání s jinými letišti (dívej, Praho).
+Doporučuji autobusy. Lze jet číslem 100E (pro ten platí zvláštní ceny). Na letišti lze platit v automatu hotově i kartou. Cena je 1350 HUF. Před autobusem vám jízdenku zkontrolují a potvrdí, případně pomohou. Velice dobrá zkušenost cizince v porovnání s jinými letišti (Praho!).
+
+Lze použít i linku 200E a přestoupit na M3 v Kőbánya-Kispest. Tam je buď třeba nová jízdenka (máte-li na jednu jízdu), nebo oskenovat QR kód pro časové jízdneky. Je to levnější (i dvě jednorázové jízdenky vyjdou dohromady na 900 HUF) a o 10 minut delší.
 
 ## Jiné
 
