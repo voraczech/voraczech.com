@@ -160,9 +160,9 @@ Smysl ale může pořád dávat upgradovat již přenositelné věci přenositel
 
 ### Nouzové rezervy / emergency kit
 
-> Normální verze: Trvanlivé potraviny, zásoby vody / filtry na vodu pro denní použití, lékárnička v autě, pláštěnka, baterky
+> Normální verze: Trvanlivé potraviny, zásoby vody / filtry na vodu pro denní použití, lékárnička v autě, pláštěnka, baterky, power banka
 >
-> Extrémní verze: Příliš trvanlivých potravin, cigaret a nábojů; emergency kit, potřeby nutné na jen v případě katastrof (rádio)
+> Extrémní verze: Příliš trvanlivých potravin, cigaret a nábojů; emergency kit, potřeby nutné na jen v případě katastrof (rádio), vlastní zdroje energie (solární panely)
 
 > Výhody: Durabilita
 >

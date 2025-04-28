@@ -158,9 +158,9 @@ But it may still make sense to upgrade already portable things with more portabl
 
 ### Emergency kit
 
-> Normal version: Can food, water supplies/water filters for daily use, first aid kit in car, raincoat, flashlights
+> Normal version: Can food, water supplies/water filters for daily use, first aid kit in car, raincoat, flashlights, batteries, power banks
 >
-> Extreme version: extreme amount of food, cigarettes and bullets; emergency kit, disaster supplies (radio)
+> Extreme version: extreme amount of food, cigarettes and bullets; emergency kit, disaster supplies (radio), own power source (solar panels)
 
 > Advantages: Durability
 >
