@@ -47,7 +47,7 @@ For those who want to be normal. Or just want to look normal.
 
 Optionality gives a person options but not obligations. Often the extra cost is negligible. Taleb popularised this.
 
-It can be anything. Like buying many bus tickets with ability to cancel for free with different times. These get cancelled before you need to pay a fee, depending on which connection you're going to take. The cost is time and the forfeited price of the ticket if one doesn't have time to cancel.
+It can be anything. Like buying another bus ticket with a different departure time with an option to cancel one of them for free 15 minutes before departure. You can choose which one you will use lately. The cost is time and the forfeited price of the ticket if one doesn't have time to cancel.
 
 I show options where adding more options costs almost nothing. And often it beats the "normal" choice.
 

@@ -47,9 +47,9 @@ Pro ty, co normální být chtějí. Nebo jen tak chtějí vypadat.
 
 Opcionalita dává člověku možnosti, ale ne povinnosti. Často je dodatečná cena zanedbatelná. Taleb to zpopularizoval.
 
-Může to být cokoli. Třeba nákup vícero jízdenek na RegioJet s různými časy odjezdu. Ty se průběhu dne (aspoň 15 minut před) ruší, podle toho, jaký spoj se stíhá. Nákladem je čas a případně propadlá cena jízdenky, pokud ji člověk nestihne zrušit.
+Může to být cokoli. Třeba nákup vícero jízdenek na RegioJet s různými časy odjezdu. Ty se průběhu dne (aspoň 15 minut před) ruší, podle následné potřeby. Nákladem je čas a případně propadlá cena jízdenky, pokud ji člověk nestihne zrušit.
 
-Vypisuji možnosti, kde se více možností nepřiplácí. A někdy to i překonává "normální" výběr.
+Vypisuji možnosti, kde se za více možností tolik nepřiplácí. A někdy to i překonává "normální" výběr.
 
 Nejdu do extrémů. Mít podzemní bunkr je jiná disciplína. Rady tady jsou slučitelné s životem normálního člověka.
 
@@ -92,7 +92,7 @@ V rámci hotovosti je důležité mít cizí měny. V případě úpadku systém
 >
 > Dodatečné náklady: Cena za správu
 
-Není třeba hledat velkou katastrofu. Většinou nastanou malé maléry. Například u banky odstávka služeb. Ale v případě nutnosti zaplatit se hodí mít vždy záložní kartu nebo účet.
+Není třeba hledat velkou katastrofu. Většinou nastanou malé maléry jako dočasná odstávka služeb. Ale v případě nutnosti zaplatit se hodí mít vždy záložní kartu nebo účet.
 
 Extrémní variantou může být založení účtu v zahraničí. Například v Gruzii lze účet zařídit snadno. Multiměnový účet v Evropě hezky umí Revolut i Wise.
 
@@ -206,7 +206,7 @@ Možností je spoustu, od běžné socializace, přes nahánění přátel na so
 
 > Výhody: Lepší život obecně
 >
-> Dodatečné náklady: Naštvanost z toho zeleného ptáčka, který se zase připomíná na lekci ze španělštiny
+> Dodatečné náklady: Naštvanost z toho zeleného ptáčka, který se zase připomíná na lekci španělštiny
 
 K budování hodnotných vztahů je také důležité hodnotu přinášet a umět ji získat, je-li třeba. Je to jakýsi nutný doplněk ke kvalitnímu životu - abychom dokázali využít život na maximum, je třeba tyto možnosti umět rozpoznat a použít.
 
