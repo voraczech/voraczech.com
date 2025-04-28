@@ -208,7 +208,7 @@ There are plenty of options, from casual socialising, through catching up with f
 
 To build valuable relationships, it is also important to bring value to others and know how to get it when needed. It's a kind of necessary complement to a good life - to be able to make the most of life, we need to be able to recognize and use these opportunities.
 
-Outside of various YT videos, Duolingo, books, and more, it's useful to simply try (and yes, fail).
+In addition to various YT videos, Duolingo, books, and more, it's useful to simply try (and yes, fail).
 
 ### Hard skills: driving licence, gun licence, courses for life
 
