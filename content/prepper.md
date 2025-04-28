@@ -31,27 +31,29 @@ About increasing possibilities during life situations and in everyday life. For 
   - [Online services](#online-services)
 - [Test](#test)
 - [Behave normal](#behave-normal)
-- [Zdroje](#zdroje)
+- [Sources](#sources)
   - [Books](#books)
   - [On prepperism in general](#on-prepperism-in-general)
   - [Specific](#specific)
 - [Specific (but in Czech)](#specific-but-in-czech)
 
-The point of the whole post is to show that there are many options (situations or things) in life that we don't differentiate much between in normal times, but in harder times some profile much better. That's when the impact of choice is not insignificant.
+During normal times, we don't tell the difference between many options or situations we choose. But in harder times, some of them turn out to be more useful. That's when the impact of choice is not insignificant.
 
 Preppers are people who prepare for the worst. Some are even weird and paranoid. This is for people who want to live their lives the same way. But at the same time be a little better prepared.
 
+For those who want to be normal. Or just want to look normal.
+
 ## Options
 
-Optionality gives a person options but not obligations. Often the additional cost is negligible. It was popularized mainly by Taleb.
+Optionality gives a person options but not obligations. Often the extra cost is negligible. Taleb popularised this.
 
-It can be basically anything. Like buying multiple bus tickets with ability to cancel for free with different times. These get cancelled before you need to pay a fee, depending on which connection you're going to take. The cost is time and possibly the forfeited price of the ticket if one doesn't have time to cancel.
+It can be anything. Like buying many bus tickets with ability to cancel for free with different times. These get cancelled before you need to pay a fee, depending on which connection you're going to take. The cost is time and the forfeited price of the ticket if one doesn't have time to cancel.
 
-I only list if the additional cost of increasing options is negligible (sometimes even preferable) to the "normal" choice.
+I show options where adding more options costs almost nothing. And often it beats the "normal" choice.
 
-I don't go to extremes. Having an underground bunker (ideally in another part of the world) is a different discipline. The advice here is compatible with a normal person's life.
+I don't go to extremes. Having an underground bunker is a different discipline. The advice here is compatible with a normal person's life.
 
-But I add more extreme versions as well. I know people for whom the extreme version is a passion and would find themselves in it. At that point it's the "try-hard version".
+But I add more extreme versions as well. I know people for whom the extreme version is a passion and would find themselves in it.
 
 It's not a checklist. It's inspiration.
 
@@ -65,7 +67,7 @@ It's not a checklist. It's inspiration.
 
 > Advantages: reduced risk when preferred currency fails (if you have multiple currencies); liquidity (cash-only businesses); less spending; anonymity
 >
-> Additional costs: weight of cash; exchange rate risk; impossibility of certain financial operations (interest on deposits); custody security measures
+> Extra costs: weight of cash; exchange rate risk; impossibility of certain financial operations (interest on deposits); custody security measures
 
 Compared to a regular card/transfer payment, it actually has many advantages:
 
@@ -82,13 +84,13 @@ It is important to have foreign currencies. In the event of a system failure, th
 
 ### More bank accounts
 
-> Normal version: multiple bank accounts
+> Normal version: many bank accounts
 >
 > Extreme version: distribution across jurisdictions and entities
 
 > Advantages: increase availability of funds
 >
-> Additional costs: cost of administration.
+> Extra costs: cost of administration.
 
 There is need to have it only because of major disasters. Most of the time, there will be small ones. For example a bank service outage. It's always handy to have a backup card or another account in case you need to pay.
 
@@ -102,7 +104,7 @@ An extreme option may be to open an account abroad. In Georgia, for example, it'
 
 > Advantages: similar to cash; better portability of larger amounts.
 >
-> Additional costs: Higher volatility; need to understand (especially the definite loss in bad custody)
+> Extra costs: Higher volatility; need to understand (especially the definite loss in bad custody)
 
 Learning how to use cryptocurrencies is a useful thing itself. There is no need to learn whole complexity or go into detail.
 
@@ -118,7 +120,7 @@ A more extreme version might be to buy privacy coins like Monero. Or buy more an
 
 > Benefits: Diversification
 >
-> Additional costs: transaction costs for buying and selling; storage; poorer portability
+> Extra costs: transaction costs for buying and selling; storage; poorer portability
 
 In case crisis hits there will be no time to find out how many karats the gold has. Even if they do, it's better to have a smaller piece of jewelry that can be quickly exchanged for food. With a gold coin, one may accept less advantageous transaction under the time pressure. It is advisable to have small "change" too.
 
@@ -132,7 +134,7 @@ For long term holdings and for larger portfolios, it makes sense to hold a certa
 
 > Benefits: flexibility multiplied
 >
-> Additional costs: cost of passport; possible additional legislative burden
+> Extra costs: cost of passport; possible additional legislative burden
 
 Having multiple passports of one country is a legal and normal thing in many countries. You may need to give a reason, but it can be anything from "running out of space" to "there's a stamp of a country that doesn't like the country I want to go to". Ideally order passports so that they expires differently.
 
@@ -148,7 +150,7 @@ Some version of the "in-between" is still the option of not having permanent res
 
 > Benefits: increased utility (use even during traveling), mobility
 >
-> Additional costs: less options, possibly lower functionality/comfort, possibly price
+> Extra costs: less options, possibly lower functionality/comfort, possibly price
 
 If there is a travel alternative, buy it. Computer -> Laptop. Even things like router have travel versions. And regarding already portable stuff, you can "upgrade" them to a lighter version as well.
 
@@ -188,7 +190,7 @@ And it's not just a Georgian thing. Even Japanese (extreme) minimalists keep bar
 
 > Benefits: better life in general
 >
-> Additional costs: possible fragmentation of relationships, time
+> Extra costs: possible fragmentation of relationships, time
 
 Having good relationships opens doors. It is something we don't often think of as an asset. After all, it's the people and our immediate surroundings. But in the end, it's a wonderful source of enrichment in life, and it's mutual.
 
@@ -216,7 +218,7 @@ Outside of various YT videos, Duolingo, books, and more, it's useful to simply t
 
 > Advantages: Optionality, ability to get into new life situations
 >
-> Additional costs: time, cost
+> Extra costs: time, cost
 
 Same as with soft skills.
 
@@ -228,7 +230,7 @@ Same as with soft skills.
 
 > Benefit: Ability to use alternatives before needing them (when it's too late)
 >
-> Additional costs: cost of services, convenience, time
+> Extra costs: cost of services, convenience, time
 
 It is useful to learn some things before they are needed. Then one is often stressed even because one doesn't fully know what one is doing. Change a tyre. Eating with chopsticks. Pay with a new payment method. Use a VPN. Ask the AI correctly.
 
@@ -256,7 +258,7 @@ The strategy is to fit into the definition of normalcy. The target of attack has
 
 ---
 
-## Zdroje
+## Sources
 
 ### Books
 

@@ -37,23 +37,23 @@ O více možnostech při životních změnách i v každodenním životě.
   - [Konkrétní](#konkrétní)
   - [Již není k dispozici](#již-není-k-dispozici)
 
-Smyslem celého postu je ukázat, že v životě existuje mnoho možností (situací nebo věcí), mezi nimiž v běžných časech moc nerozlišujeme, ale v těžších časech se některé profilují výrazně lépe. V tu chvíli je dopad výběru nezanedbatelný.
+V běžných časech nerozlišujeme mezi mnoha možnostmi nebo situacemi, které si volíme. V těžších časech se ale některé z nich ukáží jako užitečnější. V tu chvíli není dopad výběru zanedbatelný.
 
 Preppeři jsou lidé, co se připravují na nejhorší. Někteří jsou i divní a paranoidní. Toto je pro lidi, kteří chtějí žít stejně jako dosud. Ale zároveň být o trochu lépe připraveni.
 
-Pro ty, co normální být chtějí, nebo jen tak chtějí vypadat.
+Pro ty, co normální být chtějí. Nebo jen tak chtějí vypadat.
 
 ## Opcionality (možnosti)
 
-Opcionalita (z anglických opcí jako options se nemohlo přeložit jako _možnosti_…) dává člověku možnosti, ale ne povinnosti. Často je dodatečná cena zanedbatelná. Zpopularizoval to hlavně Taleb.
+Opcionalita dává člověku možnosti, ale ne povinnosti. Často je dodatečná cena zanedbatelná. Taleb to zpopularizoval.
 
-Může to být v podstatě cokoli. Třeba to, že se s předstihem koupí víc jízdenek na RegioJet s různým časem. Ty se průběhu dne (aspoň 15 minut před) ruší, podle toho, jaký spoj stíháte. Nákladem je čas a případně propadlá cena jízdenky, pokud ji člověk nestihne zrušit.
+Může to být cokoli. Třeba nákup vícero jízdenek na RegioJet s různými časy odjezdu. Ty se průběhu dne (aspoň 15 minut před) ruší, podle toho, jaký spoj se stíhá. Nákladem je čas a případně propadlá cena jízdenky, pokud ji člověk nestihne zrušit.
 
-Vypisuji jen pokud jsou dodatečné náklady na zvýšení možností zanedbatelné (někdy i výhodnější) oproti "běžnému" výběru.
+Vypisuji možnosti, kde se více možností nepřiplácí. A někdy to i překonává "normální" výběr.
 
-Nejdu do extrémů. Mít podzemní bunkr (ideálně na jiné části světa) je jiná disciplína. Rady tady jsou slučitelné s normálním životem normálního člověka.
+Nejdu do extrémů. Mít podzemní bunkr je jiná disciplína. Rady tady jsou slučitelné s životem normálního člověka.
 
-Přidávám ale i extrémnější verze. Znám lidi, pro které je extrémní verze vášní a našli by se v tom. V tu chvíli to je "verze hračička".
+Přidávám ale i extrémnější verze. Znám lidi, pro které je extrémní verze vášní a našli by se v tom.
 
 Není to checklist. Je to inspirace.
 
