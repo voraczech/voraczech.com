@@ -1,7 +1,7 @@
 ---
 title: "Prepper but Normal: How to Be Prepared and Not Be Weird"
 created_at: 2024-08-23
-updated_at: 2025-04-28
+updated_at: 2025-04-30
 image:
   src: /calm/prepper/prepper.webp
   alt: Cans, prepper
