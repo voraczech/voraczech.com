@@ -36,6 +36,7 @@ Přehled odkazů užitečných pro cestování do Sakartvela (Gruzie) nebo k poc
 - [MyFin](https://myfin.ge)
   - Přehled nejlepších kurzů ve velkých městech
   - MJC (v Tbilisi) a Rico je vždy dobrá volba
+  - Pro platbu převodem lze použít i [Kursi.ge](https://kursi.ge/en/)
 - [Problémy s Vagzali](https://www.youtube.com/watch?v=D6ArG9W4Xak)
   - Opatrně na hlavním trhu v Tbilisi (u hlavního nádraží)
   - Mám podobnou zkušenost

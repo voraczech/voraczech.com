@@ -74,3 +74,5 @@ Quality courses for free.
     - usually asks for a phone number, linkedin is optional
 - [State of AI](https://www.stateof.ai/)
   - Yearly AI report
+- [Agent Development Kit](https://google.github.io/adk-docs/)
+  - Google ADK with examples

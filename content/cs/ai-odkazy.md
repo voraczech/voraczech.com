@@ -74,6 +74,8 @@ Kvalitní kurzy zdarma.
     - zpravidla se ptají na telefonní číslo, linkedin je dobrovolný
 - [State of AI](https://www.stateof.ai/)
   - Roční report o stavu AI
+- [Agent Development Kit](https://google.github.io/adk-docs/)
+  - Google ADK s příklady
 
 ## Lidé, které lze sledovat
 

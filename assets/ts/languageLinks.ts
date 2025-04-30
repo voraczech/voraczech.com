@@ -12,30 +12,38 @@ const languageLinks: LanguageLink[] = [
   },
   // posts
   {
-    en: "/prepper",
-    cs: "/cs/prepper",
-  },
-  {
     en: "/ai-links",
     cs: "/cs/ai-odkazy",
   },
-  {
-    en: "/links",
-    cs: "/cs/odkazy",
-  },
-  {
-    en: "/apps",
-    cs: "/cs/aplikace",
-  },
-  // travel
+  // baku missing
   {
     en: "/budapest",
     cs: "/cs/budapest",
   },
   {
-    en: "/travel-tips",
-    cs: "/cs/cestovni-tipy",
+    en: "/dev-links",
+    cs: "/cs/dev-links",
   },
+  {
+    en: "/prepper",
+    cs: "/cs/prepper",
+  },
+  {
+    en: "/privacy",
+    cs: "/cs/soukromi",
+  },
+  {
+    en: "/sakartvelo-apps",
+    cs: "/cs/sakartvelo-aplikace",
+  },
+  {
+    en: "/sakartvelo-links",
+    cs: "/cs/sakartvelo-odkazy",
+  },
+  // {
+  //   en: "/travel-tips",
+  //   cs: "/cs/cestovni-tipy",
+  // },
 ]
 
 export default languageLinks

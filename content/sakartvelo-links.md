@@ -30,6 +30,7 @@ An overview of links useful for travelling to Sakartvel (Georgia) or to understa
 - [MyFin](https://myfin.ge)
   - Overview of the best exchanges rates in major cities
   - MJC (in Tbilisi) and Rico are always a good choice
+  - For bank transfer also look at [Kursi.ge](https://kursi.ge/en/)
 - [Problems with Vagzali](https://www.youtube.com/watch?v=D6ArG9W4Xak)
   - Careful in the main market in Tbilisi (near the main station)
   - I have a similar experience
