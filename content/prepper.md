@@ -13,7 +13,7 @@ tags:
   - calm
 ---
 
-About increasing possibilities during life situations and in everyday life. For those who want to be normal or just want to look normal.
+For those who want to live normally even in abnormal times. Or just want to look normal.
 
 - [Options](#options)
 - [Physical things](#physical-things)
@@ -37,11 +37,9 @@ About increasing possibilities during life situations and in everyday life. For 
   - [Specific](#specific)
 - [Specific (but in Czech)](#specific-but-in-czech)
 
-During normal times, we don't tell the difference between many options or situations we choose. But in harder times, some of them turn out to be more useful. That's when the impact of choice is not insignificant.
+When we choose something, we don't always consider what option is the best for a rainy day. We don't have to be preppers right away to think about the additional benefits that each option has in marginal situations. (Preppers are people who prepare for the worst. Some are even weird and paranoid.)
 
-Preppers are people who prepare for the worst. Some are even weird and paranoid. This is for people who want to live their lives the _normal_ way. But at the same time be a little better prepared.
-
-For those who want to be normal. Or just want to look normal.
+This text is for people who want to live the same way they have been living. But at the same time be a little better prepared.
 
 ## Options
 

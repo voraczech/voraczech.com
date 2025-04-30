@@ -57,6 +57,7 @@ export default defineNuxtConfig({
     strategy: "prefix_except_default",
     defaultLocale: "en",
     vueI18n: "./i18n.config.ts",
+    detectBrowserLanguage: false,
   },
 
   routeRules: {

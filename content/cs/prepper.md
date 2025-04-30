@@ -13,7 +13,7 @@ tags:
   - klid
 ---
 
-O více možnostech při životních změnách i v každodenním životě.
+Pro ty, co chtějí žít normálně i v nenormálních časech. Nebo jen normálně chtějí vypadat.
 
 - [Opcionality (možnosti)](#opcionality-možnosti)
 - [Fyzické věci](#fyzické-věci)
@@ -37,11 +37,9 @@ O více možnostech při životních změnách i v každodenním životě.
   - [Konkrétní](#konkrétní)
   - [Již není k dispozici](#již-není-k-dispozici)
 
-V běžných časech nerozlišujeme mezi mnoha možnostmi nebo situacemi, které si volíme. V těžších časech se ale některé z nich ukáží jako užitečnější. V tu chvíli není dopad výběru zanedbatelný.
+Když si něco vybíráme, ne vždy bereme v potaz, jaká možnost je nejlepší pro horší časy. Nemusíme být hned preppeři, abychom se museli zamyslet nad dodatečnými výhodami, které jednotlivé možnosti mají v mezních situacích. (Preppeři jsou lidé, co se připravují na nejhorší. Někteří jsou i divní a paranoidní.)
 
-Preppeři jsou lidé, co se připravují na nejhorší. Někteří jsou i divní a paranoidní. Toto je pro lidi, kteří chtějí žít stejně jako dosud. Ale zároveň být o trochu lépe připraveni.
-
-Pro ty, co normální být chtějí. Nebo jen tak chtějí vypadat.
+Následující text je pro lidi, kteří chtějí žít stejně jako dosud. Ale zároveň být o trochu lépe připraveni.
 
 ## Opcionality (možnosti)
 
