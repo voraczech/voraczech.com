@@ -72,7 +72,7 @@ Consider this list also as a "words to know" part in this post.
 
 - Lángos
   - Lángosom restaurant is my tip. Order "Budapest" (yes, I tried more). People are kind there.
-  - Update April 2025: Prices went up from 2390 HUF to 2990 HUF and they also demand tip on displays (I hate this). It is still good, not a bargain now. People are not as kind too.
+  - Update April 2025: Prices went up from 2390 HUF to 2990 HUF and they also demand tip on displays (I hate this). It is still good, not a bargain now. People are not as kind too. But lángos seems to be bigger
 - Kürtőskalács (aka Trdelník aka Chimney cake)
   - Yes, the "traditional" Czech sweet is from Hungary.
   - Update April 2025: Price at Fitzkey Kurtoskalacs went from 700 HUF to 1000 HUF
@@ -85,15 +85,17 @@ Consider this list also as a "words to know" part in this post.
 
 :pic{src="/travel/budapest/langos.jpg" alt="Lángos"}
 
+Generally tipping is not expected as it is already included in total amount.
+
 ## Who wants to be a millionaire?
 
 HUF is a crazy currency. Nomial vaules for ordinary things are in thousands.
 
-- 1 BTC ~ 21M (haha) HUF (which means 1 HUF is less then 5 sats!)
+- 1 BTC ~ ~~~21M (haha)~~ ~33M HUF (which means 1 HUF is less then 4 sats!)
 - 1 EUR ~ 400 HUF
 - 1 USD ~ 360 HUF
 - 1 GEL ~ 130 HUF
-- 1 CZK ~ 15.5 HUF
+- 1 CZK ~ ~~15.5~~ 16 HUF
 
 And the money itself looks like the money used in _Dostihy a sázky_ (Czechoslovakian version of Monopoly). That does not add much credibility either. But you can pay by card anywhere. I saw the paper money only because I asked my friend to show it to me.
 

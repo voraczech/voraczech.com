@@ -1,5 +1,5 @@
 ---
-title: "Budapešť: Tipy z cesty (2024)"
+title: "Budapešť: Tipy z cest (2024, 2025)"
 created_at: 2024-08-13
 updated_at: 2025-04-28
 image:
@@ -12,9 +12,9 @@ tags:
   - maďarsko
 ---
 
-Dvě města v jednom. Poznámky z cesty, které se můžou hodit.
+Dvě města v jednom. Poznámky z cest.
 
-> Kontext: Navšívil jsem v červnu 2024. Poprvé, na čtyři dny. Žila tam kamarádka, se kterou jsem trávil většinu času, pomáhala mi a dělala průvodce.
+> Kontext: Navšívil jsem v červnu 2024. Poprvé, na čtyři dny. Žila tam kamarádka, se kterou jsem trávil většinu času, pomáhala mi a dělala průvodce. Návrat 2025 vždy na den z/na letiště.
 
 ## Obecné
 
@@ -65,11 +65,11 @@ Příspěvek o Maďarsku bez politiky by nebyl úplný, pojďme stručně. Byl j
 
 Víc mě ale fascinovalo, že se Maďaři nepřekousli přes Trianonskou smlouvu. Bylo to vidět vícekrát (v budově parlamentu nebo v textech Domu teroru). Časté opakování, jaká území byla jejich. Berou to dost vážně. Možná přehodnotím, jestli si budu dělat legraci ze ~severního Maďarska~ Slovenska. Tak nic.
 
-## Jíst
+## Jídlo
 
 - Lángos
   - Doporučuji bufet Lángosom. Objednejte si „Budapest“ (ano, zkoušel jsem jich víc). Vstřícná obsluha.
-  - Aktualizace Duben 2025: Ceny šly nahoru z 2390 HUF na 2990 HUF, navíc si žádají spropitné na displejích (nenávidím). Stále dobré, ale už to není takový terno, obsluha už také není tak milá.
+  - Aktualizace Duben 2025: Ceny šly nahoru z 2390 HUF na 2990 HUF, navíc si žádají spropitné na displejích (nenávidím). Stále dobré, ale už to není takový terno, obsluha už také není tak milá. Lángos je ale pravděpodobně větší.
 - Kürtőskalács (komínový dort, trdelník)
   - Ano, tato „tradiční“ česká sladkost pochází z Maďarska.
   - Aktualizace Duben 2025: Ceny u Fitzkey Kurtoskalacs šly z 700 HUF na 1000 HUF.
@@ -82,12 +82,14 @@ Víc mě ale fascinovalo, že se Maďaři nepřekousli přes Trianonskou smlouvu
 
 :pic{src="/travel/budapest/langos.jpg" alt="Lángos"}
 
+Obecně není spropitné očekáváno, bývá zahrnuto v celkové sumě.
+
 ## Chcete být milionářem?
 
 Maďarský forint (HUF) je šílená měna. Nominální hodnoty za běžné věci se pohybují v tisících. Jedna z mála měn, při které je třeba dělit na směnný kurz do českých korun.
 
 - 1 BTC ~ 21 milionů HUF.
-- 1 EUR ~ 400 HUFŮ
+- 1 EUR ~ 400 HUF
 - 1 USD ~ 360 HUF
 - 1 GEL ~ 130 HUF
 - 1 CZK ~ 15,5 HUF
