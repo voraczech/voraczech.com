@@ -37,7 +37,7 @@ Pro ty, co chtějí žít normálně i v nenormálních časech. Nebo jen normá
   - [Konkrétní](#konkrétní)
   - [Již není k dispozici](#již-není-k-dispozici)
 
-Když si něco vybíráme, ne vždy bereme v potaz, jaká možnost je nejlepší pro horší časy. Nemusíme být hned preppeři, abychom se museli zamyslet nad dodatečnými výhodami, které jednotlivé možnosti mají v mezních situacích. (Preppeři jsou lidé, co se připravují na nejhorší. Někteří jsou i divní a paranoidní.)
+Při výběru ne vždy bereme v potaz, jaká možnost je nejlepší i pro horší časy. Nemusíme být hned preppeři, abychom se museli zamyslet nad dodatečnými výhodami, které jednotlivé možnosti mají v krajních situacích. (Preppeři jsou lidé, co se připravují na nejhorší. Někteří jsou i divní a paranoidní.)
 
 Následující text je pro lidi, kteří chtějí žít stejně jako dosud. Ale zároveň být o trochu lépe připraveni.
 
@@ -45,7 +45,7 @@ Následující text je pro lidi, kteří chtějí žít stejně jako dosud. Ale 
 
 Opcionalita dává člověku možnosti, ale ne povinnosti. Často je dodatečná cena zanedbatelná. Taleb to zpopularizoval.
 
-Může to být cokoli. Třeba nákup vícero jízdenek na RegioJet s různými časy odjezdu. Ty se průběhu dne (aspoň 15 minut před) ruší, podle následné potřeby. Nákladem je čas a případně propadlá cena jízdenky, pokud ji člověk nestihne zrušit.
+Může to být cokoli. Třeba nákup vícero jízdenek na RegioJet s různými časy odjezdu. Ty se průběhu dne ruší (aspoň 15 minut před), podle následné potřeby. Nákladem je čas a případně propadlá cena jízdenky, pokud ji člověk nestihne zrušit.
 
 Vypisuji možnosti, kde se za více možností tolik nepřiplácí. A někdy to i překonává "normální" výběr.
 

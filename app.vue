@@ -12,7 +12,7 @@
             class="flex flex-wrap gap-4 text-sm lowercase items-baseline justify-end"
           >
             <li>
-              <NuxtLink to="/en/about" v-if="locale === 'en'">{{
+              <NuxtLink to="/about" v-if="locale === 'en'">{{
                 $t("menu:about")
               }}</NuxtLink>
               <NuxtLink to="/cs/o-mne" v-else-if="locale === 'cs'">{{
