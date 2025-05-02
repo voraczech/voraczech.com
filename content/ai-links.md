@@ -28,6 +28,8 @@ I can change this constantly because of the infinite inflow of new and better mo
   - AI quality is evaluated by humans
 - [LiveBench](https://livebench.ai)
   - AI model benchmarking
+- [SEAL LLM Leaderboards](https://scale.com/leaderboard)
+  - Another leaderboard
 
 ## AI services
 

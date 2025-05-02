@@ -30,6 +30,8 @@ Post bych mohl neustále měnit kvůli novým a lepším modelům. Je lepší sl
   - 31k+ AI služeb
 - [LiveBench](https://livebench.ai)
   - AI model benchmarking
+- [SEAL LLM Leaderboards](https://scale.com/leaderboard)
+  - Další leaderboard
 
 ## AI služby
 
