@@ -1,7 +1,7 @@
 ---
 title: "Budapest: Bits of Travel Tips (2024)"
 created_at: 2024-08-13
-updated_at: 2025-04-30
+updated_at: 2025-05-23
 image:
   src: /travel/budapest/parliament.jpg
   alt: Hungarian Parliament Building, Budapest
