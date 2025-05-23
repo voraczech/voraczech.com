@@ -107,3 +107,7 @@ UX, UI, web tests, images, icons, common issues, text checkers. List of dev link
 
 - [Hemingway](https://hemingwayapp.com/)
 - [Quillbot](https://quillbot.com/)
+
+## Other
+
+- [Level up your Terminal with iTerm2 and Oh My Zsh](https://aude53.medium.com/level-up-your-terminal-with-iterm2-and-oh-my-zsh-8f66a5fe279d)

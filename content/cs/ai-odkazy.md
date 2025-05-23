@@ -32,6 +32,8 @@ Post bych mohl neustále měnit kvůli novým a lepším modelům. Je lepší sl
   - AI model benchmarking
 - [SEAL LLM Leaderboards](https://scale.com/leaderboard)
   - Další leaderboard
+- [LM Studio](https://lmstudio.ai/)
+  - Toolkit pro lokální vývoj
 
 ## AI služby
 

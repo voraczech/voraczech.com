@@ -27,7 +27,7 @@ UX, UI, web testy, obrázky, ikonky, časté chyby, korekce textu. Aneb co jsem 
   - Color palette generator
 - [Reddit rabbit hole post](https://www.reddit.com/r/webdev/comments/m468bc/ive_compiled_a_list_of_20_design_resources_for/)
 
-## Web tests
+## Web test
 
 - [PageSpeed Insight](https://pagespeed.web.dev/)
 - [WebPageTest](https://www.webpagetest.org/)
@@ -106,3 +106,7 @@ UX, UI, web testy, obrázky, ikonky, časté chyby, korekce textu. Aneb co jsem 
 
 - [Hemingway](https://hemingwayapp.com/)
 - [Quillbot](https://quillbot.com/)
+
+## Other
+
+- [Level up your Terminal with iTerm2 and Oh My Zsh](https://aude53.medium.com/level-up-your-terminal-with-iterm2-and-oh-my-zsh-8f66a5fe279d)

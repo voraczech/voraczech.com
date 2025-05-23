@@ -131,6 +131,8 @@ Use free walking tour. Of course you tip. Usually you give 10 EUR/USD. Reduce if
 - [Travel resources by Nomadic Matt](https://nomadicmatt.com/travel-resources/)
 - [Wanderlog](https://wanderlog.com/)
   - For planning your tips, handy if you travel with others
+- [HiChee](https://hichee.com/)
+  - Compare Airbnb and Booking prices
 
 ---
 

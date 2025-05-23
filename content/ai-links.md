@@ -30,6 +30,8 @@ I can change this constantly because of the infinite inflow of new and better mo
   - AI model benchmarking
 - [SEAL LLM Leaderboards](https://scale.com/leaderboard)
   - Another leaderboard
+- [LM Studio](https://lmstudio.ai/)
+  - Toolkit for local development
 
 ## AI services
 
