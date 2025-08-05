@@ -1,7 +1,7 @@
 ---
 title: "Prepper, ale normální: Jak být připraven a nebýt divný"
 created_at: 2024-08-23
-updated_at: 2025-05-01
+updated_at: 2025-08-05
 image:
   src: /calm/prepper/prepper.webp
   alt: Konzervy, prepper
