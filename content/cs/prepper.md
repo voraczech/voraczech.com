@@ -280,6 +280,7 @@ Strategií je zapadnout do definice normálnosti. Cílem útoku bývali historic
 - [Emergency kit ultra minimalisty](https://youtu.be/XBQBKseozuY?feature=shared&t=269)
 - [Smysl investice do vztahů](https://youtu.be/QU2K6XEnA0I)
 - [Networking](https://youtu.be/QU2K6XEnA0I)
+- [Ivo Zelinka a základní věci](https://xcancel.com/IvoZelinka/status/1949854270951440644)
 
 ### Již není k dispozici
 
