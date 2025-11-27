@@ -1,5 +1,5 @@
 ---
-title: "Prepper but Normal: How to Be Prepared and Not Be Weird"
+title: 'Prepper but Normal: How to Be Prepared and Not Be Weird'
 created_at: 2024-08-23
 updated_at: 2025-04-30
 image:
@@ -271,6 +271,7 @@ The strategy is to fit into the definition of normalcy. The target of attack has
 - [Get your visa](https://visadb.io/)
 - [Emergency kit inspiration](https://theprepared.com/bug-out-bags/guides/bug-out-bag-list/)
 - [Emergency kit of an extreme minimalist](https://youtu.be/XBQBKseozuY?feature=shared&t=269)
+- [How to Prepare for Crisis Situations and Overcome Them Together - Czech government](https://www.72h.gov.cz/en/download)
 
 ## Specific (but in Czech)
 

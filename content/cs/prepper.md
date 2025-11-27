@@ -1,5 +1,5 @@
 ---
-title: "Prepper, ale normální: Jak být připraven a nebýt divný"
+title: 'Prepper, ale normální: Jak být připraven a nebýt divný'
 created_at: 2024-08-23
 updated_at: 2025-08-05
 image:
@@ -281,6 +281,7 @@ Strategií je zapadnout do definice normálnosti. Cílem útoku bývali historic
 - [Smysl investice do vztahů](https://youtu.be/QU2K6XEnA0I)
 - [Networking](https://youtu.be/QU2K6XEnA0I)
 - [Ivo Zelinka a základní věci](https://xcancel.com/IvoZelinka/status/1949854270951440644)
+- [Jak se připravit a společně zvládnout krizovou situaci - Ministerstvo vnitra](https://www.72h.gov.cz/cs/ke-stazeni)
 
 ### Již není k dispozici
 
