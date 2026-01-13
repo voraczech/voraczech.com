@@ -272,6 +272,7 @@ The strategy is to fit into the definition of normalcy. The target of attack has
 - [Emergency kit inspiration](https://theprepared.com/bug-out-bags/guides/bug-out-bag-list/)
 - [Emergency kit of an extreme minimalist](https://youtu.be/XBQBKseozuY?feature=shared&t=269)
 - [How to Prepare for Crisis Situations and Overcome Them Together - Czech government](https://www.72h.gov.cz/en/download)
+- [MARVAN, Jan. My Field Guide to EDC and Emergency Preparedness](https://hackinglives.com/en/blog/bs5fs1cvwr4b33osbcbrxx1g/edc-emergency-gear)
 
 ## Specific (but in Czech)
 

@@ -282,6 +282,7 @@ Strategií je zapadnout do definice normálnosti. Cílem útoku bývali historic
 - [Networking](https://youtu.be/QU2K6XEnA0I)
 - [Ivo Zelinka a základní věci](https://xcancel.com/IvoZelinka/status/1949854270951440644)
 - [Jak se připravit a společně zvládnout krizovou situaci - Ministerstvo vnitra](https://www.72h.gov.cz/cs/ke-stazeni)
+- [EDC vs. Emergency Bag](https://hackinglives.com/cs/blog/bs5fs1cvwr4b33osbcbrxx1g/edc-emergency-batoh)
 
 ### Již není k dispozici
 
