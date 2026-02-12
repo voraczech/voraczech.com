@@ -18,7 +18,7 @@
     "remark-reading-time": "^2.0.1",
     "tailwindcss": "^4.0.3",
     "vue": "^3.4.19",
-    "vue-router": "^4.3.0"
+    "vue-router": "^5.0.0"
   },
   "devDependencies": {
     "@nuxt/content": "^3.1.0",
