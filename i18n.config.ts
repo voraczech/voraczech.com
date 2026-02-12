@@ -1,5 +1,6 @@
 export default defineI18nConfig(() => ({
   legacy: false,
+  flatJson: true,
   messages: {
     en: {
       "menu:about": "About",

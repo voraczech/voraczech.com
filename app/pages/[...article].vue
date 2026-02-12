@@ -13,7 +13,9 @@
         {{ getReadableDate(doc.created_at) }}
       </time>
       &#x2022;
-      <span>{{ getReadableTimeRead(doc.meta.readingTime.minutes) }}</span>
+      <span>{{
+        getReadableTimeRead(doc.meta?.readingTime?.minutes || 1)
+      }}</span>
 
       <span :datatype="doc.updated_at" v-if="doc.updated_at">
         &#x2022;
@@ -81,7 +83,7 @@ useHead({
     { name: "twitter:card", content: "summary" },
     {
       name: "article:article:tag",
-      content: doc.value?.meta.tags ? doc.value.meta.tags?.toString() : "",
+      content: doc.value?.meta?.tags ? doc.value.meta.tags?.toString() : "",
     },
     {
       property: "og:image",
