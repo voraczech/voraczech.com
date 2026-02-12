@@ -1,6 +1,8 @@
 import tailwindcss from "@tailwindcss/vite"
 
 export default defineNuxtConfig({
+  srcDir: "app/",
+
   experimental: {
     viewTransition: true,
   },
@@ -18,7 +20,6 @@ export default defineNuxtConfig({
 
   // seo must be before content
   modules: [
-    "@nuxtjs/google-fonts",
     "@nuxt/image",
     "@nuxtjs/i18n",
     "@nuxtjs/seo",
@@ -43,12 +44,6 @@ export default defineNuxtConfig({
     },
   },
 
-  googleFonts: {
-    families: {
-      "Noto Serif": [400, 500, 600, 700],
-    },
-  },
-
   i18n: {
     locales: [
       { code: "en", name: "English", language: "en-GB" },
@@ -56,7 +51,7 @@ export default defineNuxtConfig({
     ],
     strategy: "prefix_except_default",
     defaultLocale: "en",
-    vueI18n: "./i18n.config.ts",
+    vueI18n: "../i18n.config.ts",
     detectBrowserLanguage: false,
   },
 
@@ -75,7 +70,23 @@ export default defineNuxtConfig({
     url: "https://voraczech.com",
     name: "voraczech;",
   },
+  app: {
+    head: {
+      link: [
+        { rel: "preconnect", href: "https://fonts.googleapis.com" },
+        {
+          rel: "preconnect",
+          href: "https://fonts.gstatic.com",
+          crossorigin: "",
+        },
+        {
+          rel: "stylesheet",
+          href: "https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;500;600;700&display=swap",
+        },
+      ],
+    },
+  },
   vite: { plugins: [tailwindcss()] },
 
-  compatibilityDate: "2025-01-25",
+  compatibilityDate: "2026-02-12",
 })

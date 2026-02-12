@@ -15,7 +15,6 @@ defineProps({
       :src="src"
       :alt="alt"
       :loading="loading"
-      :modifiers="{ rotate: null }"
       class="rounded-md mt-6"
       width="100%"
       sizes="320px sm:450px md:512px lg:740px"
