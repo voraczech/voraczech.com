@@ -13,8 +13,8 @@ Obsah prověřený časem
 - fs.blog; konkrétně i:
   - https://fs.blog/succeed-at-work/
   - https://fs.blog/tradeoffs-decision-making/
-- Wait But Why
 
+- Wait But Why
   - https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
   - https://waitbutwhy.com/2014/12/what-makes-you-you.html
 
