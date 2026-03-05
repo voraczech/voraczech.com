@@ -77,7 +77,7 @@ Airports are a magic place where being acceptably late is always better than bei
 
 You are closer to the Sun, use some skin protection.
 
-### Uber, Bolt etc.
+### Uber, Bolt etc
 
 Check which apps are in your destination and install them upfront if possible.
 
@@ -133,6 +133,8 @@ Use free walking tour. Of course you tip. Usually you give 10 EUR/USD. Reduce if
   - For planning your tips, handy if you travel with others
 - [HiChee](https://hichee.com/)
   - Compare Airbnb and Booking prices
+- [esimdb](http://esimdb.com)
+  - Compare esims
 
 ---
 
