@@ -120,7 +120,7 @@ Nice. Especially old line stations, some look like a bathroom. Each metro entran
 
 Use buses. You can take 100E (special pricing applies for this one). At the airport you can pay at the machine (cash and card). Price is 1350 HUF. In front of the bus they will check and validate your ticket and/or help. Pretty good UX compared to others (I am looking at you, Prague).
 
-You can also use 200E and transfer to M3 at Kőbánya-Kispest. You need to use a new ticket (if you have single ride) or scan QR for time limited tickets. This way is cheaper (even two single ride tickets are for 900 HUF) and it is 10 minutes longer.
+You can also use 200E and transfer to M3 at Kőbánya-Kispest. You need to use a new ticket (if you have single ride) or scan QR for time limited tickets. This way is cheaper (even two single ride tickets are for 900 HUF) and it is only 10 minutes longer.
 
 ## Else
 
