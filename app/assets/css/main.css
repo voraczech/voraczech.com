@@ -1,5 +1,4 @@
-@import "tailwindcss";
-@config "../../../tailwind.config.ts";
+@import 'tailwindcss';
 @plugin "@tailwindcss/typography";
 
 @theme {
@@ -15,7 +14,7 @@
   --color-v-900: #4e342e;
   --color-v-950: #3b2320;
 
-  --font-serif: "Noto Serif", "serif";
+  --font-serif: 'Noto Serif', 'serif';
 }
 
 h1 a,
@@ -61,7 +60,7 @@ article h4:has(a)::before,
 article h5:has(a)::before,
 article h6:has(a)::before {
   @apply absolute opacity-0 cursor-pointer text-v-700 transition-opacity duration-100;
-  content: "#";
+  content: '#';
   left: -1em;
 }
 
@@ -76,16 +75,16 @@ article h6:has(a:hover)::before {
 
 .prose
   :where(blockquote p:first-of-type):not(
-    :where([class~="not-prose"], [class~="not-prose"] *)
+    :where([class~='not-prose'], [class~='not-prose'] *)
   )::before,
 .prose
   :where(blockquote p:last-of-type):not(
-    :where([class~="not-prose"], [class~="not-prose"] *)
+    :where([class~='not-prose'], [class~='not-prose'] *)
   )::after {
   content: none;
 }
 
-.prose :where(h5):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+.prose :where(h5):not(:where([class~='not-prose'], [class~='not-prose'] *)) {
   color: var(--tw-prose-headings);
   font-weight: 500;
   margin-top: 1em;
@@ -94,6 +93,6 @@ article h6:has(a:hover)::before {
 }
 
 .prose
-  :where(blockquote):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  :where(blockquote):not(:where([class~='not-prose'], [class~='not-prose'] *)) {
   @apply font-normal;
 }
