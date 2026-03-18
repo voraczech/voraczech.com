@@ -62,7 +62,7 @@ It's not a checklist. It's an inspiration.
 > Normal version: cash in the currency I use plus some EUR/USD
 >
 > Extreme version: the whole palette from SDR
-
+>
 > Advantages: reduced risk when preferred currency fails (if you have multiple currencies); liquidity (cash-only businesses); less spending; anonymity
 >
 > Extra costs: weight of cash; exchange rate risk; impossibility of certain financial operations (interest on deposits); custody security measures
@@ -85,7 +85,7 @@ It is important to have foreign currencies. In the event of a system failure, th
 > Normal version: many bank accounts
 >
 > Extreme version: distribution across jurisdictions and entities
-
+>
 > Advantages: increase availability of funds
 >
 > Extra costs: cost of administration.
@@ -99,7 +99,7 @@ An extreme option may be to open an account abroad. In Georgia, for example, it'
 > Normal version: bitcoin on lightning network, maybe stablecoins
 >
 > Extreme version: hardware wallet and anonymous coins (Monero)
-
+>
 > Advantages: similar to cash; better portability of larger amounts.
 >
 > Extra costs: Higher volatility; need to understand (especially the definite loss in bad custody)
@@ -115,7 +115,7 @@ A more extreme version might be to buy privacy coins like Monero. Or buy more an
 > Normal version: a nice piece of jewellery, low carat
 >
 > Extreme version: real gold jewelry; physical commodities
-
+>
 > Benefits: Diversification
 >
 > Extra costs: transaction costs for buying and selling; storage; poorer portability
@@ -129,7 +129,7 @@ For long term holdings and for larger portfolios, it makes sense to hold a certa
 > Normal version: multiple physical passports of the same country
 >
 > Extreme version: multiple citizenships, no permanent residence, temporary stays
-
+>
 > Benefits: flexibility multiplied
 >
 > Extra costs: cost of passport; possible additional legislative burden
@@ -145,7 +145,7 @@ Some version of the "in-between" is still the option of not having permanent res
 > Normal version: Buy portable versions of products
 >
 > Extreme versions: Having only negligible possessions in things you are unable to take away quickly
-
+>
 > Benefits: increased utility (use even during traveling), mobility
 >
 > Extra costs: less options, possibly lower functionality/comfort, possibly price
@@ -161,7 +161,7 @@ But it may still make sense to upgrade already portable things with more portabl
 > Normal version: Can food, water supplies/water filters for daily use, first aid kit in car, raincoat, flashlights, batteries, power banks
 >
 > Extreme version: extreme amount of food, cigarettes and bullets; emergency kit, disaster supplies (radio), own power source (solar panels)
-
+>
 > Advantages: Durability
 >
 > Cost: Storage space
@@ -185,7 +185,7 @@ And it's not just a Georgian thing. Even Japanese (extreme) minimalists keep bar
 > Normal version: Maintain relationships including more distant ones (less important friends, friends of friends)
 >
 > Extreme version: Increase the amount of relationships to the widest possible range, have kids
-
+>
 > Benefits: better life in general
 >
 > Extra costs: possible fragmentation of relationships, time
@@ -199,7 +199,7 @@ There are plenty of options, from casual socialising, through catching up with f
 > Normal version: consume valuable content, educate yourself
 >
 > Extreme version: unnecessary immersion in low probability problems, social engineering
-
+>
 > Benefits: Better life in general
 >
 > Additional cost: Annoyance with the green bird who recalls to do your Spanish lesson again
@@ -213,7 +213,7 @@ In addition to various YT videos, Duolingo, books, and more, it's useful to simp
 > Normal version: Courses that I will use in normal life (e.g. cooking)
 >
 > Extreme version: Courses I won't use every day, but could (survival courses)
-
+>
 > Advantages: Optionality, ability to get into new life situations
 >
 > Extra costs: time, cost
@@ -225,7 +225,7 @@ Same as with soft skills.
 > Normal version: try VPN, Tor, encrypted communication, cryptocurrency payments
 >
 > Extreme version: Excessive use without added benefit
-
+>
 > Benefit: Ability to use alternatives before needing them (when it's too late)
 >
 > Extra costs: cost of services, convenience, time
@@ -273,6 +273,9 @@ The strategy is to fit into the definition of normalcy. The target of attack has
 - [Emergency kit of an extreme minimalist](https://youtu.be/XBQBKseozuY?feature=shared&t=269)
 - [How to Prepare for Crisis Situations and Overcome Them Together - Czech government](https://www.72h.gov.cz/en/download)
 - [MARVAN, Jan. My Field Guide to EDC and Emergency Preparedness](https://hackinglives.com/en/blog/bs5fs1cvwr4b33osbcbrxx1g/edc-emergency-gear)
+- [Home Survival Kit List | 53 Essentials](https://trueprepper.com/kits/survival-kits/)
+- [Barter Items: 10 Cheap Itms That Will Skyrocket In Value](https://www.skilledsurvival.com/best-barter-items/)
+- [Survival First Aid Kit List | 28 Essentials](https://trueprepper.com/kits/first-aid-kit/)
 
 ## Specific (but in Czech)
 

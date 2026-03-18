@@ -62,7 +62,7 @@ Není to checklist. Je to inspirace.
 > Normální verze: hotovost v měně, kterou normálně používám + něco z EUR/USD
 >
 > Extrémní verze: celá paleta z SDR
-
+>
 > Výhody: Snížení rizika při nefunkčnosti preferenční měny (při více měnách); likvidnost (cash-only podniky); menší utrácení; anonymita
 >
 > Dodatečné náklady: Váha hotovosti; kurzové riziko; nemožnost určitých finančních operací (úrok); bezpečností opatření na úschovu
@@ -85,7 +85,7 @@ V rámci hotovosti je důležité mít cizí měny. V případě úpadku systém
 > Normální verze: Víc bankovních účtů
 >
 > Extrémní verze: Distribuce napříč jurisdikcemi i entitami
-
+>
 > Výhody: Snížení nedostupnosti prostředků
 >
 > Dodatečné náklady: Cena za správu
@@ -99,7 +99,7 @@ Extrémní variantou může být založení účtu v zahraničí. Například v 
 > Normální verze: Bitcoin na lightning network, možná stablecoiny
 >
 > Extrémní verze: Ještě k tomu hardware peněženku a anonymní coiny (Monero)
-
+>
 > Výhody: Podobné jako u hotovosti; lepší přenositelnost vyšších částek
 >
 > Dodatečné náklady: Vyšší volatilita; nutnost pochopit (hlavně definitivní ztrátu při špatné úschově)
@@ -115,7 +115,7 @@ Extrémnější verzí může být koupit si i privacy coiny jako Monero. Nebo n
 > Normální verze: Hezký šperk, klidně nízkokarátový
 >
 > Extrémní verze: Pravé zlaté šperky; fyzické komodity
-
+>
 > Výhody: Diverzifikace
 >
 > Dodatečné náklady: Transakční náklady při nákupu a prodeji; úschova; horší přenositelnost
@@ -129,7 +129,7 @@ Pro dlouhohobé držení a pro větší portfolia dává smysl držet určité m
 > Normální verze: Víc fyzických pasů stejné země
 >
 > Extrémní verze: Víc občanství, žádný trvalý pobyt, přechodné pobyty
-
+>
 > Výhody: Násobně zvýšená flexibilita
 >
 > Dodatečné náklady: Cena pasu; možná další legislativní zátěž
@@ -145,7 +145,7 @@ Určitou verzí "mezi" je ještě možnost vůbec nemít trvalý pobyt, jen pře
 > Normální verze: Nakupovat přenosné verze produktů
 >
 > Extrémní verze: Mít jen zanedbatelný majetek ve věcech, které nejsem schopen rychle odvézt
-
+>
 > Výhody: Zvýšení užitkovosti (využití i na cestách), mobilita
 >
 > Dodatečné náklady: Menší výběr, možná nižší funkcionalita/komfort, případně cena
@@ -161,7 +161,7 @@ Smysl ale může pořád dávat upgradovat již přenositelné věci přenositel
 > Normální verze: Trvanlivé potraviny, zásoby vody / filtry na vodu pro denní použití, lékárnička v autě, pláštěnka, baterky, power banka
 >
 > Extrémní verze: Příliš trvanlivých potravin, cigaret a nábojů; emergency kit, potřeby nutné na jen v případě katastrof (rádio), vlastní zdroje energie (solární panely)
-
+>
 > Výhody: Durabilita
 >
 > Náklady: Prostor na uschování
@@ -187,7 +187,7 @@ Další nápady na rezervy lze najít dole ve zdrojích.
 > Normální verze: Udržovat vztahy včetně vzdálenějších (méně významní přátelé, známí známých)
 >
 > Extrémní verze: Zvýšit množství vztahů na co nejširší spektrum, děti
-
+>
 > Výhody: Lepší život obecně
 >
 > Dodatečné náklady: Možná rozstříštěnost vztahů, čas
@@ -201,7 +201,7 @@ Možností je spoustu, od běžné socializace, přes nahánění přátel na so
 > Normální verze: Konzumovat hodnotný obsah, vzdělávat se
 >
 > Extrémní verze: Zbytečné ponoření do problémů s nízkou pravděpodobností, sociální inženýrství
-
+>
 > Výhody: Lepší život obecně
 >
 > Dodatečné náklady: Naštvanost z toho zeleného ptáčka, který se zase připomíná na lekci španělštiny
@@ -215,7 +215,7 @@ Mimo různé YT videa, Duolinga, knihy a jiné se hodí jednoduše zkoušet (a a
 > Normální verze: Kurzy, co použiju i v normálním životě (např. vaření)
 >
 > Extrémní verze: Kurzy, co nepoužiju denně, ale mohl bych (kurzy přežití)
-
+>
 > Výhody: Opcionalita, schopnost dostat se do nových životních situací
 >
 > Dodatečné náklady: Čas, cena
@@ -227,7 +227,7 @@ Platí stejné, co u soft skills.
 > Normální verze: Vyzkoušet VPN, Tor, šifrovanou komunikaci, kryptoměnové platby
 >
 > Extrémní verze: Přehánění využívání bez přidaného užitku
-
+>
 > Výhody: Schopnost používat alternativy před jejich nutností (až bude pozdě)
 >
 > Dodatečné náklady: Cena služeb, komfort, čas
@@ -283,6 +283,9 @@ Strategií je zapadnout do definice normálnosti. Cílem útoku bývali historic
 - [Ivo Zelinka a základní věci](https://xcancel.com/IvoZelinka/status/1949854270951440644)
 - [Jak se připravit a společně zvládnout krizovou situaci - Ministerstvo vnitra](https://www.72h.gov.cz/cs/ke-stazeni)
 - [EDC vs. Emergency Bag](https://hackinglives.com/cs/blog/bs5fs1cvwr4b33osbcbrxx1g/edc-emergency-batoh)
+- [Home Survival Kit List | 53 Essentials](https://trueprepper.com/kits/survival-kits/)
+- [Barter Items: 10 Cheap Itms That Will Skyrocket In Value](https://www.skilledsurvival.com/best-barter-items/)
+- [Survival First Aid Kit List | 28 Essentials](https://trueprepper.com/kits/first-aid-kit/)
 
 ### Již není k dispozici
 
