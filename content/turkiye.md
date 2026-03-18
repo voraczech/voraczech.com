@@ -1,7 +1,7 @@
 ---
 title: "Being in Türkiye (Turkey) 2026"
 created_at: 2026-02-12
-updated_at: 2026-02-12
+updated_at: 2026-03-18
 image:
   src: /travel/tips/travelling.jpg
   alt: "Travel"
