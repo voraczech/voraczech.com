@@ -12,5 +12,6 @@ tags:
 - Water is not drinkable (if not mentioned)
 - Not many Turkish toilets; at the airport there are present but "normal" ones are there as well
 - best eSIM card I found - esim4travel.com
-- ATMs - https://en.wikivoyage.org/wiki/Turkey#ATMs
+- ATMs - <https://en.wikivoyage.org/wiki/Turkey#ATMs>
   - Ziraat Bankası is safe choice - always decline DCC (dynamic currency conversion) - decline is on the left
+  - not safe all the time since it takes your card sometimes
