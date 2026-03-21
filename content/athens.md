@@ -28,8 +28,12 @@ I actually expected the opposite.
 
 Fortunately, I discovered this just as I was about to pay the €30 entrance fee for the Acropolis. Certain days offer free admission—not only for the Acropolis but also for the Ancient Agora (which I highly recommend) and five other sites.
 
-Make sure to [check the specific dates](https://realgreekexperiences.com/is-the-acropolis-free-to-visit). These free days usually occur during the  off-season. You might get lucky, or you can plan your trip accordingly to take advantage of these significant savings.
+Make sure to [check the specific dates](https://realgreekexperiences.com/is-the-acropolis-free-to-visit). These free days usually occur during the off-season. You might get lucky, or you can plan your trip accordingly to take advantage of these significant savings.
 
 ## Takeaway (shown) price may be cheaper than here
 
 Even by 40 percent.
+
+## Sunday = closed shops
+
+The only reasonable chain is AB Shop&Go which is opened on Sunday.
