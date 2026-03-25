@@ -1,5 +1,5 @@
 ---
-title: 'Prepper, ale normální: Jak být připraven a nebýt divný'
+title: "Prepper, ale normální: Jak být připraven a nebýt divný"
 created_at: 2024-08-23
 updated_at: 2026-03-18
 image:
@@ -286,6 +286,8 @@ Strategií je zapadnout do definice normálnosti. Cílem útoku bývali historic
 - [Home Survival Kit List | 53 Essentials](https://trueprepper.com/kits/survival-kits/)
 - [Barter Items: 10 Cheap Itms That Will Skyrocket In Value](https://www.skilledsurvival.com/best-barter-items/)
 - [Survival First Aid Kit List | 28 Essentials](https://trueprepper.com/kits/first-aid-kit/)
+- [EVERLIT Complete 72 Hours Earthquake Bug Out Bag Emergency Survival Kit for Family.](https://www.amazon.com/EVERLIT-Earthquake-Emergency-Hurricanes-Hand-Crank/dp/B07BFRV7K5)
+  - Dobré na inspiraci
 
 ### Již není k dispozici
 
