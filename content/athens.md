@@ -37,3 +37,7 @@ Even by 40 percent.
 ## Sunday = closed shops
 
 The only reasonable chain is AB Shop&Go which is opened on Sunday.
+
+## Use OASA Telematics app for public transport
+
+It shows online bus positions as well. For more info about public tickets, reach the [official site](https://www.athenstransport.com/english/tickets/)
