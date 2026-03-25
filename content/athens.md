@@ -1,7 +1,7 @@
 ---
 title: "Things I wish I knew before traveling to Athens, Greece"
 created_at: 2026-03-17
-updated_at: 2026-03-21
+updated_at: 2026-03-25
 image:
   src: /travel/athens/acropolis.jpg
   alt: The Parthenon on the Acropolis, Athens
