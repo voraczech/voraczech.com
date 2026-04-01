@@ -1,8 +1,8 @@
 ---
-title: 'Kvalitní obsah'
+title: "Kvalitní obsah"
 created_at: 2025-11-27
 image:
-  src: /sakartvelo/difference.jpg
+  src: /quality.jpg
   alt: Kulturní rozdíly, Rustaveli
 tags:
   - kvalitní obsah
@@ -10,7 +10,7 @@ tags:
 
 Obsah prověřený časem
 
-- fs.blog; konkrétně i:
+- fs.blog; konkrétně:
   - <https://fs.blog/succeed-at-work/>
   - <https://fs.blog/tradeoffs-decision-making/>
 
