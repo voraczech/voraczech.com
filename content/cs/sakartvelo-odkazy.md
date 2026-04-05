@@ -1,5 +1,5 @@
 ---
-title: "Sakartvelo (Gruzie): Užitečné odkazy"
+title: "Sakartvelo (Gruzie): Užitečné odkazy a aplikace"
 created_at: 2025-02-22
 image:
   src: /sakartvelo/links.jpg

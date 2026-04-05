@@ -50,9 +50,9 @@ If you already have those apps, simply change your region to Georgia there. Food
   - The only taxi app you need in Tbilisi
   - Also recommended for other cities
 - Maxim
-  - Taxi app, it can be handy in Kutaisi for example
+  - Taxi app, very handy in Kutaisi
 - Yandex
-  - If everything else fails (never happened in Georgia)
+  - If everything else fails (never happened in Georgia, happened in Kazachstan and Armenia)
 
 ## Accomodation
 
@@ -66,6 +66,8 @@ If you already have those apps, simply change your region to Georgia there. Food
 
 - MAF Carrefour
   - For being eligible to discounts…
+- Telegram
+  - Especially if you live here for events and water outage notifications
 - Your airplane/bus app
 - Your insurance company app
 - Your bank app

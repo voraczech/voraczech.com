@@ -222,7 +222,7 @@ Same as with soft skills.
 
 ### Online services
 
-> Normal version: try VPN, Tor, encrypted communication, cryptocurrency payments
+> Normal version: try VPN, Tor, encrypted communication, cryptocurrency payments, apps working without internet (bitchat, Briar, Kiwix)
 >
 > Extreme version: Excessive use without added benefit
 >

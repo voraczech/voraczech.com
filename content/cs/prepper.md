@@ -224,7 +224,7 @@ Platí stejné, co u soft skills.
 
 ### Online služby
 
-> Normální verze: Vyzkoušet VPN, Tor, šifrovanou komunikaci, kryptoměnové platby
+> Normální verze: Vyzkoušet VPN, Tor, šifrovanou komunikaci, kryptoměnové platby, aplikace fungující bez internetu (bitchat, Briar, Kiwix)
 >
 > Extrémní verze: Přehánění využívání bez přidaného užitku
 >
