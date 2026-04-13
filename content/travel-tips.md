@@ -114,13 +114,12 @@ Use free walking tour. Of course you tip. Usually you give 10 EUR/USD. Reduce if
 ### Packing
 
 - [Twitter thread by Pavol Luptak](https://twitter.com/wilderko/status/1521779697742270464)
-
   - [[SK] a bit longer version part I](https://www.facebook.com/wilderko/posts/pfbid02KVxkK728gaKUhSutq8ruRVAWqqRUMVj2j3XJuaEpwFF7k6jLGJ2b2oGXpDNEwhrhl)
   - [[SK] Part II](https://www.facebook.com/story.php?story_fbid=10231226068784769&id=1525189751&rdid=y4UzAtOcJprL3YG7)
 
 - [Inspiration for a light packing](libredd.it/r/onebag)
 - [Vitalik's 40l backpack](https://vitalik.eth.limo/general/2022/06/20/backpack.html)
-- [[CZ] Cestování po vlastní ose](https://povlastniose.eu/rady/co-s-sebou-na-cesty)
+- [\[CZ\] Cestování po vlastní ose](https://povlastniose.eu/rady/co-s-sebou-na-cesty)
 
 ### General
 
@@ -135,6 +134,8 @@ Use free walking tour. Of course you tip. Usually you give 10 EUR/USD. Reduce if
   - Compare Airbnb and Booking prices
 - [esimdb](http://esimdb.com)
   - Compare esims
+- [\[SK\]Travel Hacking](https://docs.google.com/document/d/160Q1p_i0ZPDcEK_vOOrfX5mqcP1wE2lKYmhvLya13J0/edit)
+  - since it is pretty unique it deserves a mention
 
 ---
 
