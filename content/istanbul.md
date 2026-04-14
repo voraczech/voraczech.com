@@ -1,7 +1,7 @@
 ---
 title: 'Being in Istanbul, Türkiye (Turkey) 2026'
 created_at: 2026-02-12
-updated_at: 2026-04-13
+updated_at: 2026-04-14
 image:
   src: /travel/istanbul/istanbul.jpg
   alt: 'Istanbul view in the morning'
