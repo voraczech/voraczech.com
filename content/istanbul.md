@@ -1,10 +1,10 @@
 ---
-title: "Being in Istanbul, Türkiye (Turkey) 2026"
+title: 'Being in Istanbul, Türkiye (Turkey) 2026'
 created_at: 2026-02-12
 updated_at: 2026-04-13
 image:
   src: /travel/istanbul/istanbul.jpg
-  alt: "Istanbul view in the morning"
+  alt: 'Istanbul view in the morning'
 tags:
   - turkiye
   - turkey
@@ -12,6 +12,14 @@ tags:
   - travel
   - tips
 ---
+
+## Before - buy an e-sim
+
+Before going to Turkiye, buy an e-sim. It is much cheaper than roaming or a local offer. Use my tip from [travel tips](https://voraczech.com/travel-tips) to get e-sim. Also for free Wi-Fi you need to register with your phone number which does not work every time.
+
+## Hotel is your friend, Airbnb may not
+
+I had a bad experience with Airbnb in Turkiye in past. There are definitely good ones but hotel is always a safe choice in this country if you travel for vacation.
 
 ## Water is not ~drinkable~ potable (unless otherwise stated)
 
@@ -59,3 +67,75 @@ You can top up for free in Migros shop - use cash and go to a cashier, self-serv
 - Dolmabahçe, Galata, Taksim (half a day, or a full day if you take your time)
 - Grand Çamlıca Mosque
 - hammam
+
+## Eat
+
+- falafel
+- pilav
+- lahmacun
+- pide
+- borek
+- kebab - Urfa, Adana, Iskender(top), sis
+- tantuni (with yogurt)
+
+### Sweets
+
+- baklava
+- lokum
+- künefe
+- puddings
+- sutlaç
+- helva
+
+## Drink
+
+- Turkish tea
+- Turkish coffee
+- ayran
+- salep
+- şalgam
+- boza
+
+## A few words to know
+
+- merhaba = hello
+- teşekkürler = thank you
+
+- evet = yes
+- yok = no
+
+- su = water
+- çay = tea
+- kahve = coffee
+
+- et = meat
+- tavuk = chicken
+- balik = fish
+
+- seker = sugar
+- pamuk = cotton
+
+- indirim = discount
+- deniz = sea
+
+## Buy
+
+- Turkish tea
+- Turkish coffee
+- clothes
+- parfumes
+- pharmacy
+- baklava
+- a nice haircut
+
+## Shops
+
+- Hafiz Mustafa
+- Kahve Dunaysi
+- Tudors
+- Sansiro Perfume (no experience)
+
+## History to know
+
+- 1453 - Fall of Constantinople
+- Mustafa Kemal Atatürk - founder of the Republic of Turkey, first president, and a national hero. He is known for his reforms that modernized Turkey and his efforts to create a secular state.
