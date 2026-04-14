@@ -17,7 +17,7 @@ tags:
 
 Before going to Turkiye, buy an e-sim. It is much cheaper than roaming or a local offer. Use my tip from [travel tips](https://voraczech.com/travel-tips) to get e-sim. Also for free Wi-Fi you need to register with your phone number which does not work every time.
 
-## Hotel is your friend, Airbnb may not
+## Hotel is your friend, Airbnb may not be
 
 I had a bad experience with Airbnb in Turkiye in past. There are definitely good ones but hotel is always a safe choice in this country if you travel for vacation.
 
