@@ -69,7 +69,7 @@ Kvalitní kurzy zdarma.
     - Kromě repozitářů z kurzu jsou zajímavé i jiné, např. [nanoGPT](https://github.com/karpathy/nanoGPT), na kterém trénovali pro svůj článek i [NYTimes](https://www.nytimes.com/interactive/2023/04/26/upshot/gpt-from-scratch.html)
 - [Kaggle](https://www.kaggle.com/learn)
   - včetně úplných začátků pro python, SQL, ML
-- [Prompting 101](https://www.youtube.com/watch?v=ysPbXH0LpIE) from Anthropic
+- [Prompting 101](https://www.youtube.com/watch?v=ysPbXH0LpIE) od Anthropicu
 
 ## Jiné
 
