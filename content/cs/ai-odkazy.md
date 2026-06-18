@@ -1,6 +1,7 @@
 ---
 title: "AI: užitečné odkazy"
 created_at: 2025-02-21
+updated_at: 2026-06-18
 image:
   src: /dev/ai-links.webp
   alt: AI "užitečné" odkazy

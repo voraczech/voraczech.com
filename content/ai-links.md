@@ -1,6 +1,7 @@
 ---
 title: "AI: Useful Links"
 created_at: 2025-02-21
+updated_at: 2026-06-18
 image:
   src: /dev/ai-links.webp
   alt: '"Useful" AI links'
