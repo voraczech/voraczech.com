@@ -68,6 +68,7 @@ Quality courses for free.
     - In addition to the repositories from the course, others are interesting, such as [nanoGPT](https://github.com/karpathy/nanoGPT), which [NYTimes](https://www.nytimes.com/interactive/2023/04/26/upshot/gpt-from-scratch.html) trained on for their article
 - [Kaggle](https://www.kaggle.com/learn)
   - including complete beginners for python, SQL, ML
+- [Prompting 101](https://www.youtube.com/watch?v=ysPbXH0LpIE) from Anthropic
 
 ## Other
 
@@ -80,3 +81,4 @@ Quality courses for free.
   - Yearly AI report
 - [Agent Development Kit](https://google.github.io/adk-docs/)
   - Google ADK with examples
+- [How Claude Code is build](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built)
