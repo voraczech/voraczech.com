@@ -62,9 +62,7 @@ Quality courses for free.
 
 - Andrej Karpathy
   - [Neural Networks: Zero to Hero (YouTube)](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
-    - The best source of knowledge
-    - free on YT
-    - I recommend going through the whole channel
+    - The best source of knowledge, free on YT; I recommend going through the whole channel
   - [Github](https://github.com/karpathy)
     - In addition to the repositories from the course, others are interesting, such as [nanoGPT](https://github.com/karpathy/nanoGPT), which [NYTimes](https://www.nytimes.com/interactive/2023/04/26/upshot/gpt-from-scratch.html) trained on for their article
 - [Kaggle](https://www.kaggle.com/learn)

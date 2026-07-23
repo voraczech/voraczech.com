@@ -19,6 +19,8 @@ List of privacy-focused links.
 - [Open Source Alternatives To Proprietary Software](https://opensourcealternative.to/)
 - [What Every Browser Knows About You](http://webkay.robinlinus.com/)
 - [Surveillance Self-Defense](https://ssd.eff.org/module-categories/security-scenarios)
+- [Privacynex](https://privacynex.org/en/)
+- [Awesome Privacy](https://codeberg.org/alicia/awesome-privacy)
 
 ### Articles
 
@@ -28,7 +30,8 @@ List of privacy-focused links.
 - [Adblocking-privacy](https://docs.google.com/document/d/1ga-sq1j4sSh7tg46_E7j0MmN2blrpkUV7-F1oNveTuo/edit?tab=t.0)
 - [Choosing a VPN](https://michalkodnar.xyz/blog-en/culture-en/what-should-i-consider-when-choosing-a-vpn/)
 - [How to play with the phone number](https://michalkodnar.xyz/blog-en/culture-en/how-to-play-with-the-phone-number/)
+- [Sovereignty tips](https://hackinglives.com/en/blog/otyhdo7auvalsx7vkljuk97l/sovereignty-tips)
 
-## Not fully recommended (bias)
+## Not recommended (biased)
 
 - [Best Privacy Tools & Software Guide in 2023](https://www.privacytools.io/)

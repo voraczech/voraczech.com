@@ -19,6 +19,8 @@ Seznam odkazů o soukromí.
 - [Open Source Alternatives To Proprietary Software](https://opensourcealternative.to/)
 - [What Every Browser Knows About You](http://webkay.robinlinus.com/)
 - [Surveillance Self-Defense](https://ssd.eff.org/module-categories/security-scenarios)
+- [Privacynex](https://privacynex.org/en/)
+- [Awesome Privacy](https://codeberg.org/alicia/awesome-privacy)
 
 ### Články
 
@@ -28,6 +30,7 @@ Seznam odkazů o soukromí.
 - [Adblocking-privacy](https://docs.google.com/document/d/1ga-sq1j4sSh7tg46_E7j0MmN2blrpkUV7-F1oNveTuo/edit?tab=t.0)
 - [Čo zohľadniť pri výbere VPNky?](https://michalkodnar.xyz/sk/blog/kultura-sk/co-zohladnit-pri-vybere-vpnky/)
 - [Ako sa pohrať s telefónnym číslom](https://michalkodnar.xyz/sk/blog/ako-sa-pohrat-s-telefonnym-cislom/)
+- [Sovereignty tips](https://hackinglives.com/en/blog/otyhdo7auvalsx7vkljuk97l/sovereignty-tips)
 
 ## Plně nedoporučuji (zkreslené)
 
