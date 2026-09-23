@@ -65,6 +65,10 @@ export default defineNuxtConfig({
     url: 'https://voraczech.com',
     name: 'voraczech;',
   },
+  // Articles provide their own Open Graph images via useHead().
+  ogImage: {
+    enabled: false,
+  },
   app: {
     head: {
       link: [

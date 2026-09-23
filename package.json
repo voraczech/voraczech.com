@@ -13,12 +13,14 @@
     "@nuxtjs/i18n": "^10.2.3",
     "@nuxtjs/seo": "^5.0.0",
     "@tailwindcss/vite": "^4.2.2",
+    "lightningcss": "^1.33.0",
     "nuxt": "^4.3.1",
+    "nuxt-og-image": "^6.7.8",
     "rehype-external-links": "^3.0.0",
     "remark-reading-time": "^2.0.1",
     "tailwindcss": "^4.2.2",
     "vue": "^3.5.28",
-    "vue-router": "^5.0.2"
+    "vue-router": "^4.6.4"
   },
   "devDependencies": {
     "@nuxt/content": "^3.11.2",
