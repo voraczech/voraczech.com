@@ -9,7 +9,6 @@ tags:
   - development
   - links
 ---
-
 UX, UI, web tests, images, icons, common issues, text checkers. List of dev links I had in my browser.
 
 ## UX

@@ -1,9 +1,9 @@
 ---
-title: "Soukromí online"
+title: 'Soukromí online'
 created_at: 2025-04-30
 image:
   src: /cctv.jpg
-  alt: "Bezpečnostní kamera"
+  alt: 'Bezpečnostní kamera'
 tags:
   - soukromí
   - links
@@ -31,6 +31,7 @@ Seznam odkazů o soukromí.
 - [Čo zohľadniť pri výbere VPNky?](https://michalkodnar.xyz/sk/blog/kultura-sk/co-zohladnit-pri-vybere-vpnky/)
 - [Ako sa pohrať s telefónnym číslom](https://michalkodnar.xyz/sk/blog/ako-sa-pohrat-s-telefonnym-cislom/)
 - [Sovereignty tips](https://hackinglives.com/en/blog/otyhdo7auvalsx7vkljuk97l/sovereignty-tips)
+- [OSINT zdroje](https://www.digitalni-sebeobrana.cz/OSINT_ZDROJE/)
 
 ## Plně nedoporučuji (zkreslené)
 
