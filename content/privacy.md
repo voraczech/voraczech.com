@@ -1,7 +1,7 @@
 ---
 title: "Privacy Online"
 created_at: 2025-04-30
-updated_at: 2026-07-23
+updated_at: 2026-10-04
 image:
   src: /cctv.jpg
   alt: "CCTV camera"
