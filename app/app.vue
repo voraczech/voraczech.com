@@ -20,8 +20,8 @@
                 @click="changeLocale(secondLang)"
               >
                 <transition name="slide" mode="out-in">
-                  <div :key="secondLang.code">
-                    {{ secondLang.code }}
+                  <div :key="secondLang">
+                    {{ secondLang }}
                   </div>
                 </transition>
               </button>
@@ -52,28 +52,22 @@
 </template>
 
 <script lang="ts" setup>
-import type { LocaleObject } from "@nuxtjs/i18n"
 import languageLinks from "~/assets/ts/languageLinks"
-const { setLocale, locales, locale } = useI18n()
+const { setLocale, locale } = useI18n()
 
 const localePath = useLocalePath()
 const aboutPath = computed(() =>
   locale.value === "cs" ? localePath("/o-mne") : localePath("/about"),
 )
 
-const secondLang = computed(() => {
-  return (
-    locales.value.find((_locale) => _locale.code !== locale.value) ||
-    locales.value[0]
-  )
-})
+const secondLang = computed(() => (locale.value === "cs" ? "en" : "cs"))
 
 const route = useRoute()
 const currentLanguageLink = computed(() => {
   return languageLinks.find((link) => link[locale.value] === route.path)
 })
 
-function changeLocale({ code }: LocaleObject) {
+function changeLocale(code: "cs" | "en") {
   const toGo = currentLanguageLink.value?.[code]
 
   setLocale(code)
