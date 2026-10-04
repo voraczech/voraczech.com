@@ -22,9 +22,11 @@ Seznam odkazů o soukromí.
 - [Surveillance Self-Defense](https://ssd.eff.org/module-categories/security-scenarios)
 - [Privacynex](https://privacynex.org/en/)
 - [Awesome Privacy](https://codeberg.org/alicia/awesome-privacy)
-
+### OSINT
+- [Delete 99.8% of your online presence from the internet](https://twiiit.com/malagojr/status/2091566909888057513)
+- [EmailOSINT](https://emailosint.org/)
+- [OSINT zdroje](https://www.digitalni-sebeobrana.cz/OSINT_ZDROJE/)
 ### Články
-
 - [Digital hygiene](https://karpathy.bearblog.dev/digital-hygiene/)
 - [OPSEC basics for your life](https://hackinglives.substack.com/p/opsec-basics-for-your-life)
 - [Basic privacy adjustments on laptop and phone for beginners](https://hackinglives.substack.com/p/basic-privacy-adjustments-on-laptop)
@@ -32,8 +34,9 @@ Seznam odkazů o soukromí.
 - [Čo zohľadniť pri výbere VPNky?](https://michalkodnar.xyz/sk/blog/kultura-sk/co-zohladnit-pri-vybere-vpnky/)
 - [Ako sa pohrať s telefónnym číslom](https://michalkodnar.xyz/sk/blog/ako-sa-pohrat-s-telefonnym-cislom/)
 - [Sovereignty tips](https://hackinglives.com/en/blog/otyhdo7auvalsx7vkljuk97l/sovereignty-tips)
-- [OSINT zdroje](https://www.digitalni-sebeobrana.cz/OSINT_ZDROJE/)
-
+- [How to Disappear From the Internet in 7 Days](twiiit.com/i/article/2068753586633240914)
+### Jiné
+- [Off Grid AI](https://getoffgridai.co/)
 ## Plně nedoporučuji (zkreslené)
 
 - [Best Privacy Tools & Software Guide in 2023](https://www.privacytools.io/)

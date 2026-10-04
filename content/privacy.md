@@ -23,8 +23,10 @@ List of privacy-focused links.
 - [Privacynex](https://privacynex.org/en/)
 - [Awesome Privacy](https://codeberg.org/alicia/awesome-privacy)
 
+### OSINT
+- [Delete 99.8% of your online presence from the internet](https://twiiit.com/malagojr/status/2091566909888057513)
+- [EmailOSINT](https://emailosint.org/)
 ### Articles
-
 - [Digital hygiene](https://karpathy.bearblog.dev/digital-hygiene/)
 - [OPSEC basics for your life](https://hackinglives.substack.com/p/opsec-basics-for-your-life)
 - [Basic privacy adjustments on laptop and phone for beginners](https://hackinglives.substack.com/p/basic-privacy-adjustments-on-laptop)
@@ -32,7 +34,8 @@ List of privacy-focused links.
 - [Choosing a VPN](https://michalkodnar.xyz/blog-en/culture-en/what-should-i-consider-when-choosing-a-vpn/)
 - [How to play with the phone number](https://michalkodnar.xyz/blog-en/culture-en/how-to-play-with-the-phone-number/)
 - [Sovereignty tips](https://hackinglives.com/en/blog/otyhdo7auvalsx7vkljuk97l/sovereignty-tips)
-
+- [How to Disappear From the Internet in 7 Days](twiiit.com/i/article/2068753586633240914)
+### Other
+- [Off Grid AI](https://getoffgridai.co/)
 ## Not recommended (biased)
-
 - [Best Privacy Tools & Software Guide in 2023](https://www.privacytools.io/)
