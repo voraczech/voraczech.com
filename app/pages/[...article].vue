@@ -1,5 +1,5 @@
 <template>
-  <article class="prose prose-v" v-if="doc">
+  <article v-if="doc" class="prose prose-v">
     <h1
       class="text-2xl font-bold font-serif mb-0 text-v-900 tracking-tight"
       :style="{
@@ -9,7 +9,7 @@
       {{ doc.title }}
     </h1>
     <div class="text-v-700 text-sm mt-1">
-      <time :datetime="doc.created_at" v-if="doc.created_at">
+      <time v-if="doc.created_at" :datetime="doc.created_at">
         {{ getReadableDate(doc.created_at) }}
       </time>
       &#x2022;
@@ -17,7 +17,7 @@
         getReadableTimeRead(doc.meta?.readingTime?.minutes || 1)
       }}</span>
 
-      <span :datatype="doc.updated_at" v-if="doc.updated_at">
+      <span v-if="doc.updated_at" :datatype="doc.updated_at">
         &#x2022;
         <time class="text-v-700 text-sm m-0" :datetime="doc.updated_at">
           {{ $t("article:updated") }}: {{ getReadableDate(doc.updated_at) }}
@@ -28,9 +28,10 @@
       v-if="doc.image"
       :src="doc.image.src"
       :alt="doc.image.alt"
-      width="100%"
+      width="740"
+      height="416"
       sizes="320px sm:450px md:512px lg:740px"
-      class="rounded-md mx-auto"
+      class="aspect-video w-full rounded-md object-cover mx-auto"
       :style="{
         'view-transition-name': `${getArticleId(doc.path)}-img`,
       }"
@@ -58,58 +59,52 @@ const { data: doc } = await useAsyncData(route.path, async () => {
 const config = useRuntimeConfig()
 const url = config.public.baseUrl
 const postLink = url + doc.value?.path
+const { image: latestImage, imageAlt: latestImageAlt } =
+  await useLatestContentImage()
+const articleImage = doc.value?.image?.src
+  ? new URL(doc.value.image.src, url).toString()
+  : latestImage.value
+    ? new URL(latestImage.value, url).toString()
+    : undefined
+const articleImageAlt =
+  doc.value?.image?.alt || latestImageAlt.value || doc.value?.title
 
-useHead({
+useSeoMeta({
   title: doc.value?.title,
-  meta: [
-    { key: "og:title", name: "og:title", content: doc.value?.title },
-    {
-      key: "og:description",
-      name: "og:description",
-      content: doc.value?.description,
-    },
-    {
-      key: "description",
-      name: "description",
-      content: doc.value?.description,
-    },
-    { key: "og:type", name: "og:type", content: "article" },
-    {
-      key: "og:url",
-      name: "og:url",
-      content: postLink,
-    },
-    { name: "twitter:text:title", content: doc.value?.title },
-    { name: "twitter:card", content: "summary" },
-    {
-      name: "article:article:tag",
-      content: doc.value?.meta?.tags ? doc.value.meta.tags?.toString() : "",
-    },
-    {
-      property: "og:image",
-      name: "image",
-      content: url + "/_ipx/w_512" + doc.value?.image?.src,
-    },
-    { name: "og:image:alt", content: doc.value?.title },
-    {
-      name: "twitter:image",
-      content: url + doc.value?.image?.src,
-    },
-    {
-      name: "twitter:image:alt",
-      content: url + doc.value?.image?.alt,
-    },
-    {
-      name: "author",
-      content: "voraczech",
-    },
-    { name: "article:published_time", content: doc.value?.created_at },
-  ],
-  link: [
-    {
-      rel: "canonical",
-      href: postLink,
-    },
-  ],
+  description: doc.value?.description,
+  author: "Jakub Voráček",
+  ogTitle: doc.value?.title,
+  ogDescription: doc.value?.description,
+  ogType: "article",
+  ogUrl: postLink,
+  ogImage: articleImage,
+  ogImageAlt: articleImageAlt,
+  twitterTitle: doc.value?.title,
+  twitterDescription: doc.value?.description,
+  twitterCard: "summary_large_image",
+  twitterImage: articleImage,
+  twitterImageAlt: articleImageAlt,
+  articlePublishedTime: doc.value?.created_at,
+  articleModifiedTime: doc.value?.updated_at,
+  articleTag: doc.value?.meta?.tags,
 })
+
+useHead({ link: [{ rel: "canonical", href: postLink }] })
+
+useSchemaOrg([
+  defineArticle({
+    headline: doc.value?.title,
+    description: doc.value?.description,
+    image: articleImage,
+    datePublished: doc.value?.created_at,
+    dateModified: doc.value?.updated_at || doc.value?.created_at,
+    author: { "@id": `${url}/#identity` },
+  }),
+  defineBreadcrumb({
+    itemListElement: [
+      { name: locale.value === "cs" ? "Domů" : "Home", item: `${url}${locale.value === "cs" ? "/cs" : "/"}` },
+      { name: doc.value?.title || "Article", item: postLink },
+    ],
+  }),
+])
 </script>

@@ -19,7 +19,13 @@ export default defineNuxtConfig({
   css: ['~/assets/css/main.css'],
 
   // seo must be before content
-  modules: ['@nuxt/image', '@nuxtjs/i18n', '@nuxtjs/seo', '@nuxt/content'],
+  modules: [
+    '@nuxt/image',
+    '@nuxtjs/i18n',
+    '@nuxtjs/seo',
+    '@nuxt/content',
+    '@nuxt/eslint',
+  ],
 
   content: {
     build: {
@@ -64,6 +70,21 @@ export default defineNuxtConfig({
   site: {
     url: 'https://voraczech.com',
     name: 'voraczech;',
+    description:
+      'Personal notes about travel, technology, privacy and practical ideas.',
+  },
+  schemaOrg: {
+    identity: {
+      type: 'Person',
+      name: 'Jakub Voráček',
+      alternateName: 'voraczech',
+      url: 'https://voraczech.com/about',
+      sameAs: [
+        'https://www.linkedin.com/in/jakubvoracek/',
+        'https://www.goodreads.com/voraczech',
+        'https://github.com/voraczech',
+      ],
+    },
   },
   // Articles provide their own Open Graph images via useHead().
   ogImage: {
@@ -71,6 +92,10 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
+      meta: [
+        { name: 'theme-color', content: '#faf8f6' },
+        { name: 'author', content: 'Jakub Voráček' },
+      ],
       link: [
         { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
         {

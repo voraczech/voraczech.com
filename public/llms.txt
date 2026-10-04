@@ -1,0 +1,17 @@
+# voraczech
+
+> Personal notes about travel, technology, privacy and practical ideas, published in English and Czech.
+
+Canonical site: https://voraczech.com
+Author: voraczech
+Languages: English (default), Czech (/cs/)
+
+## Main sections
+
+- Homepage and English articles: https://voraczech.com/
+- Czech articles: https://voraczech.com/cs
+- About the author: https://voraczech.com/about
+- Czech author page: https://voraczech.com/cs/o-mne
+- Sitemap: https://voraczech.com/sitemap.xml
+
+Article pages contain the primary content. Titles, descriptions, publication dates, update dates and author information are also provided as structured data.

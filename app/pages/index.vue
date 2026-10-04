@@ -1,6 +1,17 @@
 <template>
   <main>
-    <div class="flex flex-col gap-8" v-if="data">
+    <section class="mb-10" aria-labelledby="page-title">
+      <h1
+        id="page-title"
+        class="font-serif text-2xl font-bold tracking-tight text-v-900"
+      >
+        {{ $t("home:title") }}
+      </h1>
+      <p class="mt-2 text-sm text-v-800">
+        {{ $t("home:intro") }}
+      </p>
+    </section>
+    <div v-if="data" class="flex flex-col gap-8">
       <NuxtLink
         v-for="article in data"
         :key="article.path"
@@ -11,8 +22,10 @@
           v-if="article.image"
           :src="article.image.src"
           :alt="article.image.alt"
+          width="208"
+          height="117"
           sizes="80px sm:260px"
-          class="sm:object-cover sm:aspect-video max-w-20 sm:max-w-52"
+          class="aspect-video w-20 shrink-0 object-cover sm:w-52"
           densities="x1 x2"
           :style="{
             'view-transition-name': `${getArticleId(article.path)}-img`,
@@ -53,13 +66,13 @@
 </template>
 
 <script setup lang="ts">
-const { locale } = useI18n()
 import {
   getArticleId,
   getReadableDate,
   getReadableTimeRead,
 } from "~/assets/ts/functions"
 
+const { locale, t } = useI18n()
 const route = useRoute()
 const { data } = await useAsyncData(route.path, () => {
   return queryCollection(`content_${locale.value}`)
@@ -67,4 +80,38 @@ const { data } = await useAsyncData(route.path, () => {
     .order("created_at", "DESC") // needs snake_case https://github.com/nuxt/content/issues/3088#issuecomment-2634542883
     .all()
 })
+
+const seo = computed(() =>
+  locale.value === "cs"
+    ? {
+        title: "Cestování, technologie a praktické poznámky",
+        description:
+          "Osobní poznámky o cestování, technologiích, soukromí a praktických nápadech v češtině i angličtině.",
+      }
+    : {
+        title: "Travel, technology and practical notes",
+        description:
+          "Personal notes about travel, technology, privacy and practical ideas, written in English and Czech.",
+      },
+)
+
+const pagePath = locale.value === "cs" ? "/cs" : "/"
+const latestArticleWithImage = data.value?.find((article) => article.image?.src)
+const { canonicalUrl } = usePageSeo({
+  title: seo.value.title,
+  description: seo.value.description,
+  path: pagePath,
+  image: latestArticleWithImage?.image?.src,
+  imageAlt: latestArticleWithImage?.image?.alt || t("home:ogImageAlt"),
+})
+
+useSchemaOrg([
+  defineWebPage({
+    name: seo.value.title,
+    description: seo.value.description,
+  }),
+  defineBreadcrumb({
+    itemListElement: [{ name: t("breadcrumb:home"), item: canonicalUrl }],
+  }),
+])
 </script>

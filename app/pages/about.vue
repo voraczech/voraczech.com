@@ -1,5 +1,6 @@
 <template>
-  <div class="prose prose-v">
+  <main class="prose prose-v">
+    <h1>About me</h1>
     <p>
       Hello, you can contact me via
       <span>jakub&#64;voraczech.com</span>. Follow me on
@@ -22,7 +23,7 @@
       parts.
     </p>
     <p>Thanks, bye.</p>
-    <hr />
+    <hr >
     <ul>
       <li>
         <NuxtLink to="https://youtu.be/bJQj1uKtnus" target="_blank"
@@ -42,5 +43,29 @@
         >.
       </li>
     </ul>
-  </div>
+  </main>
 </template>
+
+<script setup lang="ts">
+const title = "About me, contact and notes from voraczech"
+const description =
+  "Contact details and a few words about voraczech, a personal collection of practical notes on travel, technology and privacy."
+const { image, imageAlt } = await useLatestContentImage()
+const { canonicalUrl } = usePageSeo({
+  title,
+  description,
+  path: "/about",
+  image: image.value,
+  imageAlt: imageAlt.value,
+})
+
+useSchemaOrg([
+  defineWebPage({ name: title, description }),
+  defineBreadcrumb({
+    itemListElement: [
+      { name: "Home", item: "https://voraczech.com/" },
+      { name: "About", item: canonicalUrl },
+    ],
+  }),
+])
+</script>

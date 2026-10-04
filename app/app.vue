@@ -12,17 +12,12 @@
             class="flex flex-wrap gap-4 text-sm lowercase items-baseline justify-end"
           >
             <li>
-              <NuxtLink to="/about" v-if="locale === 'en'">{{
-                $t("menu:about")
-              }}</NuxtLink>
-              <NuxtLink to="/cs/o-mne" v-else-if="locale === 'cs'">{{
-                $t("menu:about")
-              }}</NuxtLink>
+              <NuxtLink :to="aboutPath">{{ $t("menu:about") }}</NuxtLink>
             </li>
             <li>
               <button
-                @click="changeLocale(secondLang)"
                 class="bg-v-600 text-v-50 rounded-sm px-2 py-1 w-9 transition-all cursor-pointer"
+                @click="changeLocale(secondLang)"
               >
                 <transition name="slide" mode="out-in">
                   <div :key="secondLang.code">
@@ -35,6 +30,23 @@
         </nav>
       </header>
       <NuxtPage />
+      <footer
+        class="mt-12 border-t border-v-300 pt-6 text-sm text-v-700 flex flex-wrap justify-between gap-3"
+      >
+        <span>&copy; {{ new Date().getFullYear() }} voraczech;</span>
+        <span class="flex gap-4">
+          <NuxtLink :to="locale === 'cs' ? '/cs/o-mne' : '/about'">
+            {{ $t("footer:contact") }}
+          </NuxtLink>
+          <NuxtLink
+            to="https://github.com/voraczech/voraczech.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {{ $t("footer:source") }}
+          </NuxtLink>
+        </span>
+      </footer>
     </div>
   </div>
 </template>
@@ -45,6 +57,9 @@ import languageLinks from "~/assets/ts/languageLinks"
 const { setLocale, locales, locale } = useI18n()
 
 const localePath = useLocalePath()
+const aboutPath = computed(() =>
+  locale.value === "cs" ? localePath("/o-mne") : localePath("/about"),
+)
 
 const secondLang = computed(() => {
   return (
@@ -83,28 +98,18 @@ const getAlternateLinks = computed(() => {
 })
 
 useHead({
-  meta: [{ name: "viewport", content: "width=device-width, initial-scale=1" }],
   link: [...getAlternateLinks.value],
   htmlAttrs: {
     lang: locale.value,
     dir: "ltr",
   },
-  title: "",
 })
 
 useSeoMeta({
   ogSiteName: "voraczech",
-  ogType: "website",
   twitterCard: "summary_large_image",
 })
 
-const { data, refresh } = await useAsyncData("navigation", () => {
-  return queryCollectionNavigation(`content_${locale.value}`)
-})
-
-watch(locale, async () => {
-  await refresh()
-})
 </script>
 
 <style>

@@ -1,11 +1,11 @@
-<script setup>
-defineProps({
-  src: String,
-  alt: String,
-  loading: {
-    type: String,
-    default: "lazy",
-  },
+<script setup lang="ts">
+withDefaults(defineProps<{
+  src: string
+  alt?: string
+  loading?: "eager" | "lazy"
+}>(), {
+  alt: "",
+  loading: "lazy",
 })
 </script>
 
@@ -15,8 +15,9 @@ defineProps({
       :src="src"
       :alt="alt"
       :loading="loading"
-      class="rounded-md mt-6"
-      width="100%"
+      class="aspect-video w-full rounded-md object-cover mt-6"
+      width="740"
+      height="416"
       sizes="320px sm:450px md:512px lg:740px"
     />
     <figcaption v-if="alt">{{ alt }}</figcaption>
