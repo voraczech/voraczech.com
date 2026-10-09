@@ -1,6 +1,5 @@
 <template>
   <main class="prose prose-v">
-    <h1>O mně</h1>
     <p>
       Zdravím, můžete mě kontaktovat na
       <span>jakub&#64;voraczech.com</span>. Sledujte mě na
