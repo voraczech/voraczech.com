@@ -24,14 +24,11 @@
         </time>
       </span>
     </div>
-    <NuxtImg
-      v-if="doc.image"
-      :src="doc.image.src"
-      :alt="doc.image.alt"
-      width="740"
-      height="416"
-      sizes="320px sm:450px md:512px lg:740px"
-      class="aspect-video w-full rounded-md object-cover mx-auto"
+    <ArticleImage
+      v-if="doc.image?.src || doc.image?.emoji"
+      :image="doc.image"
+      :title="doc.title"
+      class="w-full rounded-md mx-auto my-8"
       :style="{
         'view-transition-name': `${getArticleId(doc.path)}-img`,
       }"
@@ -67,7 +64,7 @@ const articleImage = doc.value?.image?.src
     ? new URL(latestImage.value, url).toString()
     : undefined
 const articleImageAlt =
-  doc.value?.image?.alt || latestImageAlt.value || doc.value?.title
+  (doc.value?.image?.src ? doc.value.image.alt : latestImageAlt.value) || doc.value?.title
 
 useSeoMeta({
   title: doc.value?.title,

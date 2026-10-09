@@ -4,9 +4,10 @@ const commonSchema = z.object({
   created_at: z.string(),
   updated_at: z.string(),
   image: z.object({
-    src: z.string(),
-    alt: z.string(),
-  }),
+    src: z.string().optional(),
+    emoji: z.string().optional(),
+    alt: z.string().optional(),
+  }).optional(),
   meta: z.object({
     readingTime: z.object({
       text: z.string(),

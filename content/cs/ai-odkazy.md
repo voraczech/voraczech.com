@@ -11,7 +11,6 @@ tags:
   - ai
   - umělá inteligence
 ---
-
 Seznam AI zdrojů - jak porovnávat, co používat, kde se vzdělávat a jiné.
 
 ## Benchmarking

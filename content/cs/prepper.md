@@ -12,7 +12,6 @@ tags:
   - inspirace
   - klid
 ---
-
 Pro ty, co chtějí žít normálně i v nenormálních časech. Nebo jen normálně chtějí vypadat.
 
 - [Opcionality (možnosti)](#opcionality-možnosti)

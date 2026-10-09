@@ -18,15 +18,12 @@
         :to="article.path"
         class="text-decoration-none flex flex-row-reverse sm:flex-row gap-4 sm:gap-6 items-start"
       >
-        <NuxtImg
-          v-if="article.image"
-          :src="article.image.src"
-          :alt="article.image.alt"
-          width="208"
-          height="117"
-          sizes="80px sm:260px"
-          class="aspect-video w-20 shrink-0 object-cover sm:w-52"
-          densities="x1 x2"
+        <ArticleImage
+          v-if="article.image?.src || article.image?.emoji"
+          :image="article.image"
+          :title="article.title"
+          compact
+          class="w-20 shrink-0 sm:w-52"
           :style="{
             'view-transition-name': `${getArticleId(article.path)}-img`,
           }"
