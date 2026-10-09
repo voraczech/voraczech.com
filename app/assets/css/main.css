@@ -31,6 +31,20 @@ html {
   font-size: 20px;
 }
 
+/* Snapshots must not intercept input while the new page is animating. */
+::view-transition,
+::view-transition-group(*),
+::view-transition-image-pair(*),
+::view-transition-old(*),
+::view-transition-new(*) {
+  pointer-events: none;
+}
+
+::view-transition-group(*) {
+  animation-duration: 280ms;
+  animation-timing-function: ease-out;
+}
+
 img {
   @apply rounded-sm;
 }

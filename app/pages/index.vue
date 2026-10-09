@@ -1,16 +1,6 @@
 <template>
   <main>
-    <section class="mb-10" aria-labelledby="page-title">
-      <h1
-        id="page-title"
-        class="font-serif text-2xl font-bold tracking-tight text-v-900"
-      >
-        {{ $t("home:title") }}
-      </h1>
-      <p class="mt-2 text-sm text-v-800">
-        {{ $t("home:intro") }}
-      </p>
-    </section>
+    <h1 class="sr-only">{{ $t("home:title") }}</h1>
     <div v-if="data" class="flex flex-col gap-8">
       <NuxtLink
         v-for="article in data"

@@ -8,9 +8,7 @@ export default defineI18nConfig(() => ({
       "content:none": "No articles found.",
       "article:timeRead": "min read",
       "article:updated": "Updated",
-      "home:title": "Travel, technology and practical notes",
-      "home:intro":
-        "Personal notes and curated resources on places, software, privacy and everyday decisions.",
+      "home:title": "Articles",
       "home:ogImageAlt": "A calm lake and forest landscape",
       "breadcrumb:home": "Home",
       "footer:contact": "Contact and about",
@@ -22,9 +20,7 @@ export default defineI18nConfig(() => ({
       "content:none": "Žádné články nebyly nalezeny.",
       "article:timeRead": "minut čtení",
       "article:updated": "Aktualizováno",
-      "home:title": "Cestování, technologie a praktické poznámky",
-      "home:intro":
-        "Osobní poznámky a vybrané zdroje o místech, softwaru, soukromí a každodenním rozhodování.",
+      "home:title": "Články",
       "home:ogImageAlt": "Klidné jezero a lesní krajina",
       "breadcrumb:home": "Domů",
       "footer:contact": "Kontakt a o mně",

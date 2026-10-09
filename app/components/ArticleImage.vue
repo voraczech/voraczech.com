@@ -43,7 +43,7 @@ withDefaults(defineProps<{
   justify-content: center;
   aspect-ratio: 16 / 9;
   font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
-  font-size: min(26cqw, 8rem);
+  font-size: min(40cqw, 12rem);
   line-height: 1;
 }
 </style>
