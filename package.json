@@ -10,7 +10,7 @@
     "lint:fix": "eslint . --fix",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "typecheck": "nuxt typecheck"
+    "typecheck": "nuxt prepare && tsc --noEmit && vue-tsc --noEmit"
   },
   "dependencies": {
     "@nuxtjs/i18n": "^10.2.3",
@@ -30,9 +30,10 @@
     "@nuxt/eslint": "^1.17.0",
     "@nuxt/image": "^2.0.0",
     "@tailwindcss/typography": "^0.5.19",
+    "@typescript/native": "npm:typescript@^7.0.2",
     "better-sqlite3": "^12.6.2",
     "eslint": "^10.12.0",
-    "typescript": "^7.0.2",
+    "typescript": "npm:@typescript/typescript6@^6.0.2",
     "vue-tsc": "^3.3.12"
   }
 }

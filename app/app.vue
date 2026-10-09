@@ -12,9 +12,6 @@
             class="flex flex-wrap gap-4 text-sm lowercase items-baseline justify-end"
           >
             <li>
-              <NuxtLink :to="aboutPath">{{ $t("menu:about") }}</NuxtLink>
-            </li>
-            <li>
               <button
                 class="bg-v-600 text-v-50 rounded-sm px-2 py-1 w-9 transition-all cursor-pointer"
                 @click="changeLocale(secondLang)"
@@ -56,9 +53,6 @@ import languageLinks from "~/assets/ts/languageLinks"
 const { setLocale, locale } = useI18n()
 
 const localePath = useLocalePath()
-const aboutPath = computed(() =>
-  locale.value === "cs" ? localePath("/o-mne") : localePath("/about"),
-)
 
 const secondLang = computed(() => (locale.value === "cs" ? "en" : "cs"))
 
