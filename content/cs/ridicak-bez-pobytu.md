@@ -1,6 +1,7 @@
 ---
 title: 'Obnovení řidičáku bez trvalého pobytu?'
 created_at: 2026-10-09
+updated_at: 2026-10-09
 image:
   emoji: 🪪
   alt: Řidičský průkaz

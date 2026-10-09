@@ -1,7 +1,7 @@
 ---
 title: Conspiracy vaccination - a handy toolkit
 created_at: 2026-09-23
-updated_at: 2026-09-23
+updated_at: 2026-10-09
 tags:
   - thinking
 image:
