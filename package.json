@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@nuxtjs/i18n": "^10.2.3",
-    "@nuxtjs/seo": "^5.0.0",
+    "@nuxtjs/seo": "^6.0.0",
     "@tailwindcss/vite": "^4.2.2",
     "lightningcss": "^1.33.0",
     "nuxt": "^4.3.1",
