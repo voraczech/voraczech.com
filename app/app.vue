@@ -67,7 +67,7 @@ const getAlternateLinks = computed(() => {
 
   return Object.entries(currentLanguageLink.value).map(([code, path]) => {
     return {
-      rel: "alternate",
+      rel: "alternate" as const,
       hreflang: code,
       href: `${config.public.baseUrl}${path}`,
     }
