@@ -14,15 +14,15 @@
   },
   "dependencies": {
     "@nuxtjs/i18n": "^10.2.3",
-    "@nuxtjs/seo": "^5.0.0",
+    "@nuxtjs/seo": "^6.0.0",
     "@tailwindcss/vite": "^4.2.2",
     "lightningcss": "^1.33.0",
-    "nuxt": "^4.3.1",
+    "nuxt": "^4.6.3",
     "nuxt-og-image": "^7.0.0",
     "rehype-external-links": "^3.0.0",
     "remark-reading-time": "^2.0.1",
     "tailwindcss": "^4.2.2",
-    "vue": "^3.5.28",
+    "vue": "^3.5.44",
     "vue-router": "^5.0.3"
   },
   "devDependencies": {
